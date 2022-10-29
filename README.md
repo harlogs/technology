@@ -1,2 +1,0 @@
-# technology
-lets test technology
