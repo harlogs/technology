@@ -1,0 +1,121 @@
+---
+title: Solana Block Production Stalls for Hours, SOL Holders Unable to Transact, Validators Deploy a Fix
+author: willmeet22
+type: post
+date: 2021-09-14T19:00:48+00:00
+url: /solana-block-production-stalls-for-hours-sol-holders-unable-to-transact-validators-deploy-a-fix/
+image: "/img/posts/2021/09/shutterstock_1935027701-240x172.jpg"
+response_body:
+  - '{"id":"13a95bb8-4d47-4d13-9827-d1e2c0c15fc8","recipients":1011,"external_id":"e5530c50-9684-de91-b483-3b17f2999dbf","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 1011
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-14T19:00:49+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/solana-block-production-stalls-for-hours-sol-holders-unable-to-transact-validators-deploy-a-fix/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/shutterstock_1935027701.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Solana Block Production Stalls for Hours, SOL Holders Unable to Transact, Validators Deploy a Fix" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>According to reports on social media, crypto forums, onchain metrics, and the Solana Status Twitter account indicate that Solana’s blockchain has stalled. Solana mainnet-beta suffered a four-hour downtime and is still down after a technical glitch.</strong>
+  </p>
+  
+  <h2>
+    Solana’s Network Stalls
+  </h2>
+  
+  <p>
+    In recent times, solana (SOL) joined the top ten crypto assets by market valuation and today, SOL’s market cap position is the seventh-largest. At the time of writing, SOL has been exchanging hands for $159 per unit and is down 2.8% during the last week.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      @phantom I&#8217;m locked out of my Solana. It says &#8220;unable to connect to Solana&#8221; and no help anywhere on your website that makes sense to someone that doesn&#8217;t know advanced coding. I shouldn&#8217;t need to reconfigure my computer to access my Solana
+    </p>
+    
+    <p>
+      — MattyG (@Mattygxrp) September 14, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    On September 14, the protocol suffered an error and at the time of writing, the chain stopped for a total of four hours so far, as the outage is still ongoing. On Tuesday, the Twitter account Lido Finance tweeted:
+  </p>
+  
+  <blockquote>
+    <p>
+      A tx overload has caused an OOM error in most Solana nodes, including validation nodes. The network is stalled, engineers in the team and the node operator community are working towards a resolution. Validators are preparing for a potential restart if necessary.
+    </p>
+  </blockquote>
+  
+  <p>
+    Lido Finance also told its Twitter followers to follow the ‘Solana Status’ Twitter account for more information. “Solana mainnet-beta is experiencing intermittent instability,” the Solana Status account detailed in a pinned Tweet. “This began approximately 45 minutes ago, and engineers are investigating the issue.”
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Estimates Say Solana Block Production Could Take a While
+  </h2>
+  
+  <p>
+    Some have said that the fix could take anywhere between 24 hours to 48 hours to fix the issues. “With transactions being filtered out, and failing commits, and validators need to upgrade and deploy… Will take about 24-48 hrs to fix,” the Twitter account called ‘bruce.codes’ explained.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      The last block on Solana was produced almost 40 minutes ago. Not fantastic pic.twitter.com/yLXjYdSx9L
+    </p>
+    
+    <p>
+      — Larry Cermak (@lawmaster) September 14, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    In another tweet, ‘bruce.codes’ wrote that a “Solana fix [is] being deployed in v1.6.23.” The Solana Status Twitter account also added to the account’s initial outage tweet and said:
+  </p>
+  
+  <blockquote>
+    <p>
+      Resource exhaustion in the network is causing a denial of service, engineers are working towards a resolution. Validators are preparing for a potential restart if necessary.
+    </p>
+  </blockquote>
+  
+  <p>
+    Solana now joins the list of networks that have stalled by failing to produce blocks. For instance, back in February 2020, the IOTA blockchain was down for more than 11 days. The EOS blockchain has had issues with block production as well. Cardano has had issues with block production in the past and Solana had problems with block production in December 2020.
+  </p>
+  
+  <p>
+    Furthermore, while Solana managed to knock XRP down a notch in recent times, XRP has once again managed to regain the sixth-largest market capitalization worldwide. At the time of writing, XRP is a touch over $3 billion ahead of solana’s (SOL) overall valuation.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the problems the Solana blockchain has been facing on Tuesday? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

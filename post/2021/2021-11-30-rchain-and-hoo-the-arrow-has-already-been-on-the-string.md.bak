@@ -1,0 +1,178 @@
+---
+title: 'RChain and Hoo: The Arrow Has Already Been on the String'
+author: willmeet22
+type: post
+date: 2021-11-30T15:05:03+00:00
+url: /rchain-and-hoo-the-arrow-has-already-been-on-the-string/
+image: "/img/posts/2021/11/unnamed-9-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-30T15:05:03+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/rchain-and-hoo-the-arrow-has-already-been-on-the-string/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="391" src="https://technologymanias.com/wp-content/uploads/2021/11/unnamed-9.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    On November 27th, 2021, RChain‘s founder Greg Meredith and blockchain scientist Atticbee were invited as guests to an AMA hosted by the Hoo Exchange. Hoo is a Dubai based innovation driven crypto exchange and has their in-house developed public chain, HSC, built for the global cryptocurrency market. In this session, Greg Meredith and Atticbee shared the latest developments in RChain and remarkable ideas about the future of the blockchain and metaverse.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="alignnone size-full wp-image-497335" title="RChain and Hoo: The Arrow Has Already Been on the String" src="https://technologymanias.com/wp-content/uploads/2021/11/1-1.jpg" alt="RChain and Hoo: The Arrow Has Already Been on the String" width="1600" height="1131" />
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="alignnone size-full wp-image-497336" title="RChain and Hoo: The Arrow Has Already Been on the String" src="https://technologymanias.com/wp-content/uploads/2021/11/2-1.jpg" alt="RChain and Hoo: The Arrow Has Already Been on the String" width="1600" height="1131" />
+  </p>
+  
+  <p>
+    <strong>Built as A Coordination Technology, Instead of Payment Platform</strong>
+  </p>
+  
+  <p>
+    According to Greg, RChain focuses on blockchain as a coordination technology to provide a means for global coordination as conditions get more and more severe due to climate change. RChain is designed as a scalable global computer and storage mechanism, rather than a payments system. It is impossible to build a general purpose computer out of a cash register, while to build a cash register out of a general purpose computer is like a walk in the park.
+  </p>
+  
+  <p>
+    This is the first blockchain that scales linearly. This means that as you add nodes/hardware it gets faster, not slower. The current test data shows that the testnet gets roughly 1,000 tps per node per CPU. So a network of 10 nodes with 10 CPUs each gets 10,000 tps. 20 nodes with 20 CPUs each gets 20,000 tps, etc. Data can be realistically stored, updated, and searched on-chain.
+  </p>
+  
+  <p>
+    RChain’s smart contract language Rholang, is a concurrent transactional query language, reconciling the best of SQL and NoSQL. It means one can write sophisticated queries to search stored data, which distinguishes itself from systems like IPFS. Smart contracts can be statically checked for concurrency and security errors. So, errors like what caused the DAO bug will be caught at compile time not in deployment. Imagine what would have happened to Ethereum if they had been running at 40K tps when the DAO bug was exploited.
+  </p>
+  
+  <p>
+    <strong>Synergy Between Metaverse and RChain</strong>
+  </p>
+  
+  <p>
+    In the AMA Greg explained his long involvement in the metaverse area. He worked directly with the pioneers of VR/AR, was hired at the research lab where Kim Fairchild did SemNet, by Kim Fairchild himself. He also was the one who suggested to Alan Wexelblat the title Software.
+  </p>
+  
+  <p>
+    However Greg expressed his concerns about our real world. Yes, the metaverse is hot, but planet Earth is even hotter. In fact, in as little as a decade we are likely to see more than 1.5C temperature rise making the tropical zone uninhabitable, with wet bulb conditions — where the humidity and temperature are so high your sweat cannot cool you off — making it so that people will not even know that they are dying of heat exposure. Unfortunately, about 40% of the world’s population lives in the tropical zone. So, in as little as 10 years, 2.8B people are going to become climate migrants. Unfortunately, those 2.8B people will not be able to move into the metaverse. It won’t be any cooler for the servers running the simulations.
+  </p>
+  
+  <p>
+    Atticbee later commented that this question needs to be answered: what is the role of blockchain in the metaverse? If metaverse only uses blockchain to trade game props, virtual real estates etc as NFTs, then the current technology may be good enough, at least if the transaction volume is low. However if Metaverse tries to simulate the real world, and uses blockchain as the trustable computing layer, RChain’s computing model is much closer to how the real universe works than the state machine used by virtually all other projects. As Greg Meredith said before, evolution has already picked out the best concurrent computing model, and the sequential Turing machine is never the chosen one.
+  </p>
+  
+  <p>
+    Also the underlying blockchain technology and the upper layer metaverse will mutually stimulate and evolve. Just like in history – when we only had steam engines, we could only build trains and ships. After we created the combustion engine, we could do cars, airplanes etc. Every tech breakthrough will open new doors for tomorrow’s world. With RChain’s concurrent computing, seamless sharding and on-chain storage, Metaverse will be reshaped by RChain’s breakthrough technology.
+  </p>
+  
+  <p>
+    <strong>Click to Play VS Click to Pay</strong>
+  </p>
+  
+  <p>
+    When asked about RChain’s plan for ecosystem development, Greg answered that RChain focuses on a transaction volume driven route.RChain is looking at applications, such as self-sovereign data, online advertising and sponsorship, and social networks that generate large transaction volumes. The economic argument is simple. Currently, proof-of-work miners are making millions per day. What would make them want to switch proof of stake validators? If you lower transaction costs, you are just going to cut into their profits. If you cut transaction costs by a factor of 100, but raise transaction volume by a factor of 1,000, then they stand to make 10X, and at a fraction of their power consumption. Now, you have a real argument for them to move to proof-of-stake.
+  </p>
+  
+  <p>
+    Once you understand that transaction volume is where the action is, then you just have to look at the Internet. How many times do you click to pay versus click to “Play”? That is, how many times do you click to post on Instagram or Twitter or WeChat versus to pay a bill or a vendor? How many times do you click to stream on YouTube or Spotify versus to pay someone with PayPal, Venmo or WeChat? It’s hundreds (if not thousands) to one. <b><i>All the transaction volume is in click to “Play”.</i></b>
+  </p>
+  
+  <p>
+    And wherever you play, there are ads. In fact, online advertising is the largest economy in the world. It’s bigger than oil. So, RChain wants to help people make lots and lots of decentralized clicks to play DApps: social networks, streaming services, logistics services, data services, etc. And it wants to stream sponsored content through those decentralized services, but do so in a way that it eliminates surveillance capitalism. It also wants people to have a say as to whether their data is sold and if it is sold and get a cut of the profits.
+  </p>
+  
+  <p>
+    <strong>Migration From Other Public Chains’ Ecosystems to RChain</strong>
+  </p>
+  
+  <p>
+    RChain’s sharding solution allows other chains to be mounted as shards. This means that smart contracts can be written as if other chains were just RChain resources. In this case, for the RChain side, there is a very easy migration.
+  </p>
+  
+  <p>
+    The biggest stumbling block to migration is the mismatch in the computational model. RChain operates concurrently while most other blockchains operate sequentially. This means other chains cannot handle RChain’s execution demands. RChain execution requests to other chains will queue up and queue up as they process them one at a time.
+  </p>
+  
+  <p>
+    Of course, going the other way is simple, but it means that RChain has to slow down to match the sequential semantics of the other chains.
+  </p>
+  
+  <p>
+    <strong>Toward a Leaderless Global Computer</strong>
+  </p>
+  
+  <p>
+    RChain has been in mainnet for just under 2 years. Last year it released a major feature: the last finalized state, which means that new validators can synchronize to the chain without having to go all the way back to the genesis block. This year it is releasing a major performance improvement called block merge, that gives the linear scaling. It’s the culmination of Greg’s research of architecture and mathematics in the last 30 years, some of the work can go back to Microsoft’s BizTalk Process Orchestration that Greg worked on 20 years ago.
+  </p>
+  
+  <p>
+    As Atticbee explained, there exists the following relationships btw “traditional computer” and the blockchain “global computer”:
+  </p>
+  
+  <ul>
+    <li aria-level="1">
+      Traditional Computer : Blockchain computer.
+    </li>
+    <li aria-level="1">
+      Multithreading : concurrency of block merge.
+    </li>
+    <li aria-level="1">
+      Multiprocess : sharding (composability).
+    </li>
+    <li aria-level="1">
+      Firewall : on-chain formal verification (behavior type system).
+    </li>
+  </ul>
+  
+  <p>
+    All these 3 parts are necessary for a truly useful global computer. And the computational layer should be carefully chosen so that all these parts can be supported, it means the chosen computational model should support concurrency, composability and a behavior type system.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="alignnone size-full wp-image-497338" title="RChain and Hoo: The Arrow Has Already Been on the String" src="https://technologymanias.com/wp-content/uploads/2021/11/11.jpg" alt="RChain and Hoo: The Arrow Has Already Been on the String" width="736" height="206" />
+  </p>
+  
+  <p style="text-align: center;">
+    <b><i>Figure: Computational Model Comparisons</i></b>
+  </p>
+  
+  <p>
+    Unfortunately that leaves very few choices. From the above table, only Pi or Rho-Calculus can provide all the required features. Rho-Calculus is the upgraded version of Pi-Calculus. With reflection with much more expressive power. It is the first process of calculus suitable as a smart contract language. And Greg Meredith is the founder of Rho-Calculus.
+  </p>
+  
+  <p style="text-align: left;">
+    <img decoding="async" loading="lazy" class="alignnone size-full wp-image-497339" title="RChain and Hoo: The Arrow Has Already Been on the String" src="https://technologymanias.com/wp-content/uploads/2021/11/unnamed-10.jpg" alt="RChain and Hoo: The Arrow Has Already Been on the String" width="1600" height="494" />
+  </p>
+  
+  <p style="text-align: center;">
+    <b><i>Figure: The Knowledge Graph of RChain</i></b>
+  </p>
+  
+  <p>
+    With the coming “block merge” milestone the multi-threading/concurrency capability will be demonstrated. After that RChain will have a “seamless” sharding solution that makes many shards “look and feel” like one. Finally in the Venus milestone, a behavior type system will be implemented to allow thousands of contracts to safely cooperate with each other. Above that it will be possible to add a smart contract orchestration layer like a decentralized Kubernetes. Without a carefully chosen computational model, all these are impossible and the platform will be locked in as a payment solution, rather than a global computer that can handle a global scale, all-in-one computing infrastructure to serve Web 3.0.
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><em>This is a sponsored post. Learn how to reach our audience here. Read disclaimer below.</em></small>
+  </p>
+</div>

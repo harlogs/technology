@@ -1,0 +1,201 @@
+---
+title: Ground Reports Concerning Salvadoran Bitcoin Law Highlight False Narrative Painted by Influencers
+author: willmeet22
+type: post
+date: 2021-09-15T20:01:26+00:00
+url: /ground-reports-concerning-salvadoran-bitcoin-law-highlight-false-narrative-painted-by-influencers/
+image: "/img/posts/2021/09/image-2021-09-15-092439-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-15T20:01:28+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ground-reports-concerning-salvadoran-bitcoin-law-highlight-false-narrative-painted-by-influencers/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/image-2021-09-15-092439.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left;margin:0 15px 15px 0" /></p> 
+  
+  <p>
+    <strong>On Tuesday, Bitcoin.com News spoke with Marc Falzon, an individual who has been documenting the bitcoin rollout in El Salvador since the law was implemented on September 7. Falzon says that there are a number of issues that no one is talking about in regard to the bitcoin law and the Chivo wallet, a government-crafted bitcoin wallet. One specific issue is the fact that Chivo wallet users cannot spend less than $5 when using the app. </strong>
+  </p>
+  
+  <h2>
+    Marc Falzon: Reporting on the Bitcoin Situation in El Salvador from the Ground
+  </h2>
+  
+  <p>
+    On September 7, 2021, El Salvador implemented the bitcoin tender law and now both bitcoin (BTC) and the U.S. dollar are legal currencies in the country. There’s been a lot of controversy surrounding the rollout and one survey shows that a majority of Salvadorans were not content with the new law. There was even a street protest and Salvadoran citizens took to the streets to object against the new law. Marc Falzon recorded a protest on his drone and when he uploaded the recording to social media, a bitcoin influencer from El Salvador reposted the video and said it was misinformation.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      What would happen if you were forced to us Bitcoin/LN to accept a purchase at your business, only for it get lost for over 5 days? This video is proof of the failures here that are NOT solved by just “switching wallets.” pic.twitter.com/ARQnZXgiwG
+    </p>
+    
+    <p>
+      — Marc Falzon (@MarcFalzon) September 13, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Interestingly, when Bitcoin.com News published the post concerning the protest, commenters said the same thing. Our news desk was told that the protest was a small handful of people that did not amount to anything relevant. Falzon said that he also uploaded some of his findings to the Reddit forum r/bitcoin and the post was flagged. Subsequently, Falzon was also banned from r/bitcoin, although he managed to get reinstated. The r/bitcoin mods complained that the post was “misleading” and Falzon has been getting a lot of flak for his reporting.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      I believe that, going forward, I will continue covering <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> adoption. I will take the same approach I did here in El Salvador: being measured – testing everything first hand – caring what local people actually think. Avoiding the hype, showing what&#8217;s real.
+    </p>
+    
+    <p>
+      — Marc Falzon (@MarcFalzon) September 15, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Falzon’s reporting has been getting a lot of attention and his videos have been getting flak from so-called bitcoin influencers. Local media has covered Falzon’s findings and his point of view has been shared across various social media channels. Despite the criticism from some <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> supporters, there are those that believe his reporting has been 100% objective and on point.
+  </p>
+  
+  <h2>
+    Chivo Wallet Does Not Process Transactions $5 and Under, Bitcoin Influencers Create False Narrative
+  </h2>
+  
+  <p>
+    Speaking with Falzon on Tuesday, he explained that the situation is so bad it could leave a bad taste in Salvadorans in regard to cryptocurrencies in general. While some people believe that despite the initial problems and forcing the currency on Salvadorans, the end outcome will produce a silver lining, Falzon is not so sure. At the moment the issues are not sustainable for people who want to leverage microtransactions under $5 and his testing shows the Lightning Network feature on the Chivo wallet is losing transactions.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Influencers showing how &#8220;easy&#8221; it is to buy Starbucks Lattes, while people here can&#8217;t withdraw USD from Chivo, can&#8217;t make sub $5 BTC purchases on Chivo, have their money locked in pending with Chivo. Let&#8217;s be real and have a truthful conversation. https://t.co/SrMTThAqIE
+    </p>
+    
+    <p>
+      — Marc Falzon (@MarcFalzon) September 13, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Misinformation, Falzon says, is stemming from the popular bitcoin influencers who are painting a glossy and artificial narrative of how things have been going. There have been problems and influencers are acting as though everything works great while buying items from chains like McDonald’s and Starbucks. Bitcoin.com News asked Falzon about the issues with microtransactions, as spending small increments of money is necessary to buy food and things like coffee.
+  </p>
+  
+  <p>
+    “Right now in El Salvador any transaction (using the Chivo wallet) under the amount of five U.S. dollars is being blocked,” Falzon told Bitcoin.com News. “There was never any mention of that when the [bitcoin tender] act came out. In fact, they said in the commercial promoting Chivo wallet, to the population here, that people would be able to buy everything. But during the initial launch, people are not able to make any microtransactions.” Falzon added:
+  </p>
+  
+  <blockquote>
+    <p>
+      Today is day six, and they [Chivo wallet] just announced that they will at some point, lower the minimum threshold to a single penny. So it seems like it will be a temporary problem.
+    </p>
+  </blockquote>
+  
+  <h2>
+    Lightning Network Transactions Lost, Businesses Worried
+  </h2>
+  
+  <p>
+    When asked if this was the case for both onchain bitcoin (BTC) transactions and the Lighting Network, Marc said: “Excellent question and that’s just something we don’t have an answer to right now.” Bitcoin.com News then asked if Lighting Network transactions were available at all.
+  </p>
+  
+  <p>
+    “That’s a complicated question and let me explain why. So in theory, yes, you can use Lightning for amounts over $5,” Falzon remarked. “However, in my testing, Lightning Network transactions at this time are being lost. To give you a specific example, in one of my videos I have a friend who is a local here send me $10 via Lightning Network to my wallet. That transaction was six days ago, that money still has not arrived in my wallet. Now what makes this scary is that the money has been deducted from my friend’s balance. So in his app, it shows he sent the money.”
+  </p>
+  
+  <p>
+    “To make matters even worse, in the Chivo wallet app there’s no way to see any information about the transaction,” Falzon continued. “One of the really big problems is that it’s not affecting me but that it’s affecting supermarkets and restaurants. To give you a specific example there’s a health food market near me and the owner is friends with all the owners of other supermarkets. She said that the other markets are worried because they have transactions sent in that are not showing up. So do you just let the customer just walk out of the store? By law, they need to accept the bitcoin transaction.”
+  </p>
+  
+  <h2>
+    Bitcoin Acceptance by Salvadoran Merchants Is Not Optional Unless They Don’t Have Technical Infrastructure
+  </h2>
+  
+  <p>
+    On August 24, Bitcoin.com News reported on the Salvadoran president Nayib Bukele promising that the bitcoin law would not be forced on citizens. Falzon says in some ways, Bukele’s statements are correct but in other instances, it is not true. “The president has said that bitcoin here in El Salvador was optional and that the Chivo app is also optional,” Falzon relayed. “However, that is actually not true. The president is correct that individuals can choose not to use the Chivo app. Like when they buy things they can use cash. They don’t have to use the Chivo app to use Lightning.” Falzon further added:
+  </p>
+  
+  <blockquote>
+    <p>
+      However, merchants, store owners, business people, mom and pop shops, must accept bitcoin from the Chivo app. If the customer comes in and they want to buy something with the Chivo app, the merchant must accept it. For merchants acceptance is mandatory, and therefore the Chivo app is mandatory.
+    </p>
+  </blockquote>
+  
+  <p>
+    “The way that the law is written, article seven says that all merchants must accept bitcoin by law, with the threat of force, you must do it,” Falzon emphasized in his statements on the phone. “However, article twelve in the law, says that merchants who are not currently able to be equipped as far as technology to accept the payment will not have to accept bitcoin until they have been properly equipped. About half the residents in El Salvador do not have an internet connection. For these people, from what I understand, they will not have issues with the government if they don’t accept it. Unless they are equipped to accept it.”
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Another heavily armed guard in front of a #Chivo #bitcoin ATM. After taking these photos the military made me erase them and watched me do it. Was able to save a few. I love #BTC but this is a bad look. #ElSalvador #SanSalvador pic.twitter.com/OHQYUSSVNo
+    </p>
+    
+    <p>
+      — John Dennehy (@jdennehy_writes) September 4, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Although Falzon said that some small businesses do have the capability to add the technology and they would be forced to accept bitcoin. “Some small business owners do have the technology, they do have mobile phones,” Falzon stressed. “These business owners would no longer fall under article twelve. Article twelve doesn’t mean you have a choice not to accept it, it means that you have a little more time before you have to. If you have the technology then you fall under article seven.” The cryptocurrency advocate continued:
+  </p>
+  
+  <blockquote>
+    <p>
+      For most people it’s not a loophole, most people are just not accepting it here, period. They just say no. The only places that I have found that accept bitcoin right now, are large chains such as McDonalds, Starbucks, all the stuff that you would see from influencers. But the individual shops that I’ve seen that are equipped and I’ve offered to pay in bitcoin, they just say no. They don’t give a reason, they just say no.
+    </p>
+  </blockquote>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Bitcoin Law Is ‘Encouraging Traditional Centralized Banking as It Has Always Been’
+  </h2>
+  
+  <p>
+    What’s even worse is that Falzon says many merchants are turning to an application crafted by the largest bank in El Salvador called Banco Agrícola. Instead of promoting a peer-to-peer electronic cash system, these Salvadoran merchants are handling bitcoin temporarily as they almost immediately get a fiat replacement for the bitcoin they accept.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      You&#8217;re right, I have issues with the Chivo app – and I&#8217;ll be on the News to discuss. Tune in, Niñito! https://t.co/n20nHx4ETh
+    </p>
+    
+    <p>
+      — Marc Falzon (@MarcFalzon) September 12, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    “The sad part about this is that the supermarkets and the business owners are getting an app called Wompi,” Falzon concluded. “What the Wompi app does is that it lets merchants accept bitcoin and it immediately converts it into USD and puts it in the merchant’s bank account. As if I paid in fiat. Businesses are using this app, to get around article seven,” Falzon highlighted. His findings show that the antiquated and centralized system of the past still remains fully functional.
+  </p>
+  
+  <p>
+    “What’s sad is that the Wompi app is made by the largest banking institution, Banco Agrícola S.A. (Banco Agrícola),” Falzon said. “Banco Agrícola developed the app. So basically, the situation that we have down here is [bitcoin is] not only not being used as a currency but it’s encouraging traditional centralized banking as it has always been.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Marc Falzon’s findings and the situation in El Salvador? Do you agree with his assessment of the situation? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

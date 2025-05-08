@@ -1,0 +1,106 @@
+---
+title: Poly Network Hacker Returns $4.7M in Funds — Attacker Asks Devs to Unlock Frozen Tether Stash
+author: willmeet22
+type: post
+date: 2021-08-11T14:15:51+00:00
+url: /poly-network-hacker-returns-4-7m-in-funds-attacker-asks-devs-to-unlock-frozen-tether-stash/
+image: "/img/posts/2021/08/poly-network-hacker-returns-4-7m-in-funds-attacker-asks-devs-to-unlock-frozen-tether-stash-240x172.jpg"
+response_body:
+  - '{"id":"6f29e947-96e6-486f-86e2-3039d0efd6c3","recipients":617,"external_id":"1cf24a00-8503-9292-0829-0e353fd6dd1a","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 617
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 3
+wpil_links_outbound_internal_count_data:
+  - 'a:3:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-08-11T14:15:52+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/poly-network-hacker-returns-4-7m-in-funds-attacker-asks-devs-to-unlock-frozen-tether-stash/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/08/poly-network-hacker-returns-4-7m-in-funds-attacker-asks-devs-to-unlock-frozen-tether-stash.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Poly Network Hacker Returns $4.7M in Funds — Attacker Asks Devs to Unlock Frozen Tether Stash" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On Tuesday, the decentralized finance (defi) project Poly Network was hacked for over $600 million in digital assets. The attack was the largest defi hack to date eclipsing all of 2021’s defi hacks combined. The very next day, however, the hacker started to send funds back to the Poly Network team as the project’s official Twitter account says it received $4.7 million so far. </strong>
+  </p>
+  
+  <h2>
+    White Hat Hacker Communicates With Poly Network Attacker
+  </h2>
+  
+  <p>
+    The Poly Network hack will go down in history as one of the largest defi attacks since the inception of this technology. In fact, the hack is up there with some of the largest hacks in <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> as it surpassed the Coincheck hack in 2018 which saw a loss of 0 million. Following the hack on Poly Network, the team published a letter that asked the hacker to start communicating with the project’s team members. “Law enforcement in any country will regard this as a major crime and you will be pursued,” Poly Network’s letter detailed.
+  </p>
+  
+  <p>
+    The hacker allegedly wrote messages to the Poly Network team and stressed that the hack could have been worse. Now, according to the official Poly Network Twitter account, the project has seen $4.7 million returned on Wednesday morning. “So far, we have received a total value of $4,772,297.675 assets returned by the hacker,” Poly Network said. The company also disclosed the amount and type of funds the hacker returned. The returned <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> assets include:
+  </p>
+  
+  <ul>
+    <li aria-level="1">
+      ETH address: $2,654,946.051
+    </li>
+    <li aria-level="1">
+      BSC address: $1,107,870.815
+    </li>
+    <li aria-level="1">
+      Polygon address: $1,009,480.809
+    </li>
+  </ul>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Moving in the Right Direction: Hacker’s Identity Possibly Discovered, Attacker Wants Tether Unfrozen After Sending USDC
+  </h2>
+  
+  <p>
+    On Tuesday it was discovered that a security company called Slowmist published findings on the alleged hacker. Slowmist detailed that the hacker’s identification was exposed and the group had access to the hacker’s email and IP address. According to Slowmist, the hacker was able to leverage a relatively unknown <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchange in Asia and they claimed to have a lot of information on the attacker.
+  </p>
+  
+  <p>
+    Reports show a white hat hacker has been attempting to communicate with the Poly Network attacker. “We can offer you a security bounty when you return all the remaining assets. We will provide a secure address through email,” the white hat wrote. “The decision made by DAO can’t change the fact that the assets are stolen from crypto believers. We want to offer a security bounty and we hope it will be remembered as the biggest white hat hack in history,” the white hat hacker added.
+  </p>
+  
+  <p>
+    Then the hacker was suddenly “ready to return the funds” in a message sent to the Poly Network team. Next the hacker detailed that the attempt “failed to contact the Poly” and “I need a secured multisig wallet from you. It’s already a legend to win so much fortune. It will be an eternal legend to save the world. I made the decision, no more DAO.” The white hat responded and said: “We are preparing a multi-sig address controlled by known Poly addresses.”
+  </p>
+  
+  <p>
+    The hacker also said: “Accept donations to ‘the hidden signer’ now. Encrypt your msg with his pubkey.” Following this statement, the hacker sent over 1 million USDC tokens back to the Poly Network.
+  </p>
+  
+  <p>
+    “You are moving things [in] the right direction. We received 1+M USDC on Polygon. Did you ask us to encrypt the receiving addresses with your BookKeeper public key?” the white hat hacker asked. The hacker then sent more funds back to the project’s team members. Next, the hacker would ask the team to donate to an address if they supported his decision. The hacker added:
+  </p>
+  
+  <blockquote>
+    <p>
+      Encrypt your msg with his pubkey if you want to talk. Dumping sh**coins first… How about unlocking my USDT after returning enough USDC?
+    </p>
+  </blockquote>
+  
+  <p>
+    <em><strong>What do you think about the Poly Network hack and a fraction of the coins being returned the next day? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

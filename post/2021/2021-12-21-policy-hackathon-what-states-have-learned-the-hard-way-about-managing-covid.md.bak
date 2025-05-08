@@ -1,0 +1,388 @@
+---
+title: 'Policy Hackathon: What states have learned — the hard way — about managing Covid'
+author: willmeet22
+type: post
+date: 2021-12-21T14:44:14+00:00
+url: /policy-hackathon-what-states-have-learned-the-hard-way-about-managing-covid/
+image: "/img/posts/2021/12/headshots2-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-21T14:44:16+00:00
+wpe_campaignid:
+  - 5352
+wpe_feed:
+  - https://www.politico.com/rss/politicopicks.xml
+wpe_sourcepermalink:
+  - https://www.politico.com/news/2021/12/21/recovery-lab-hackathon-states-managing-covid-524852
+categories:
+  - News
+tags:
+  - news today usa
+  - usa news today
+
+---
+<div>
+  <img decoding="async" src="https://technologymanias.com/wp-content/uploads/2021/12/headshots2.jpg" /></p> 
+  
+  <p>
+    The Covid-19 pandemic has presented governors and their staffs with a series of unanswerable questions and unenviable choices. Within days of the virus showing up in Washington state and New York, governors across the country were weighing how to convey urgency but not panic, how to protect lives without destroying livelihoods.
+  </p>
+  
+  <p>
+    “This obviously was a balancing act with the highest stakes you could possibly imagine, which is human lives and the long-term economic well-being of our citizens and our children,” said Amelia Alcivar, chief of staff to Maryland Gov. Larry Hogan.
+  </p>
+  
+  <p>
+    Nearly two years later, while the development of vaccines and therapeutics has given public officials better tools to fight the coronavirus, questions over the correct path forward remain very much unsettled. The country is still averaging more than 130,000 new infections a day and roughly 9,000 deaths every week, and public health experts believe that Omicron, winter weather and holiday gatherings may all cause further spikes in cases, hospitalizations and deaths.
+  </p>
+  
+  <p>
+    Meanwhile, health care workforce shortages are so acute that several governors are calling in FEMA and the National Guard to reinforce overburdened hospitals. Violent crime is on the rise in many cities, and fatal drug overdoses are at record levels, both exacerbated by the strains of the pandemic. Inflation, brought on by Covid-induced supply chain problems, is causing economic disruption, and teachers are sounding alarms that their students aren’t only behind in math and reading but that they are contending with a host of mental and emotional scars that will likely reshape the American landscape for decades to come.
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    Jason Gibbs, chief of staff to Vermont Gov. Phil Scott, said one of the great lessons of the pandemic is how governors and those advising them need to see “the full field” and understand the domino effect that policy choices in a crisis can have.
+  </p>
+  
+  <p>
+    “We have to acknowledge there were trade-offs,” he said. “Governors can’t ignore all these other consequences, whether they’re economic or educational or other public health consequences, any more than they can ignore case rates and case fatality rates and Covid-hospitalization levels.”
+  </p>
+  
+  <p>
+    These trade-offs were highlighted by POLITICO’s State Pandemic Scorecard, which gathered and analyzed available data for policy outcomes in four categories — health, economy, social well-being and education — and scored states against their peers. The data showed that states that scored high in reducing deaths and hospitalization also tended to take a larger hit to their economies. On the other hand, states that scored higher in economic measures such as GDP and unemployment tended to have higher per capita death and hospitalization rates.
+  </p>
+  
+  <p>
+    To better understand how these policy trade-offs played out in real time, POLITICO convened a “policy hackathon” — an hourlong working group discussion over Zoom — in which we asked top state officials to explain how they managed this balancing act, what they wish they could do over and what lessons they are taking with them into 2022.
+  </p>
+  
+  <p>
+    Our nine policy hackers — who came from states as diverse as Nebraska and Hawaii — provided some of the most candid assessments we’ve yet heard about the challenges state leaders faced, lessons they learned and the humbling experience of realizing just how powerless they often were to protect people’s lives or to convince people to protect themselves. Importantly, they also identified some critical problems that still need to be fixed as we enter year three of the pandemic.
+  </p>
+  
+  <p>
+    Here are the key takeaways from our conversation.
+  </p>
+  
+  <h2 style="text-align: center">
+    PART ONE: TOUGH LESSONS
+  </h2>
+  
+  <p>
+  </p>
+  
+  <p>
+    <span class="firstcharacter">I</span>t was clear from the start that the United States was ill prepared for Covid-19. The public health infrastructure was underfunded and fragmented and the country was already bitterly divided along political lines. That meant communicating with the public, among the most important tasks in any crisis, was going to be a challenge, one that nearly two years later state officials have yet to overcome.
+  </p>
+  
+  <p>
+    At the same time, state leaders recognized that they were dealing with a highly contagious respiratory virus, the kind that easily spread among people going to work, to school or to visit a grandparent. Confronting this meant acknowledging that almost every policy choice contained some flaws.
+  </p>
+  
+  <p>
+    Many state leaders began speaking of their response as a kind of dial, one that needed to be adjusted regularly to account for changing science and circumstance. But rarely was there a turn of that dial that didn’t have some unintended consequence.
+  </p>
+  
+  <h3 style="text-align: left">
+    Every state started with a different set of variables.
+  </h3>
+  
+  <p>
+    Roughly one-fifth of Hawaii’s economy is tied to tourism but Linda Chu Takayama, chief of staff to Gov. David Ige, said the state decided it needed to impose some of the most stringent lockdowns in the nation and keep those visitors out in order to protect their hospitals.
+  </p>
+  
+  <p>
+    “We have a limited number of hospitals and unlike most other states if our hospitals are overcrowded, we can&#8217;t drive across the state line and get additional help,” she said.
+  </p>
+  
+  <p>
+    Pre-pandemic, Hawaii was welcoming roughly 40,000 tourists every day but after imposing restrictions on who could visit the islands — an option no other state had — fewer than 10,000 people were arriving each day. That number has climbed steadily as vaccinations have become more prevalent, though it’s still nowhere near 2019 levels. But Hawaii’s economic restrictions are among the reasons it can claim one of the lowest per capita death rates in the country.
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    “We’re still struggling to get back to where we were pre-pandemic,” Takayama said. “But the result was that we are at least still healthy and that part of it we&#8217;re very satisfied with.”
+  </p>
+  
+  <p>
+    In Nebraska, Gov. Pete Ricketts, while mindful of hospital capacity, chose to focus on keeping business open, said Angie Ling, the state health department’s incident commander.
+  </p>
+  
+  <p>
+    “We have a lot of meatpacking plants so going in and safeguarding those areas [to make] sure that we can produce the food that the whole United States needs,” she said, was a critical task.
+  </p>
+  
+  <p>
+    One reason is that Nebraska officials knew their residents had a set of red lines that could not be crossed, particularly in terms of mandates. Sometimes, they said, what may have appeared ideological was simply practical: Masks were recommended but not mandated and instead the state chose to highlight the importance of caring for elderly friends and family and keeping them safe.
+  </p>
+  
+  <p>
+    For the most part, that strategy appears to have paid off; Nebraska was the top economic performer on POLITICO’s scorecard and still boasts one of the lowest per capita death rates in the country, though hospitalizations in recent weeks have climbed to levels not seen since last December.
+  </p>
+  
+  <p>
+    Utah saw early on that its response to Covid-19 was uneven and, understanding its population, was able to pivot in time to see results. State officials noticed that Utah’s Hispanic community, which is roughly 15 percent of the population, accounted for 50 percent of new Covid-infections, said<b> </b>Nate Checketts, the executive director of Utah’s health department. So the state shifted testing resources and adjusted its messaging campaign and was able to bring infection rates down so they became more representative of the state’s demographics.
+  </p>
+  
+  <h3 style="text-align: left">
+    Schools posed some of the toughest dilemmas.
+  </h3>
+  
+  <p>
+    Schools presented one of the toughest challenges and starkest choices for state leaders and local education officials. Closing a school didn’t just mean a loss of instruction time. Schools for many kids are a nexus of community services, a place where students can receive a meal, see a guidance counselor or visit a nurse. The loss of in-person instruction was harrowing for teachers as well, many of whom struggled to connect with students via Zoom and returned a year later to a classroom full of psycho-social and emotional challenges that they’ve been forced to confront.
+  </p>
+  
+  <p>
+    At the same time, schools are congregate settings with lots of potential ways for the virus to spread, said Michele Roberts, acting assistant secretary for the Washington state health department. The state, she said, put a lot of pressure on staff to mitigate those risks through vaccine requirements, mask mandates and contact tracing.
+  </p>
+  
+  <p>
+    “All of these help schools stay open and keep classrooms as healthy as possible,” Roberts said. “But it&#8217;s definitely been a challenge and really been hard on all of our school personnel who really had to learn to do public health in addition to the important work they do to educate our kids.”
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    State officials in Kansas, which got high marks in education on POLITICO’s scorecard, found managing students and schools to be one of the most difficult challenges of the entire pandemic, said Will Lawrence, chief of staff to Gov. Laura Kelly. That’s because, unlike in Washington state, the governor and her aides had to cede so much control to others.
+  </p>
+  
+  <p>
+    The Republican-dominated legislature wrestled power from the governor, a Democrat, giving much of the decision-making authority to local governments and school officials. Local communities sometimes pushed back against state health recommendations.
+  </p>
+  
+  <p>
+    That presented a dual challenge, said Lawrence, of “making sure kids are back in the classroom because that&#8217;s where they need to be. But also making sure that they&#8217;re safe and healthy.”
+  </p>
+  
+  <p>
+    Kansas created a working group of public health experts, educators and parents to act as counsel and sounding board. “A place to give solid advice to our schools and our school boards, who are now making all those decisions,” Lawrence said. “And I think that&#8217;s worked very well, or as good as it can as the environment continues to change as we go further into the pandemic.”
+  </p>
+  
+  <p>
+    <b></p> 
+    
+    <h3 style="text-align: left">
+      Politicians weren’t the best messengers.
+    </h3>
+    
+    <p>
+      </b>
+    </p>
+    
+    <p>
+      No one goes into public service hoping to close schools, cancel wedding receptions and warn against Thanksgiving dinners, but in the early days of the pandemic, health experts felt they were well-positioned to lead the country through the crisis. That sense of pride and mission quickly faded as it became apparent that politics was playing a larger role in people’s thinking than public health.
+    </p>
+    
+    <p>
+      It was “one of the big shocks for us,” said Jan Malcolm, Minnesota health commissioner.
+    </p>
+    
+    <p>
+      “Somehow public health folks have gone from being the trusted good guys to the highly suspect folks motivated by just government power,” she said. “It&#8217;s been a really difficult psychological phenomenon for a lot of us to have gone from … really widely trusted as servants of the public, to somehow being purveyors of something not to be trusted.”
+    </p>
+    
+    <p>
+      Public health officials have faced scorn and sometimes violent threats in blue states like California, swing states like Minnesota and red states like Utah.
+    </p>
+    
+    <p>
+      And just because Covid was politicized did not mean people were eager to hear from politicians, even if those pols were popular in their state.
+    </p>
+    
+    <p>
+    </p>
+    
+    <p>
+      Charlie Brereton, a health care policy adviser to Montana Gov. Greg Gianforte, said he thought people in the deeply conservative state would want to hear from their newly elected Republican governor, who eschewed mandates and championed individual freedoms. But when it came to promoting the vaccine, his message didn&#8217;t have much impact. Brereton and others around Gianforte had to recognize that doctors and other medical providers are far more trusted.
+    </p>
+    
+    <p>
+      “Certainly, the governor’s out there, he promotes the vaccine when appropriate, but I thought that we would be doing a lot more of that, and we’ve really shifted,” Brereton said. “I thought folks would want to hear more from their elected officials. We&#8217;ve seen the exact opposite.”<br /><b> </b><br />The state went so far as to revamp ads and public safety announcements to include local clinics and physicians instead of elected leaders.
+    </p>
+    
+    <p>
+      In Kansas, state officials enlisted the Farm Bureau and the Livestock Association to impress upon rural residents that Covid-19 was extremely serious and simple safety measures could save lives.
+    </p>
+    
+    <p>
+      “Bridging that communication gap earlier on would have certainly been helpful,” Lawrence said.
+    </p>
+    
+    <h2 style="text-align: center">
+      PART TWO: STRATEGIES FOR THE FUTURE
+    </h2>
+    
+    <p>
+    </p>
+    
+    <p>
+      <span class="firstcharacter">T</span>he Covid-19 pandemic is far from over and in at least one way, the United States is positioned less well now than it was in the spring of 2020. Trust has eroded in our public health officials and many state legislatures have even stripped governors of their emergency powers.
+    </p>
+    
+    <p>
+      But there are also important lessons that officials say they’ve learned from Covid-19 that they believe will better serve their states in the coming year and should another crisis emerge. Here are some of them.
+    </p>
+    
+    <p>
+      <b></p> 
+      
+      <h3 style="text-align: left">
+        1. Age is a better focus for vaccination drives than occupation.
+      </h3>
+      
+      <p>
+        </b>
+      </p>
+      
+      <p>
+        Trouble often stemmed from moving too slowly on vaccination, overcomplicating matters or listening to outsiders when on-the-ground personnel had a better feel for what would work.
+      </p>
+      
+      <p>
+        In Nebraska, for example, Ling said that during the early days of the vaccine rollout, when supply was low and demand high, it might have been better to simply determine eligibility by age instead of the many different criteria such as employment and health status that federal officials were recommending.
+      </p>
+      
+      <p>
+        “That really slowed down how we could get the most at-risk people vaccinated first,” she said.
+      </p>
+      
+      <p>
+      </p>
+      
+      <p>
+        <b></p> 
+        
+        <h3 style="text-align: left">
+          2. Don’t wait for the feds.
+        </h3>
+        
+        <p>
+          </b>
+        </p>
+        
+        <p>
+          Alcivar, in Maryland, felt much the same about boosters. She said the state had plenty of data to know that they’d be necessary, but officials were wary of getting out ahead of the federal government because it might confuse the public.
+        </p>
+        
+        <p>
+          “There were preventable deaths that wouldn&#8217;t have happened had boosters been rolled out more quickly and made available to those vulnerable seniors and those with immunocompromised conditions,” she said. “Even a month earlier would have made a difference.”
+        </p>
+        
+        <p>
+        </p>
+        
+        <p>
+          Checketts, from Utah, said the state should have been quicker to set up infusion centers that could deliver monoclonal antibody treatments instead of relying so much on hospitals.
+        </p>
+        
+        <p>
+          “They&#8217;re so maxed out with how many people are coming into their emergency rooms and urgent care,” he said. “We’ve … started setting up our own infusion sites and we should have moved earlier in that direction to be able to provide that support and be able to amplify what the health care system was doing, to be able to help reduce those hospitalizations and deaths that have been occurring.”
+        </p>
+        
+        <p>
+          <b></p> 
+          
+          <h3 style="text-align: left">
+            3. Address workforce shortages fast.
+          </h3>
+          
+          <p>
+            </b>
+          </p>
+          
+          <p>
+            One of the biggest challenges currently facing states is a critical health care workforce shortage that seems to get worse by the month. Hospitals and long-term care facilities are dealing with Covid as well as working through a backlog of patients who deferred care in 2020, while also trying to manage a wave of resignations and retirements.
+          </p>
+          
+          <p>
+            Montana launched a healthcare workforce recruitment campaign, which will subsidize those willing to relocate. The state is considering ways to bolster loan repayment programs for healthcare workers and educators and reevaluating state-run employment and training programs to ensure specialties such as direct care workers are represented.
+          </p>
+          
+          <p>
+            Hawaii, which spent $20 million to hire 600 nurses during the height of its Covid surge in 2020, is using money from the American Rescue Plan to expand the number of medical residency slots and expand their nursing faculty so they can accept more students.
+          </p>
+          
+          <p>
+            “It’s a little bit of a longer-term solution, it’s not going to happen overnight, but we have the ARPA funds now,” Takayama said. “We will apply them as best we can, at least for the short term, and try to figure out how to keep that sustainable for the future. But you got to start somewhere.”
+          </p>
+          
+          <p>
+            <b></p> 
+            
+            <h3 style="text-align: left">
+              4. Identify effective messengers.
+            </h3>
+            
+            <p>
+              </b>
+            </p>
+            
+            <p>
+              An equally critical challenge is figuring a way to communicate vital information to a pandemic-weary public, particularly as the country confronts another winter surge and the Omicron variant. President Joe Biden has warned that the unvaccinated are in for a “winter of severe illness and death.”
+            </p>
+            
+            <p>
+              It’s unlikely, though, that Biden’s remarks are going to win over any converts, based on what our hackers said.
+            </p>
+            
+            <p>
+              Malcolm, Minnesota’s health commissioner, said it’s critical that government finds the right messengers, otherwise there’s not much point in delivering the message.
+            </p>
+            
+            <p>
+            </p>
+            
+            <p>
+              “In terms of effectiveness, it’s making sure that the people who are talking to different folks are trusted by them and if that’s not us, so be it,” she said. “It needs to be their local leaders, their providers, sports figures, whoever has credibility.”
+            </p>
+            
+            <p>
+              Roberts, in Washington, said the most important goal for 2022 is to better communicate the necessity of the vaccines, particularly to communities of color and among other marginalized groups.
+            </p>
+            
+            <p>
+              “We have communities that still don’t think our public health messaging or the information is there,” she said. “It probably has to do with systemic racism and a lot of historical wrongs, but we really need to close those gaps and continue to work to build trust to bring vaccines to those communities.”
+            </p>
+            
+            <h2 style="text-align: center">
+              CONCLUSION
+            </h2>
+            
+            <p>
+            </p>
+            
+            <p>
+              <span class="firstcharacter">R</span>esponding to Covid-19 was a humbling experience, our hackers said. State officials often had far less power than they imagined. Sometimes people simply refused to listen, other times the virus acted in ways no one predicted.
+            </p>
+            
+            <p>
+              The last two years are littered with examples of governors who acted quickly with little consultation, often to their state’s detriment.
+            </p>
+            
+            <p>
+              So it’s interesting to note that many of the best performing states on POLITICO’s scorecard had governors from one party contending with legislatures from the other party: Vermont and Maryland are blue states with Democratic legislatures but Republican governors, while Kansas is a red state with a Republican legislature and a Democratic governor. Our hackers said the divided leadership in their states drove people with different ideologies and different ways of looking at problems to find common ground — and may have helped promote better outcomes.
+            </p>
+            
+            <p>
+              “There was a lot of forced conversation,” Lawrence said. “And we got a lot done through that process.”
+            </p>
+            
+            <p>
+              </div>

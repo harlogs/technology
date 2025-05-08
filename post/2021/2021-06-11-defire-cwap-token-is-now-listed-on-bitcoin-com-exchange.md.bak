@@ -1,0 +1,120 @@
+---
+title: DeFire (CWAP) Token Is Now Listed on Bitcoin.com Exchange
+author: willmeet22
+type: post
+date: 2021-06-11T14:46:43+00:00
+url: /defire-cwap-token-is-now-listed-on-bitcoin-com-exchange/
+image: "/img/posts/2021/06/defire-768x432-1-240x172.png"
+response_body:
+  - '{"id":"a4305c3a-c14c-41e3-92fe-5affaea92a28","recipients":67,"external_id":"62a24ba6-af9c-441e-0dd2-3360a0ca5fb6","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 67
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/defire-cwap-token-is-now-listed-on-bitcoin-com-exchange/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/defire-768x432-1.png" class="attachment-medium_large size-medium_large wp-post-image" alt="DeFire (CWAP) Token Is Now Listed on Bitcoin.com Exchange" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/defire-768x432-1.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-696x385.png 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-1068x601.png 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-747x420.png 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/defire.png 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    PRESS RELEASE. <span style="font-weight: 400;">Bitcoin.com Exchange is thrilled to announce the listing of CWAP, being available to trade on the </span><b>11th June 2021 at 10:00AM UTC. </b><span style="font-weight: 400;">CWAP was created by the DeFire team, as the native currency which sets the ‘right’ economic incentives via its platform. CWAP will start trading with USDT and BTC pairs.</span>
+  </p>
+  
+  <h2>
+    <span style="font-weight: 400;">What is DeFire? </span>
+  </h2>
+  
+  <p>
+    <span style="font-weight: 400;">DeFire is an order router across decentralized execution venues, or in layman terms, a DEX aggregator. What does it all mean? DeFire provides optimal order execution across the universe of decentralized exchanges and other order routing services. In other words, DeFire is in the business of offering the best rate for DeFi trading. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The nature of value dynamics within the DeFi ecosystem flows from order flow originators (casual traders, institutional traders, wallets with DeFi facilities, etc.) to execution venues (DEX’s and lending platforms) as it is up to the trading agents where they choose to send their order flow. DeFire algorithmically optimizes this selection procedure, bringing market efficiency to the wider DeFi ecosystem within given layer-1 networks. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DeFire’s value offering, however, is much wider than that. The team plans on deploying a game-changing DEX in the coming months. The actual parameters behind the routing optimization routines will be defined in a series of blog posts that will come out in the near future and further calibrated as the parameters are set in stone in the smart contracts. This, however, is subject to change as the project will be moving towards decentralizing the governance by introducing the DeFire DAO, where the community of CWAP stakers will be able to introduce proposals for changing system parameters and vote upon them. </span>
+  </p>
+  
+  <h2>
+    <span style="font-weight: 400;">How does it work?</span>
+  </h2>
+  
+  <p>
+    <span style="font-weight: 400;">To explain how the project, and the ecosystem works, one must look into three different actors, and what each of them have to do with CWAP, DeFire’s native currency. These refer to the following: </span>
+  </p>
+  
+  <ol>
+    <li style="font-weight: 400;" aria-level="1">
+      <b>Order flow originators</b><span style="font-weight: 400;">: These are entities who originate order flow, and choose to trade through DeFire. These include traders, large and small brokers of all kinds as well as referral agents.</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <b>Third-party execution venues:</b><span style="font-weight: 400;"> These are the entities that DeFire routes the orders sourced from originators to. In simpler terms, these are predominantly DEXs (or, potentially, in the future other routers).</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <b>Pool originators: </b><span style="font-weight: 400;">Entities that own assets that they use to list said assets on a third-party execution venue in a permissionless setting or otherwise. Listing an asset on a DEX boils down to opening a liquidity pool, hence the name ‘pool originators’.</span>
+    </li>
+  </ol>
+  
+  <p>
+    <span style="font-weight: 400;">DeFire serves as a middleware between traders and other orderflow originators who seek best, and third-party execution venues who offer liquidity against orders sent their way.</span>
+  </p>
+  
+  <h2>
+    <span style="font-weight: 400;">Strong Endorsement</span>
+  </h2>
+  
+  <p>
+    <span style="font-weight: 400;">Danish Chaudhry, CEO of Bitcoin.com Exchange, shared his views on DeFire, both as the CEO of the exchange, and as an advisor to the DeFire team: “I believe both projects align in ways which will lead to further collaboration and opportunities for our communities, the team behind DeFire is built with an array of incredibly talented individuals who are offering top class facilities for the Cardano network and the expanding DeFi sphere.” </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Chaudhry continues on by saying; “We’re very excited to see how DeFire, via their CWAP will continue to empower their vision for the future of DEX solutions, and gain further outreach with our outstanding community at the exchange.”</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Eric Benz, Chairman of the DeFire Association also expressed his enthusiasm: “We are delighted to list on Bitcoin.com Exchange, one of the world’s most trusted trading venues for digital assets. However, this represents much more than simply a listing for CWAP. We will now work closely with the Bitcoin.com Exchange team to identify synergies within the Cardano DeFi landscape, and leverage our smart order routing technology to their benefit. We look forward to listing on the Bitcoin.com Exchange and working with their team in the future.”</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <p>
+    <b>About Bitcoin.com Exchange</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The mission of Bitcoin.com Exchange is to empower people from all over the world to trade cryptocurrencies with ease and confidence, from first-time traders to advanced trading professionals. With high liquidity, 24/7 multilingual support and dozens of trading pairs, complemented with a high level of security, we offer an attractive platform for trading any cryptocurrency. Within one year since launch, on average, our exchange has been visited by more than 500K active traders per month, and this number continues to grow as you read this sentence.</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <p>
+    <b>About DeFire</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DeFire is currently pursuing a full-stack DEX solution for the Cardano ecosystem that few of its rivals in the space are creating; a low latency smart decentralized order router; as well as offering its facilities to the growing Cardano network and associated rapidly expanding DeFi scene. Execution-wise, DeFire connects to the deepest pools of on-chain liquidity, while also building out their own dedicated liquidity pools. Their staking and liquidity mining mechanisms offer value to their CWAP token holders. Learn more at </span><span style="font-weight: 400;">www.DeFire.fi</span><span style="font-weight: 400;">.</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><i>This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.</i></small>
+  </p>
+</div>

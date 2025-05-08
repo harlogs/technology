@@ -1,0 +1,88 @@
+---
+title: Bitcoin’s Hashrate Recoups Some Loss, 2021’s Largest Mining Difficulty Drop Expected Next Week
+author: willmeet22
+type: post
+date: 2021-06-27T05:02:15+00:00
+url: /bitcoins-hashrate-recoups-some-loss-2021s-largest-mining-difficulty-drop-expected-next-week/
+image: "/img/posts/2021/06/shutterstock_1889275612-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"8c8da95e-b29d-4277-98a4-6ea6a7333745","recipients":254,"external_id":"45bc9391-5c2c-5441-5b0d-a2bd424b84d7","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 254
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/bitcoins-hashrate-recoups-some-loss-2021s-largest-mining-difficulty-drop-expected-next-week/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_1889275612-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_1889275612-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1889275612.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>On Saturday, Bitcoin’s SHA256 hashrate managed to climb back above the 100 exahash per second region after it slid to a low of 91 EH/s three days ago. Meanwhile, in five days the network’s mining difficulty change is approaching and it could see the difficulty drop over 20%.</strong>
+  </p>
+  
+  <h2>
+    Bitcoin Hashrate Climbs Back Above 100 EH/s, Difficulty Could Drop More Than 20% Next Week
+  </h2>
+  
+  <ul>
+    <li>
+      Statistics show that bitcoin (BTC) miners are processing blocks a lot faster, as the hashrate has improved during the last 48 hours. On June 26, 2021, the network’s hashrate jumped back above the 100 EH/s zone.
+    </li>
+    <li>
+      The hashrate fell to 91 EH/s on June 23, 2021, following the crackdowns in China stemming from five Chinese provinces with the most recent being Sichuan. Between then and over the last three days, the hashrate has increased 9-13%.
+    </li>
+  </ul>
+  
+  <p>
+    <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/hash-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hash-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hash-1024x576.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/Dn2YiFrh-hash.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="aligncenter size-full wp-image-469929" src="https://technologymanias.com/wp-content/uploads/2021/06/Dn2YiFrh-hash.jpg" alt="" width="1280" height="720" />
+  </p>
+  
+  <ul>
+    <li>
+      The next mining difficulty drop is expected to happen in five days and at current processing power, it could drop around 20.57%. At the time of writing, the network’s mining difficulty is 19.93 trillion and the change could bring it to 15.83 trillion next week.
+    </li>
+    <li>
+      Bitcoin’s mining difficulty is essentially the measurement of how difficult it is to find a hash below a given target. When Bitcoin’s hashrate is high, the difficulty will increase, and when the hashrate drops like it did after China’s crackdown, the mining difficulty will drop lower. Therefore making it easier and harder to mine BTC with every fluctuation. Bitcoin’s network difficulty changes every 2,016 blocks or roughly every two weeks.
+    </li>
+  </ul>
+  
+  <p>
+    <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/nextdiff-300x33.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/nextdiff-768x83.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/nextdiff-1024x111.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/nextdiff.jpg 1150w" sizes="auto, (max-width: 1150px) 100vw, 1150px" loading="lazy" class="aligncenter size-full wp-image-469930" src="https://technologymanias.com/wp-content/uploads/2021/06/nextdiff.jpg" alt="" width="1150" height="125" />
+  </p>
+  
+  <ul>
+    <li>
+      A lower difficulty will make it easier for bitcoin miners to find blocks and it can be more profitable for miners this month, as bitcoin’s (BTC) price has dropped much lower than it was two weeks ago. The last difficulty change saw the Taproot lock-in take place and the protocol upgrade should activate in November 2021.
+    </li>
+    <li>
+      There’s approximately 16 known bitcoin mining pools with dedicated SHA256 hashrate directed at the Bitcoin chain. One portion of hashrate is considered “unknown” or mystery hashrate, which currently captures 7.57 EH/s or 7.49% of the global hashrate distribution on Saturday evening (ET).
+    </li>
+  </ul>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <ul>
+    <li>
+      The top five bitcoin (BTC) mining pools on June 26, 2021, include Antpool, F2pool, Viabtc, Binance Pool, and Poolin. Those five mining pools capture 62.83% of the Bitcoin hashrate, while the rest is processed by 11 known pools and a 7.49% portion of mystery hashrate.
+    </li>
+    <li>
+      The next difficulty change seems to be pointing toward the largest mining difficulty drop in 2021 thus far. The network did see the largest difficult rise in 2021, with an approximate 21.53% increase, at block height 683,424 on May 13.
+    </li>
+  </ul>
+  
+  <p>
+    <em><strong>What do you think about the hashrate climbing back after the crackdowns in China? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

@@ -1,0 +1,86 @@
+---
+title: Myriad Proof-of-Work Blockchains See Significant Hashrate Losses
+author: willmeet22
+type: post
+date: 2021-06-29T08:48:10+00:00
+url: /myriad-proof-of-work-blockchains-see-significant-hashrate-losses/
+image: "/img/posts/2021/06/shutterstock_1107241064-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"a778077a-cbdc-4c4f-bf9b-0026f2049d23","recipients":283,"external_id":"12f20ef2-8c4a-6993-3e5a-25f73158203b","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 283
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/myriad-proof-of-work-blockchains-see-significant-hashrate-losses/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_1107241064-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="A Myriad of Proof-of-Work Blockchains See Significant Hashrate Losses" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_1107241064-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1107241064.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>While there’s been a lot of concentration on bitcoin mining crackdowns in China and Bitcoin’s recent hashrate loss on Monday, many other digital assets have seen hashrates drop significantly as well. Some of the largest digital currencies, in terms of market valuation, lost considerable dedicated hashpower over the last few days.</strong>
+  </p>
+  
+  <h2>
+    PoW Chains Feel the Wrath of the Great ASIC and GPU Exodus
+  </h2>
+  
+  <p>
+    Lots of crypto advocates have been focused on China and Bitcoin’s (BTC) hashrate losing a large percentage of hashpower. Data shows on Monday, June 28, that BTC’s hashrate did drop considerably, but intraday statistics are not as reliable as they will be in five to seven days.
+  </p><figure id="attachment_470474" aria-describedby="caption-attachment-470474" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/bchhashshshhs-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/bchhashshshhs-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/bchhashshshhs-1024x576.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/bchhashshshhs.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-470474 size-full" title="Myriad Proof-of-Work Blockchains See Significant Hashrate Losses" src="https://technologymanias.com/wp-content/uploads/2021/06/bchhashshshhs.jpg" alt="Myriad Proof-of-Work Blockchains See Significant Hashrate Losses" width="1280" height="720" /><figcaption id="caption-attachment-470474" class="wp-caption-text">Bitcoin Cash hashrate on June 28, 2021.</figcaption></figure> 
+  
+  <p>
+    Estimates show BTC’s intraday hashrate drop was over 35% but this metric may be recorded differently by the end of next week. There’s been a huge focus on the BTC chain’s hashrate, but no one’s talking about a large number of other blockchains that secure their networks using proof-of-work (PoW) losing considerable hashpower as well.
+  </p>
+  
+  <p>
+    For instance, on Sunday, June 27, Monero’s (XMR) hashrate was around 2,580 megahash per second (MH/s) or 2.58 gigahash per second (GH/s). The following day, XMR’s hashrate slipped to 2.36 GH/s losing 8.52% of its intraday hashrate.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <p>
+    Hashrate on the Bitcoin Cash (BCH) chain was above 2.5 exahash per second (EH/s) during the first week of June. Nevertheless, on June 22, it dropped to a low of 1.15 EH/s. BCH hash has jumped back some, and hovers just below the 2 EH/s region at time of writing.
+  </p>
+  
+  <p>
+    On Saturday, June 26, Litecoin’s (LTC) hashrate was around 218 terahash per second (TH/s) and it slid to a low of 145 TH/s on Monday morning (EDT). LTC’s hashrate has kicked back up to 197 TH/s, but it’s still down 9.63% since Saturday.
+  </p><figure id="attachment_470475" aria-describedby="caption-attachment-470475" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/ltchash-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ltchash-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ltchash-1024x576.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/ltchash.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-470475 size-full" title="Myriad Proof-of-Work Blockchains See Significant Hashrate Losses" src="https://technologymanias.com/wp-content/uploads/2021/06/ltchash.jpg" alt="Myriad Proof-of-Work Blockchains See Significant Hashrate Losses" width="1280" height="720" /><figcaption id="caption-attachment-470475" class="wp-caption-text">Litecoin hashrate on June 28, 2021.</figcaption></figure> 
+  
+  <p>
+    Dash had 6 petahash per second (PH/s) on Sunday afternoon, but on Monday the DASH hash rate was down 34.5% intraday at 3.93 PH/s. Hashrate has dropped on the Ethereum (ETH) blockchain, Ethereum Classic (ETC), Zcash (ZEC), and many other PoW chains.
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Some consider blockchains like Dash’s consensus mechanism a modification of the proof-of-stake (PoS) and PoW algorithm, because the chain also leverages masternodes and LLMQ-based Chainlocks. The Ethereum chain is also in the midst of transitioning to a full PoS chain but it also uses a mixture of PoW at the moment.</span>
+  </p><figure id="attachment_470476" aria-describedby="caption-attachment-470476" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/hethhash-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hethhash-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hethhash-1024x576.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/hethhash.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-470476 size-full" title="Myriad Proof-of-Work Blockchains See Significant Hashrate Losses" src="https://technologymanias.com/wp-content/uploads/2021/06/hethhash.jpg" alt="Myriad Proof-of-Work Blockchains See Significant Hashrate Losses" width="1280" height="720" /><figcaption id="caption-attachment-470476" class="wp-caption-text">Ethereum hashrate on June 28, 2021.</figcaption></figure> 
+  
+  <p>
+    While these coins do use PoW, they leverage different consensus algorithms, which means different application-specific integrated circuits (ASIC) and graphics processing unit (GPU)-driven machines are needed to mine these coins.
+  </p>
+  
+  <p>
+    BTC, BCH, and BSV all share the same SHA256 algorithm but there are many other PoW algorithms like Scrypt (dogecoin, litecoin), Randomx (XMR), Ethash (ETH), Blake (DCR), X11 (DASH), and Equihash (ZEC). Since the crackdowns in China, any coin with a hashrate pulse has felt the pressure of the great ASIC and GPU exodus.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about all the crypto asset networks that have lost considerable hashrate in June? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

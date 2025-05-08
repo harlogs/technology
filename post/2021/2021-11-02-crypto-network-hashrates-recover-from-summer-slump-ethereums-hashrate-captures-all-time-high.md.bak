@@ -1,0 +1,75 @@
+---
+title: Crypto Network Hashrates Recover From Summer Slump — Ethereum’s Hashrate Captures All-Time High
+author: willmeet22
+type: post
+date: 2021-11-02T19:00:44+00:00
+url: /crypto-network-hashrates-recover-from-summer-slump-ethereums-hashrate-captures-all-time-high/
+image: "/img/posts/2021/11/shutterstock_1168969387-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-02T19:00:45+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/crypto-network-hashrates-recover-from-summer-slump-ethereums-hashrate-captures-all-time-high/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/shutterstock_1168969387.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On November 2, 2021, the Ethereum network’s global hashrate tapped an all-time high (ATH) at 873 terahash per second (TH/s) or close to 1 petahash. Alongside Ethereum’s ATH, a myriad of hashrates have returned back to the highs the network’s once held before the crypto mining crackdown in China.</strong>
+  </p>
+  
+  <h2>
+    Hashrates Return Following China’s Crypto Mining Crackdown This Past Summer
+  </h2>
+  
+  <p>
+    Last summer at the end of June, a great number of cryptocurrency networks saw their hashrates decline significantly, but today many networks have recovered from the large losses. For instance, the Bitcoin (BTC) network hashrate plummeted to a low of 69.11 exahash per second (EH/s) on June 28, and today BTC’s hashrate is coasting along at 169 EH/s. That’s an increase of 144.92% and a variety of other crypto protocol hashrates have also seen significant recoveries in terms of global hashrate.
+  </p>
+  
+  <p>
+    During the same time period the Bitcoin network’s hashrate shuddered last summer, Litecoin’s (LTC) hashrate dipped to a low of 167.44 terahash per second (TH/s) and is now at 332 TH/s. The Dash (DASH) network saw hashrate losses during the first week of July hitting a low of 2.22 petahash per second (PH/s) and rose back up to today’s 2.83 PH/s. Dash did jump above 5 PH/s at the end of August but lost some petahash, but the Ethereum (ETH) network, on the other hand, reached an all-time high.
+  </p>
+  
+  <h2>
+    Ethereum Network Hashrate Surpasses All-Time High
+  </h2>
+  
+  <p>
+    Ethereum’s hashrate tapped a high of 873 TH/s which is 0.873 PH/s or close to a single petahash. The ETH hashrate will likely pass the single petahash metric before the network does a full transition from proof-of-work (PoW) to proof-of-stake (PoS). Last year on this day, the Ethereum network was processing transactions at a speed of 279 TH/s and since then the hashpower has increased by 212.90%.
+  </p>
+  
+  <p>
+    Mining ethereum (ETH) at the time of writing is profitable with an Innosilicon A10 Pro+ ethereum miner or an equivalent with 750 megahash per second (MH/s). An ether miner of this caliber can produce $61.70 per day in profits with an electricity consumption rate of $0.12 per kilowatt-hour (kWh) and today’s ETH exchange rates.
+  </p>
+  
+  <p>
+    It has been reported that before Ethereum transitions to full PoS, Bitmain and Innosilicon are planning to launch machines with an output of 1.5 to 3 gigahash per second (GH/s). At these theoretical hashpower rates, using $0.12 kWh and today’s ether prices, machines at that caliber could produce $124 to $254 per day in profit.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the myriad of <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> networks that have seen hashrate increases during the last six months? What do you think about the Ethereum network’s hashrate tapping an all-time high? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

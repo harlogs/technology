@@ -1,0 +1,87 @@
+---
+title: 'Report: Illegal Trades Account for Less Than 3% of Total Bitcoin Transactions'
+author: willmeet22
+type: post
+date: 2021-12-23T12:03:59+00:00
+url: /report-illegal-trades-account-for-less-than-3-of-total-bitcoin-transactions/
+image: "/img/posts/2021/12/ttf-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-23T12:03:59+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/report-illegal-trades-account-for-less-than-3-of-total-bitcoin-transactions/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/ttf.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Report: Illegal Trades Account for Less Than 3% of Total Bitcoin Transactions" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>According to a new report, illegal transactions, scams and gambling together make up less than 3% of the volume on the Bitcoin blockchain while exchanges and trading desks account for around 80% of volume. </strong>
+  </p>
+  
+  <h2>
+    Exchanges Dominate Bitcoin Volumes
+  </h2>
+  
+  <p>
+    A new study called “B<span style="font-weight: 400;">lockchain Analysis of the Bitcoin Market” </span>has found that illegal transactions, scams, and gambling combined account for just 3% of all onchain bitcoin trade volume. On the other hand, the study asserts that exchange and trading desk-related volume — which is mostly speculative — constitutes about 80% of the total volume.
+  </p>
+  
+  <p>
+    In their analysis, the authors of a report released by the National Bureau of Economic Research (NBER) appear to debunk the assertion that illegal transactions dominate bitcoin (BTC) trade volumes. In particular, the authors, Igor Makarov from the London School of Economics and Antoinette Schoar of the MIT Sloan School of Management, explain how earlier studies were likely to be overstating the economic value of illegal trades.
+  </p>
+  
+  <p>
+    To support their argument, the two authors point to a 2019 study that had concluded that more than 46% of BTC transactions are due to illegal transactions. The authors stated:
+  </p>
+  
+  <blockquote>
+    <p>
+      First, Foley et al. (2019) intentionally drop all exchange-related volumes from their calculations, since they want to focus only on payments for goods and services. Since we show above that trading constitutes the main activity on the blockchain, this choice severely changes the denominator.
+    </p>
+  </blockquote>
+  
+  <p>
+    In addition, the authors said the estimate of volume in the Foley study is based on what they termed an imputed network of illegal clusters where any cluster recursively is deemed illegal if the majority of its transactions are with previously identified illegal clusters.
+  </p>
+  
+  <h2>
+    Drivers of Bitcoin Volume and Value
+  </h2>
+  
+  <p>
+    Although the two authors agree that this method is appealing, they nonetheless argue that this “does not discriminate between real users and short-lived pass-through clusters that exist solely to obfuscate tracing.”
+  </p>
+  
+  <p>
+    Unlike the method that was used in the 2019 study, Makarov and Schoar do incorporate exchanges, over-the-counter (OTC) desks, or trading desk data when computing the non-spurious BTC volumes. Consequently, in their analysis, the two authors conclude that exchange and trading desk-related volume constitutes about 80% of the total volume while other known entities are only responsible for a minor part of total volume as of the end of 2020.
+  </p>
+  
+  <p>
+    While Makarov and Schoar suggested in their report that they agreed with the general concern over the pseudonymous nature of bitcoin transactions, they however insisted that it is “important to get the magnitudes of transaction activities right in order to understand what are the ultimate drivers of bitcoin value.”
+  </p>
+  
+  <p>
+    <em><strong>Do you agree with this study’s conclusion about the size of illegal transactions on the Bitcoin blockchain? Tell us what you think in the comments section below. </strong></em>
+  </p>
+</div>

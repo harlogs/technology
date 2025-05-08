@@ -1,0 +1,79 @@
+---
+title: Bitcoin Hashrate Nears All-Time High Captured in May — BTC Mining Rigs Produced in 2016 Still Profitable
+author: willmeet22
+type: post
+date: 2021-11-15T22:03:53+00:00
+url: /bitcoin-hashrate-nears-all-time-high-captured-in-may-btc-mining-rigs-produced-in-2016-still-profitable/
+image: "/img/posts/2021/11/bitcoin-hashrate-nears-all-time-high-captured-in-may-btc-mining-rigs-produced-in-2016-still-profitable-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-15T22:03:54+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/bitcoin-hashrate-nears-all-time-high-captured-in-may-btc-mining-rigs-produced-in-2016-still-profitable/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/bitcoin-hashrate-nears-all-time-high-captured-in-may-btc-mining-rigs-produced-in-2016-still-profitable.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Bitcoin Hashrate Nears All-Time High Captured in May — BTC Mining Rigs Produced in 2016 Still Profitable" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>While bitcoin’s value has remained well above the $60K range, the network’s hashrate has surged to over 184 exahash per second (EH/s) as mining devices are far more profitable at these prices. The price has made it so that older generation mining devices manufactured over four years ago, with processing power of more than 8 terahash per second (TH/s), can make a daily profit mining the leading crypto asset.</strong>
+  </p>
+  
+  <h2>
+    Bitcoin Hashrate Follows Ethereum’s Hashrate Toward All-Time Highs
+  </h2>
+  
+  <p>
+    On November 15, 2021, Bitcoin’s hashrate climbed to 184 EH/s gathering 17.19% more hashpower than the network saw a mere two days ago on November 13. Bitcoin’s (BTC) hashrate is getting close to nearing its all-time high (ATH), which was recorded on May 9, 2021, at 191 EH/s. Today’s Bitcoin hashrate metrics show that the hashpower is only 3.8% away from surpassing its ATH, according to coinwarz.com data.
+  </p>
+  
+  <p>
+    In addition to BTC’s hashrate nearing ATH, the second-largest <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> asset in terms of market valuation, ethereum’s (ETH) higher prices have also propelled its network hashrate. At 932 TH/s, Ethereum’s hashrate is awfully close to a single petahash per second or 0.001 EH/s. Ethereum’s hashrate has already reached an ATH and has continued to soar higher, capturing new records.
+  </p>
+  
+  <p>
+    It’s worth it for miners to mine ether in comparison to BTC, as ETH is the third most profitable network to mine. At press time, the most profitable ether mining rig the Innosilicon A11 Pro that produces 1,500 megahash per second (MH/s) or 0.0015 TH/s can rake in $109.29 per day. The profit estimate stems from asicminervalue.com using today’s ether exchange rates and $0.12 per kilowatt-hour (kWh) in electric consumption.
+  </p>
+  
+  <h2>
+    Using Today’s Exchange Rates, Top 3 Bitcoin Miners Make $36 per Day — Bitcoin Miners Manufactured Over 4 Years Ago Still Profit
+  </h2>
+  
+  <p>
+    The profits for the ether mining rigs are larger than BTC’s mining profits stemming from the most profitable application-specific integrated circuit (ASIC) mining devices. Three SHA256 compatible miners on the market today, however, can command $36 per day in profits using $0.12 per kWh in electric consumption and today’s BTC prices.
+  </p>
+  
+  <p>
+    The Microbt Whatsminer M30S++, the Ipollo B2, and the Bitmain Antminer S19 Pro are today’s most profitable BTC miners on the market, according to stats from asicminervalue.com. All three models boast hash speeds at over 100 TH/s. The Canaan Avalonminer 1246 which boasts 90 TH/s produces an estimated $27.55 per day using today’s exchange rates. Furthermore, besides the top mining devices pulling in the highest profits, old school miners from 2016 are now profiting.
+  </p>
+  
+  <p>
+    For instance, using $0.12 per kWh in electricity per day and today’s BTC prices, a Bitmain Antminer R4 (8.7 TH/s) can get at least $1.18 per day. The R4 mining rig was produced in 2017 and the popular Bitmain Antminer S9 (11.5 TH/s), manufactured over four years ago can get up to $1.53 per day with electrical rates at $0.12 per kWh.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the recent mining action and Bitcoin’s hashrate climbing to 184 exahash per second? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

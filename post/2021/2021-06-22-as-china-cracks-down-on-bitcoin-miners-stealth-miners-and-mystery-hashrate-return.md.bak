@@ -1,0 +1,86 @@
+---
+title: As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Return
+author: willmeet22
+type: post
+date: 2021-06-22T17:47:45+00:00
+url: /as-china-cracks-down-on-bitcoin-miners-stealth-miners-and-mystery-hashrate-return/
+image: "/img/posts/2021/06/myster-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"2441bbad-8f2b-4ace-9ab1-ca47684b2c0f","recipients":209,"external_id":"9591413b-7075-5669-88f5-cfad98cce97c","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 209
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/as-china-cracks-down-on-bitcoin-miners-stealth-miners-and-mystery-hashrate-return/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/myster-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Returns" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/myster-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/myster.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>While on the surface it seems officials from five provinces in China have been cracking down on bitcoin miners, no one is quite sure how much hashrate is moving, which pools are affected, or where these miners will end up. A number of mining pools have seen hashpower percentages decline and Bitcoin’s overall hashrate has regressed as well. On the other hand, as several known pools have lost hashrate, processing power from “unknown” pools has increased a great deal.</strong>
+  </p>
+  
+  <h2>
+    Pool Percentages Decline, Overall Hashrate Dips Lower
+  </h2>
+  
+  <p>
+    There have been reports stemming from officials in provinces like Inner Mongolia, Xinjiang, Qinghai, Yunnan, and Sichuan instructing bitcoin miners to close down shop. The crypto community, in general, assumes that a great deal of hashrate comes from China, but exactly how much hashpower actually resides in the country is still a mystery. Reporting is scarce when it comes to bitcoin mining operations and the most recent studies are outdated.
+  </p>
+  
+  <p>
+    Hashrate distribution shows known pools that have disclosed their identity have seen recent hashpower losses. On June 2, 2021, the Bitcoin (BTC) network hashrate was around 191 exahash per second (EH/s) and today, it’s hovering just above the 100 EH/s zone. The metric has dipped on a few occasions lower than 100 EH/s, but has remained fairly consistent at that level since June 19. Pools that have seen hashrates slide significantly include operations like Okex pool, Binance pool, and Huobi pool.
+  </p><figure id="attachment_468697" aria-describedby="caption-attachment-468697" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/hashunknown-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hashunknown-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hashunknown-1024x576.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/hashunknown.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-468697 size-full" title="As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Return" src="https://technologymanias.com/wp-content/uploads/2021/06/hashunknown.jpg" alt="As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Return" width="1280" height="720" /><figcaption id="caption-attachment-468697" class="wp-caption-text">Mystery hash has captured between 8.63 % to 10% of Bitcoin’s overall hashrate on June 22, 2021. Today, “unknown” hashrate has been bouncing between the seventh and the fifth-largest hashers in the world.</figcaption></figure> 
+  
+  <p>
+    Interestingly, pools like Antpool, F2pool, Viabtc, Poolin, and Btc.com have seen wild fluctuations in terms of hashrate but remain the top five mining pools worldwide. Antpool and Viabtc, which are considered ‘Chinese pools,’ command the most SHA256 hashrate globally as well, of all the chains using the SHA256 consensus algorithm. On the BTC chain, the top five mining pools today have been the top miners for months on end in 2021, with a few pools changing positions every now and then.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    The Return of Mystery Miners
+  </h2>
+  
+  <p>
+    Since the initial warnings coming first from Inner Mongolia during the first week of March 2021, stealth mining has increased a great deal. Mystery miners — engaged in stealth mining — have been prevalent since the Bitcoin network first launched. Basically, if one was to look at the BTC hashrate distribution today, they would notice 18 pools that disclose their identity.
+  </p>
+  
+  <p>
+    But there’s another chunk of hashrate that is dubbed “unknown” on Btc.com’s hashrate distribution charts and other hashrate aggregation/distribution websites. Since China started cracking down on bitcoin miners, the mystery hashrate — which is the seventh-largest mining pool today — has increased a great deal. Statistics show that stealth mining pools are finding a lot more blocks since March 2021, and unknown hash has increased every month thereafter.
+  </p><figure id="attachment_468695" aria-describedby="caption-attachment-468695" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/20139087-300x100.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/20139087-768x255.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/20139087-1024x340.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/20139087.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-468695 size-full" title="As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Return" src="https://technologymanias.com/wp-content/uploads/2021/06/20139087.jpg" alt="As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Return" width="1280" height="425" /><figcaption id="caption-attachment-468695" class="wp-caption-text">Unidentified hashrate started to appear more prominently in November 2020 and into 2021. During the first quarter of 2021, the unknown hashrate has increased. After the China crackdown, stealth hash spiked a great deal percentage-wise.</figcaption></figure> 
+  
+  <p>
+    Unknown hashrate commands around 10 EH/s of BTC hashpower today and over 12% of the overall SHA256 hashrate processing blocks on BTC, BCH, and BSV chains. The crypto community understands that mining operations that want to remain unidentified leverage virtual private networks (VPNs) or proxy services to hide their IP addresses. Mystery hash was very prevalent in 2018 and 2019, but subsided a great deal in 2020. In January 2019, mystery hash commanded 22% of the BTC chain and 17% of the BCH chain. At the time, Coin Metrics published a study on the mystery hash phenomenon.
+  </p><figure id="attachment_468698" aria-describedby="caption-attachment-468698" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/ttalsassdddd-300x100.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ttalsassdddd-768x255.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ttalsassdddd-1024x340.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/ttalsassdddd.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-468698 size-full" title="As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Return" src="https://technologymanias.com/wp-content/uploads/2021/06/ttalsassdddd.jpg" alt="As China Cracks Down on Bitcoin Miners, Stealth Miners and Mystery Hashrate Return" width="1280" height="425" /><figcaption id="caption-attachment-468698" class="wp-caption-text">Unknown hashrate has nearly doubled in three days. While known mining pools that have been identified have seen hashrate percentage losses.</figcaption></figure> 
+  
+  <p>
+    Coinmetrics detailed that between mid-2015 and mid-2017, most miners disclosed their identity through the coinbase parameter to identify themselves with the name of their pool. “However, through 2018, unknown miners picked up,” Coin Metrics said, and stressed stats had shown “a newly-found appreciation for privacy, or the emergence of miners who have something to hide.”
+  </p>
+  
+  <p>
+    But toward the end of 2019 and throughout most of 2020, unknown hashrate was almost nonexistent. That trend has changed a great deal in 2021, and unknown hashrate has returned, coincidentally as Beijing wants to crack down on bitcoin mining and crypto trading in China. There’s likely a reason there’s a new emergence of bitcoin miners this year who have something to hide.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the return of mystery hashrate after China started cracking down on bitcoin miners in the country? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

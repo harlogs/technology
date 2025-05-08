@@ -1,0 +1,96 @@
+---
+title: 'Bitcoinsv Chain Suffers 51% Attack: Analyst Claims BSV Network Experienced a 100-Block Reorg'
+author: willmeet22
+type: post
+date: 2021-08-04T16:33:09+00:00
+url: /bitcoinsv-chain-suffers-51-attack-analyst-claims-bsv-network-experienced-a-100-block-reorg/
+image: "/img/posts/2021/08/bitcoinsv-chain-suffers-51-attack-analyst-claims-bsv-network-experienced-a-100-block-reorg-240x172.jpg"
+response_body:
+  - '{"id":"4f87dbf2-6085-494a-9ca0-cb6ffc87e34d","recipients":563,"external_id":"abcaf74a-c6e8-7f42-4e2a-9584ba348a9e","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 563
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/bitcoinsv-chain-suffers-51-attack-analyst-claims-bsv-network-experienced-a-100-block-reorg/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/08/bitcoinsv-chain-suffers-51-attack-analyst-claims-bsv-network-experienced-a-100-block-reorg.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Bitcoinsv Chain Suffers 51% Attack: Analyst Claims BSV Network Experienced a 100 Block Reorg" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Reports show that the Bitcoinsv blockchain suffered from a 51% attack on Tuesday, August 3, 2021, as the founder of Blockchair, Nikita Zhavoronkov explained the network endured a 100 block reorg “wiping out 570k transactions.” </strong>
+  </p>
+  
+  <h2>
+    Onchain Observers Witness a Deep Bitcoinsv Reorg
+  </h2>
+  
+  <p>
+    The Bitcoinsv (BSV) network has been having issues lately following problems the protocol saw in mid-July. At that time, 78% of the network was mined by a single entity called Taal and a number of exchange providers halted services. On August 3, the founder of Blockchair, Nikita Zhavoronkov, and numerous onchain observers discovered the BSV chain suffered from a deep blockchain reorganization, otherwise known as a reorg.
+  </p><figure id="attachment_478730" aria-describedby="caption-attachment-478730" style="width: 1200px" class="wp-caption aligncenter">
+  
+  <img decoding="async" loading="lazy" class="wp-image-478730 size-full" title="Bitcoinsv Chain Suffers 51% Attack: Analyst Claims BSV Network Experienced a 100-Block Reorg" src="https://technologymanias.com/wp-content/uploads/2021/08/e74okexxsaalad1.jpeg" alt="Bitcoinsv Chain Suffers 51% Attack: Analyst Claims BSV Network Experienced a 100-Block Reorg" width="1200" height="675" /><figcaption id="caption-attachment-478730" class="wp-caption-text">Screenshot Blockchair’s Nikita Zhavoronkov shared on August 3, 2021.</figcaption></figure> 
+  
+  <p>
+    Zhavoronkov tweeted about the issue on Tuesday and then clarified that the chain lost 100 blocks. “The reorg was 100 (!) blocks deep wiping out 570k transactions,” the Blockchair founder said. The onchain analysts at Coin Metrics caught the reorg as well alongside Lucas Nuzzi who also tweeted about the problems BSV had on Tuesday.
+  </p>
+  
+  <p>
+    “BSV is going through a massive 51% attack,” Nuzzi said. “After an attempted attack yesterday, some serious hashing power was unleashed today at 11:46AM and attackers are succeeding. Over a dozen blocks are being reorgd & up to 3 versions of the chain being mined simultaneously across pools.”
+  </p>
+  
+  <h2>
+    Bitcoinsv Group Addresses Situation, Claims It’s Marking ‘Illegal Chains’
+  </h2>
+  
+  <p>
+    A member of the Bitcoin Association (a BSV-related org.), Alex Speirs, published the BSV side of the story on August 4. The announcement is called a “Statement on August 2021 block re-organisation attack on the Bitcoin SV network.”
+  </p>
+  
+  <p>
+    “The Bitcoin SV network is currently enduring an ongoing series of block re-organisation attacks by a malicious actor attempting to illegally double-spend BSV coins,” Speirs wrote on Wednesday. “Bitcoin Association believes that this is the same attacker that previously initiated block re-organisation attacks against the BSV network on June 24 and July 1, 6 & 9, 2021.”
+  </p>
+  
+  <p>
+    According to Speirs, the Bitcoin Association (BSV) and the Bitcoin SV Infrastructure Team recommend that node operators “mark illegal chains initiated by the attacker as invalid.” Moreover, Speirs emphasized that the BSV association will collect evidence on such matters. Speirs said:
+  </p>
+  
+  <blockquote>
+    <p>
+      [The] Bitcoin Association continues to collect evidence of the illegal activity and its representatives are actively working with law enforcement authorities in affected jurisdictions.
+    </p>
+  </blockquote>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    2 Illegal Chains, Ecash Reorgs Remembered
+  </h2>
+  
+  <p>
+    At the time of writing, data from Coin Dance shows the miner Taal has 47.6% of the BSV hashrate and 27% belongs to unknown stealth miners. Taal is considered an honest and protective mining operator within the BSV community.
+  </p>
+  
+  <p>
+    The mining operator Taal has been able to capture 15 blocks in a row while this article was written. According to the blog post written by Speirs which also contains developing updates: “In the last 12 hours, two illegal chains created by the attacker have been successfully repelled.”
+  </p>
+  
+  <p>
+    At the end of November 2020, the Bitcoin ABC pro-IFP chain, which was nameless at the time, saw a great number of reorgs making the chain almost unusable. A mystery mining entity at the time that called itself “Voluntarism.dev” mined a great number of consecutive empty blocks and made it so no one could transact with the coin which is now called “ecash.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the problems Bitcoinsv has been facing lately? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

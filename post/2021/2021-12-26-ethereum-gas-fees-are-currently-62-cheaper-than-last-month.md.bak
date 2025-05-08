@@ -1,0 +1,85 @@
+---
+title: Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month
+author: willmeet22
+type: post
+date: 2021-12-26T00:03:52+00:00
+url: /ethereum-gas-fees-are-currently-62-cheaper-than-last-month/
+image: "/img/posts/2021/12/ethgas-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-26T00:03:53+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ethereum-gas-fees-are-currently-62-cheaper-than-last-month/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/ethgas.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Since November 9, 2021, or 46 days ago, transaction fees on the Ethereum network have been cut by more than half the rate they were on that day. At the time, the average fee to move ethereum was $62.84 per transfer and since then, the fees have dropped 62.85% to $23.34 per transaction.</strong>
+  </p>
+  
+  <h2>
+    From $62 to $23 per Transaction, Ethereum Fees Have Been Cut by More Than 62%
+  </h2>
+  
+  <p>
+    Just over a month ago, it was a lot more expensive to transfer ethereum (ETH) onchain, let alone move an ERC20 token, swap tokens, or interact with a smart contract. On December 25, metrics show the average fee spent on the Ethereum network is $22.80 or 0.0056 ether per transaction.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter wp-image-501580 size-full" title="Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month" src="https://technologymanias.com/wp-content/uploads/2021/12/avg.jpg" alt="Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month" width="1280" height="330" />
+  </p>
+  
+  <p>
+    The day prior it was $23.34 per transaction, which is 62.85% lower than the fees recorded on November 9. A 62% savings per data transfer cost is considerable and the median ether fee is even cheaper. Statistics from bitinfocharts.com indicate that on November 9, the median ether fee was $34.28 per transaction and today, the fee is 0.0032 ETH or $12.99.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter wp-image-501579 size-full" title="Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month" src="https://technologymanias.com/wp-content/uploads/2021/12/meds23.jpg" alt="Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month" width="1280" height="330" />
+  </p>
+  
+  <p>
+    The decrease in median fees size was also more than 62% less than the metrics recorded for median ether fees 46 days ago. Data transfer fees are even lower looking at the recorded median-sized fee by l2fees.info statistics. On Saturday, the fee to transact with ethereum is $6.78 per transaction but to move a token will cost $15.49 per transfer.
+  </p>
+  
+  <h2>
+    Layer 2 Networks Still Move Ether for Less Money
+  </h2>
+  
+  <p>
+    Swapping a token will cost the user $33.89 per transaction according to l2fees.info statistics today. Of course, layer two (L2) transfer fees are much lower and the lowest provider today in terms of fee rates is Loopring with $0.16 per ether transfer. Loopring is followed by Polygon Hermez ($0.25), Zksync ($0.33), Arbitrum One ($1.87), and Optimism ($2.00). To swap a token or interact with an Ethereum-based smart contract, it will cost a Zksync user $0.81, a Loopring user $1.02, an Optimism user $2.82, and an Arbitrum user $3.22 per transfer.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter wp-image-501578 size-full" title="Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month" src="https://technologymanias.com/wp-content/uploads/2021/12/l2.jpg" alt="Ethereum Gas Fees Are Currently 62% Cheaper Than Last Month" width="1280" height="720" />
+  </p>
+  
+  <p>
+    In addition to Ethereum network fees getting cheaper, Bitcoin (BTC) network fees are less today as well. In fact, since the end of July, BTC fees have been around $1.50 to $5.00 per transaction on average according to bitinfocharts.com data. On Saturday, December 25, 2021, the average bitcoin (BTC) fee is 0.000046 BTC which is roughly $2.36 per transaction or 0.0000001 BTC per byte. BTC fees did reach a high of $62.77 on April 21, 2021, which indicates that fees are 96.24% cheaper than the high recorded that day.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Ethereum network fees dropping more than 62% since November? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

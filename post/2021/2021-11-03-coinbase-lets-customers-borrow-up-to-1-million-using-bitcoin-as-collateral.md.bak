@@ -1,0 +1,87 @@
+---
+title: Coinbase Lets Customers Borrow up to $1 Million Using Bitcoin as Collateral
+author: willmeet22
+type: post
+date: 2021-11-03T16:03:54+00:00
+url: /coinbase-lets-customers-borrow-up-to-1-million-using-bitcoin-as-collateral/
+image: "/img/posts/2021/11/coinbase-borrow-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-03T16:03:55+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/coinbase-lets-customers-borrow-up-to-1-million-using-bitcoin-as-collateral/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/coinbase-borrow.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left;margin:0 15px 15px 0" /></p> 
+  
+  <p>
+    <strong>The Nasdaq-listed crypto exchange Coinbase is now letting customers borrow up to $1 million using bitcoin as collateral. The company charges 8% APR but there is no credit check. The exchange said that the bitcoin used as collateral “remains safely held by Coinbase,” emphasizing, “It’s not lent out or used for any other purpose.”</strong>
+  </p>
+  
+  <h2>
+    Customers Can Borrow up to $1M With Bitcoin as Collateral From Coinbase
+  </h2>
+  
+  <p>
+    Cryptocurrency exchange Coinbase announced Tuesday:
+  </p>
+  
+  <blockquote>
+    <p>
+      We’re excited to announce that eligible customers can now borrow up to $1 million USD from Coinbase.
+    </p>
+  </blockquote>
+  
+  <p>
+    On its website, the Nasdaq-listed <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchange explained that eligible customers can “Borrow cash using bitcoin as collateral,” noting that borrowers will “Pay just 8% APR with no credit check.”
+  </p>
+  
+  <p>
+    The company explained that customers can borrow as much as 40% of the value of the bitcoin in their account, up to $1 million. “Each month you only need to pay the interest due ($10 min),” Coinbase said, adding that there is no prepayment or late fees.
+  </p>
+  
+  <p>
+    “This line of credit has a demand feature and is repayable within 2 years of opening,” Coinbase continued, elaborating:
+  </p>
+  
+  <blockquote>
+    <p>
+      The bitcoin you use as collateral remains safely held by Coinbase. It’s not lent out or used for any other purpose.
+    </p>
+  </blockquote>
+  
+  <p>
+    The line of credit offered by Coinbase is currently available to residents of the following U.S. states: AK, AR, AZ, CA, FL, ID, IL, NC, NE, NH, NJ, NY, OH, OR, TN, TX, UT, VA, WA, and WY.
+  </p>
+  
+  <p>
+    Coinbase recently abandoned its plan to launch a lending program after the U.S. Securities and Exchange Commission (SEC) threatened to sue the company if it proceeded with the launch. The exchange then published a proposal for <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> regulation with four core recommendations.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Coinbase letting customers borrow up to $1 million with bitcoin as collateral? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

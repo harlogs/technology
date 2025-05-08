@@ -1,0 +1,81 @@
+---
+title: Etoro to Limit Cardano and Tron Services in US Due to Regulatory Concerns
+author: willmeet22
+type: post
+date: 2021-11-26T11:03:49+00:00
+url: /etoro-to-limit-cardano-and-tron-services-in-us-due-to-regulatory-concerns/
+image: "/img/posts/2021/11/shutterstock_1836331606-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-26T11:03:50+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/etoro-to-limit-cardano-and-tron-services-in-us-due-to-regulatory-concerns/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/shutterstock_1836331606.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="etoro" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Etoro, an Israel-based trading platform, has taken action on its platform regarding the trading of cardano and tron. Now, U.S.-based customers will have limited functionality with these cryptocurrencies on the Etoro platform starting in December. Etoro explained in a post that these new measures were a consequence of “business-related considerations in the evolving regulatory environment.”</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Etoro Limits Cardano and Tron Trading for US-Based Customers
+  </h2>
+  
+  <p>
+    Etoro, one of the most important Israel-based trading companies, has limited tron and cardano trading for users based in the U.S. The announcement was made on November 23, in a blog post that informed customers about the limitations that these assets will see applied to the platform. Users will not be able to open positions for these cryptocurrencies starting December 26, and will not be able to stake these assets anymore starting next December 21.
+  </p>
+  
+  <p>
+    However, this only applies to new positions. Existing positions will have to be maintained by the users, but when closed the payout of the operation (if any) will be processed in dollars. Also, positions in smart portfolios will be converted to personal positions for the user to maintain them. Etoro stated it is taking these measures due to “business-related considerations in the evolving regulatory environment.” The company is likely trying to protect itself from the regulatory uncertainty that the cryptocurrency sector is facing in the U.S.
+  </p>
+  
+  <h2 style="text-align: center;">
+    Hoskinson Answers
+  </h2>
+  
+  <p>
+    The unexpected measures taken by Etoro prompted a response from Charles Hoskinson, the founder of Cardano. Hoskinson talked about the general regulatory uncertainty problems that <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> faces in the world, and especially in the U.S. On the subject, Hoskinson stated:
+  </p>
+  
+  <blockquote>
+    <p>
+      It appears to be an adjustment in risk control and policy for a particular European entity and liquidity was reduced there for US participants.
+    </p>
+  </blockquote>
+  
+  <p>
+    At the same time, Bitstamp, another European <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> exchange, has announced it will be including cardano on its platform. This would support the aforementioned assessment by Hoskinson, which suggests Etoro’s constriction is just a specific action by a single platform, and not symbolic of an overall trend of exclusion. Hoskinson also clarified the action by Etoro wouldn’t affect the liquidity of the currency in the market, as it was a relatively small platform for the token.
+  </p>
+  
+  <p>
+    Hoskinson also called for regulatory clarity, stating that it was going to be the only way in which all of these problems could be solved. on the other hand, Justin Sun, the founder of Tron, made no statements about the issue.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Etoro limiting Cardano and Tron functionality on its platform? Tell us in the comments section below. </strong></em>
+  </p>
+</div>

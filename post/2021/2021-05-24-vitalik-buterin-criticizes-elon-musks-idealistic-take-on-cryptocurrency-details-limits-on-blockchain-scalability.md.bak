@@ -1,0 +1,74 @@
+---
+title: Vitalik Buterin Criticizes Elon Musk’s Idealistic Take on Cryptocurrency, Details Limits on Blockchain Scalability
+author: willmeet22
+type: post
+date: 2021-05-24T21:00:55+00:00
+url: /vitalik-buterin-criticizes-elon-musks-idealistic-take-on-cryptocurrency-details-limits-on-blockchain-scalability/
+image: "/img/posts/2021/05/shutterstock_712558591-768x432-1-240x172.jpg"
+atap_auto_post:
+  - no
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/vitalik-buterin-criticizes-elon-musks-idealistic-take-on-cryptocurrency-details-limits-on-blockchain-scalability/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/05/shutterstock_712558591-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="vitalik buterin" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/05/shutterstock_712558591-768x432-1.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-300x169.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-1024x576.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-696x392.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-1068x601.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-747x420.jpg 747w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-190x107.jpg 190w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-380x214.jpg 380w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591-760x428.jpg 760w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_712558591.jpg 1280w" sizes="auto, (max-width: 696px) 100vw, 696px" /></p> 
+  
+  <p>
+    <strong>Vitalik Buterin, one of the most renowned Ethereum founders, has rebuffed Elon Musk’s take on fixing cryptocurrencies in a new paper where he details the limits of blockchain scalability. Buterin touches on three subjects: storage, bandwidth, and computing power, commenting on their limits with today’s tech.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Vitalik Buterin Criticizes Elon Musk’s Simplistic Take
+  </h2>
+  
+  <p>
+    Vitalik Buterin, the founder of the second most successful cryptocurrency (Ethereum), criticized yesterday Elon Musk’s take on fixing cryptocurrencies just by raising some key aspects. In a new paper titled “The Limits to Blockchain Scalability,” Buterin sends a pair of jabs to Elon, asking in its very first paragraph:
+  </p>
+  
+  <blockquote>
+    <p>
+      Can you really, as Elon Musk wishes, “speed up block time 10X, increase block size 10X & drop fee 100X” without leading to extreme centralization and compromising the fundamental properties that make a blockchain what it is?
+    </p>
+  </blockquote>
+  
+  <p>
+    Buterin, who has always been worried about blockchain adoption, then goes on to expand these ideas in the paper. He states that one of the most important factors for blockchain defense and decentralization is the possibility of normal users to run a node (this has raised already a round of critics from some users in the big block community, and contrasts with other points of view like the one Olivier Janssens has expressed since 2017). For him, there are just three fundamental factors that can affect the ability of end-users to run a node: storage, bandwidth, and computing power.
+  </p>
+  
+  <p>
+    The paper explains how these three factors should be configured and their recommended values if the objective is to have a properly working blockchain. For storage, it points out that while there are 8TB SSD available, this is not an acceptable size for most users, with 512 gigabytes being in the upper limit.
+  </p>
+  
+  <p>
+    About bandwidth, although there are already very quick connection speeds available, it states that the limit is about five megabytes blocks every ten seconds because nodes also need to save bandwidth for protocol overhead and transaction broadcast. And for computing power, the paper explains that ten percent of the maximum capability of a computer should be the limit because nodes need to save power to face DDoS attacks and face short outages.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2 style="text-align: center;">
+    Musk Fires Back
+  </h2>
+  
+  <p>
+    The paper constitutes a technical rebuff to what Musk had proposed last week when he tried to address scalability in a simplistic way. Musk has proposed to fix Dogecoin, his cryptocurrency pick, to be the next scalable currency for the world. He even offered to fund development and help current Dogecoin programmers to improve the behavior of the currency to be more energy efficient.
+  </p>
+  
+  <p>
+    Musk didn’t wait too much time to strike back at this technical answer to his objectives: Tesla’s CEO had fun while stating that Buterin had fear of the Doge, while posting a meme that showed a Shiba Inu dog in a classic Jaws movie poster on Twitter.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Buterin’s last paper? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

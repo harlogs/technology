@@ -1,0 +1,329 @@
+---
+title: Why — and how — we created the State Pandemic Scorecard
+author: willmeet22
+type: post
+date: 2021-12-15T12:05:30+00:00
+url: /why-and-how-we-created-the-state-pandemic-scorecard/
+image: "/img/posts/2021/12/shareart1-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-15T12:05:30+00:00
+wpe_campaignid:
+  - 5352
+wpe_feed:
+  - https://www.politico.com/rss/politicopicks.xml
+wpe_sourcepermalink:
+  - https://www.politico.com/news/2021/12/15/main-recoverylab-capstone-data-methodology-524101
+categories:
+  - News
+tags:
+  - news today usa
+  - usa news today
+
+---
+<div>
+  <img decoding="async" src="https://technologymanias.com/wp-content/uploads/2021/12/shareart1.jpg" /></p> 
+  
+  <p>
+    For the past year, POLITICO’s Recovery Lab project has been chronicling how the pandemic is playing out around the country with a special eye to the innovations and policies enacted by officials at the state and local levels. We’ve noticed differences in how the pandemic has affected states, but it’s been hard to figure out just how large, and how meaningful, those differences have been. Some of the differences were the result of inherent factors, like the makeup of a state’s economy, including how dependent it is on tourism. But some differences were also the result of decisions made by public officials.
+  </p>
+  
+  <p>
+    More than 18 months into the pandemic, the impacts of those decisions are showing up in data that can be tracked and evaluated. This scorecard pulls that data together in an accessible format that readers can use to see how policy trade-offs have played out so far in each state, and help inform state responses going forward.
+  </p>
+  
+  <p>
+    There are a few caveats that readers should keep in mind in interpreting this data.
+  </p>
+  
+  <p>
+    <b>First and foremost: The pandemic is not over,</b> and many of these indicators will continue to change in the months and, yes, <i>years</i> to come. This is a first attempt at tallying the pandemic’s impacts at the state level; it’s not the final word.
+  </p>
+  
+  <p>
+    <b>Second, many of these measures are preliminary.</b> The economic data, in particular, is constantly being updated and retrospectively revised by the government agencies that collect it. States that appear to fare well or poorly now may look different down the road.
+  </p>
+  
+  <p>
+    <b>Third, some of the indicators, particularly for education, are partial.</b> Again, we can expect more and better data to become available in the future. While imperfect, this preliminary data already reveals emerging patterns that we felt important to include.
+  </p>
+  
+  <p>
+    We divided the data into four buckets: health, economy, education and social well-being, and — in most cases — compared the metrics to a pre-pandemic baseline.
+  </p>
+  
+  <p>
+    Once we had the four policy area scores, we faced the decision of whether to average those scores and if so, how to weight those categories. We decided that weighting any category more than the others — deciding, for instance, that vaccination rates should count more than math testing scores — is a <i>political </i>decision, not an editorial one. There are always trade-offs in public policy, and the decision on how to prioritize the relative value of health, economic, education and social outcomes are exactly the decisions that politicians are elected to make. To stay as neutral as possible we’ve weighed those categories equally in our average score, but we encourage readers to closely review the individual categories and the data behind them in reaching their own conclusions.
+  </p>
+  
+  <p>
+    Importantly, we believe in showing and sharing our work. Readers can download the full data set here. Below, we have a more detailed explanation of our methodology and provide links to the underlying data.
+  </p>
+  
+  <p>
+    This scorecard should be considered a tool in an evolving policy landscape that shows where states are struggling and where they are doing better. We hope that the patterns that are emerging in this data will be helpful to public officials in evaluating the trade-offs they are still facing as we grapple with this ongoing public health crisis.
+  </p>
+  
+  <p>
+    — <i><b>Maura Reynolds</b>,</i> editor, POLITICO’s Recovery Lab and <i><b>Sean McMinn,</b></i> data and graphics editor, POLITICO
+  </p>
+  
+  <h3 style="text-align: left">
+    METHODOLOGY
+  </h3>
+  
+  <p>
+    <b>For each of the four categories — </b>health, economy, education and social well-being — we calculated a score between zero and 100. Those scores represent the average of each of the metrics, outlined below, that go into those categories.
+  </p>
+  
+  <p>
+    For each of the metrics in the four categories, we compared a state’s performance to other states using a z-score, which is a commonly used statistical measurement to determine how far off of “average” a given data point is. That z-score can then be converted to a percentile from 0-100 by using a cumulative distribution function.
+  </p>
+  
+  <p>
+    Those percentiles were averaged for each metric across a category to calculate the category’s score.
+  </p>
+  
+  <p>
+    We averaged those four category scores with each other to come up with an average score for each state. If a state was missing data for any metric, that metric was not included in the average.
+  </p>
+  
+  <h3 style="text-align: left">
+    Health
+  </h3>
+  
+  <p>
+    To score states’ performance in health care, we used four metrics:
+  </p>
+  
+  <p>
+    <b>&#8211; Deaths per capita</b><br /><b>&#8211; Hospitalizations per capita</b><br /><b>&#8211; Covid tests completed, compared to hospital admissions</b><br /><b>&#8211; Vaccine doses administered per capita</b>
+  </p>
+  
+  <h4 style="text-align: left">
+    Deaths per capita
+  </h4>
+  
+  <p>
+    For deaths, we calculated the <u>total number of Covid-19 deaths</u> per capita starting March 26, 2020 and as of Nov. 26. We also checked to see if the age distribution of states made a substantial difference in the rankings using the <u>CDC’s relative risk</u> breakdown, and it did not.
+  </p>
+  
+  <h4 style="text-align: left">
+    Hospitalizations per capita
+  </h4>
+  
+  <p>
+    For hospitalizations, we compiled the total number of <u>Covid-19-confirmed hospital admissions</u> (adult and pediatric) per capita starting March 26, 2020 and as of Nov. 28.
+  </p>
+  
+  <h4 style="text-align: left">
+    Covid tests completed, compared to hospital admissions
+  </h4>
+  
+  <p>
+    For testing, we summed the <u>total number of positive, negative and inconclusive tests</u> conducted per capita as of Nov. 25. We then divided that number by the state’s hospitalizations per capita to calculate a ratio of how many tests were conducted per hospitalization. This weighting compensated for the fact that states with surges would likely see an increase in testing, and it benefited states that were testing preventatively — even when there weren’t surges.
+  </p>
+  
+  <p>
+    For example, if at any point in time State A had a surge and State B had a lull in cases, you would expect there to be more tests taking place in State A. If State B was doing the same number of tests as State A, State B would appear better in our rankings because their public health operation was being more proactive.
+  </p>
+  
+  <h4 style="text-align: left">
+    Vaccine doses administered per capita
+  </h4>
+  
+  <p>
+    We calculated the <u>total number of vaccines administered </u>in each state, including booster doses, per capita as of Nov. 24.
+  </p>
+  
+  <p>
+  </p>
+  
+  <h3 style="text-align: left">
+    Economy
+  </h3>
+  
+  <p>
+    To score state economic performance we used three metrics. For each, we compared seasonally adjusted post-pandemic 2020 and 2021 numbers to those of 2019.
+  </p>
+  
+  <p>
+    <b>&#8211; GDP by state</b><br /><b>&#8211; Job creation </b><br /><b>&#8211; Unemployment rate</b>
+  </p>
+  
+  <h4 style="text-align: left">
+    GDP
+  </h4>
+  
+  <p>
+    Beginning with the second quarter of 2020, we took the state <u>GDP for each quarter</u> and compared it to the same quarter in 2019 to come up with a percent change. We then averaged those percent changes.
+  </p>
+  
+  <h4 style="text-align: left">
+    Job creation
+  </h4>
+  
+  <p>
+    We calculated the average monthly change in <u>nonfarm employee payrolls</u> compared to the same month in 2019, starting with March 2020.
+  </p>
+  
+  <h4 style="text-align: left">
+    Unemployment
+  </h4>
+  
+  <p>
+    <b> </b><br />We calculated the average monthly change in the <u>state unemployment rate</u> compared to the same month in 2019, starting with March 2020.
+  </p>
+  
+  <h3 style="text-align: left">
+    Social well-being
+  </h3>
+  
+  <p>
+    Measuring social well-being is inherently difficult but we looked for nationwide metrics that were available with state breakdowns. We found three that met our criteria:
+  </p>
+  
+  <p>
+    <b>&#8211; Food insecurity</b><br /><b>&#8211; Ability to afford household expenses</b><br /><b>&#8211; Violent crime</b>
+  </p>
+  
+  <p>
+    We compared these metrics against the earliest available baseline after March 2020, and calculated the change each state experienced as the pandemic progressed. As a result, our calculations don’t compare current<i> levels</i> of each metric, such as food insecurity, just how much they improved or worsened after the baseline. Therefore a state with a drop-off in violent crime will score higher than a state with an increase in violent crime, even if the level of violent crime in the first state is higher.
+  </p>
+  
+  <h4 style="text-align: left">
+    Food insecurity
+  </h4>
+  
+  <p>
+    For food insecurity, we used data from the <u>U.S. Census Bureau’s weekly Household Pulse Survey</u>, which began in April 2020. We used the first survey as the baseline. We took the average weekly percent of people who reported that they sometimes or often didn’t have enough to eat, then divided that rate by the percent of people who had struggled with food insecurity during the first week the survey was conducted.
+  </p>
+  
+  <h4 style="text-align: left">
+    Ability to afford household expenses
+  </h4>
+  
+  <p>
+    In mid-August 2020, or week 13 of the <u>Household Pulse survey</u>, the Census Bureau began asking respondents how their ability to pay for usual household expenses had been affected by the pandemic. We took the average weekly percent of people that said it had been somewhat or very difficult to afford household expenses, then divided that by the initial rate reported in week 13.
+  </p>
+  
+  <h4 style="text-align: left">
+    Violent crime
+  </h4>
+  
+  <p>
+    For violent crimes, we calculated the percent change in total violent crimes from 2019 to 2020, using <u>data from the FBI</u>. (Data for 2021 has not yet been released.) The violent crimes in the FBI data include homicide, rape, robbery, aggravated assault, burglary, larceny-theft and motor vehicle theft. This data reflects the hierarchy rule, which requires only the most serious offense to be counted in an agency’s crime totals when multiple offenses are committed in an incident.
+  </p>
+  
+  <p>
+    We chose to focus on violent crime because, as POLITICO’s Recovery Lab <u>previously reported</u>, property crime actually decreased during the pandemic.
+  </p>
+  
+  <p>
+  </p>
+  
+  <h3 style="text-align: left">
+    Education
+  </h3>
+  
+  <p>
+    To score states’ performance in education, we used three metrics:
+  </p>
+  
+  <p>
+    <b>&#8211; Change in reading achievement</b><br /><b>&#8211; Change in math achievement</b><br /><b>&#8211; Change in enrollment</b>
+  </p>
+  
+  <p>
+    When the pandemic broke out in spring 2020, the federal government postponed the tests it administers every year to track student performance. Those tests, known as the National Assessment of Educational Progress, will resume in spring 2022 but the results will not be available until next summer at the earliest. (Some states conducted their own statewide testing during the pandemic, but those results are not comparable across states.)
+  </p>
+  
+  <p>
+    In the absence of federal test scores, there is currently no educational assessment data available that reflects the performance of all students and all states. But since pandemic learning loss is expected to have very long-term effects on the economy and society, we didn’t want to exclude education from the scorecard.
+  </p>
+  
+  <p>
+    As a result, we decided to include the next-best educational data available — assessments by private companies — and create as large a dataset as possible with their help. We worked with three private companies — Curriculum Associates, Renaissance and NWEA — that contract with states and districts around the country to help education officials measure student performance. Each of the testing providers crunched their data into a format that could be aggregated. Each had their own threshold for what level of data they were able to share based on agreements with their clients:
+  </p>
+  
+  <p>
+    <b>&#8211; Curriculum Associates:</b> State-aggregated data with a minimum of 10 districts and 1,000 students tested in a given grade/subject. Only students who tested in school were included.<br /><b>&#8211; <u>NWEA</u></b>: State-aggregated data only from states where multiple districts were included and approximately 20 percent of pre-K through eighth grade public school students in a state were tested.<br /><b>&#8211; <u>Renaissance</u></b>: State-aggregated data with a minimum of 10 schools and 2,500 students tested. Only students who tested in school were included.
+  </p>
+  
+  <p>
+    The aggregated dataset that we created is the best education assessment data currently available for comparing student achievement across states. It includes testing results from 48 states and represents tests taken by over<b> </b>4 million students between grades one and eight in reading and math. (One testing company, Curriculum Associates, provided data for only third graders.)
+  </p>
+  
+  <p>
+    The data captures a sample of students in each state, but it’s not a randomized sample, and it has important limitations that readers should keep in mind when evaluating the results. For instance, while the companies excluded small sample sizes from the data they provided, we don’t know to what extent the samples in the combined dataset are representative of the populations of their states in terms of demographics, ethnic diversity, income, whether the students attend an urban, suburban or rural school, or other factors. We also don’t know whether the students took the tests at home or in school; students taking the tests at home tended to score higher. One company provided data only for students who took the test at school, as opposed to at home. The other two reported that a majority of tests were taken at school, or in districts where more than 50 percent of schools were not physically closed.
+  </p>
+  
+  <p>
+    We did not account for differences in demographic groups between tests, in part because testing providers did not provide detailed district- or school-level breakdowns in order to preserve student privacy. There were, in general, differences between testing companies: Renaissance, for example, reported 47 percent of their test-takers who indicated a race were white, while NWEA reported 58 percent were white. The data may also be sampled from private or religious schools at higher or lower rates than a state’s actual enrollments.
+  </p>
+  
+  <p>
+    In short, the education data in the scorecard is the best available right now, but it’s imperfect, preliminary and partial, and readers should keep those limitations in mind. Recognizing this, we are not publishing specific testing scores for each state, but are instead assigning a score based on a grouping detailed lower in the methodology.
+  </p>
+  
+  <p>
+    Maryland and Wyoming did not have private testing data that met the threshold criteria, so they do not have a score in the education category. Those states’ average scores were calculated using only the health, social well-being and economic categories.
+  </p>
+  
+  <p>
+  </p>
+  
+  <h4 style="text-align: left">
+    Reading and math achievement
+  </h4>
+  
+  <p>
+    These two measures were calculated separately and together comprised two-thirds of the education score. For each testing provider that had data for a given state, we took the median percentile of spring 2021 compared to a pre-pandemic nationwide norm and converted it to a normal-curve equivalent using the following formula:
+  </p>
+  
+  <p>
+    ( 21.06 * percent-point-function of (PERCENTILE_RANKING/100) ) + 50
+  </p>
+  
+  <p>
+    In order to obtain a unique baseline for each state, we took a pre-pandemic testing period for each state (Fall 2019 for NWEA and Renaissance and spring 2019 for Curriculum Associates) and calculated a normal-curve equivalent for that also. We then calculated the change between the state-specific spring 2021 data and the state-specific pre-pandemic data.
+  </p>
+  
+  <p>
+    If there was only one testing company that provided data for a given state, the change from pre-pandemic to post-pandemic was used to score the state’s reading and math scores. If there were multiple testing companies that provided data for a given state, each of their percent changes were calculated separately and then averaged together, weighted by the number of students in each testing company’s spring 2021 sample.
+  </p>
+  
+  <p>
+    For states where the weighted average percent change was better than -1 percent, we assigned them into a group labeled “little to no learning loss” and awarded 100 points in the reading or math category. The remaining states were divided into two equally sized groups. The states in the middle group were labeled “some learning loss” and were awarded 67 points, and the states in the bottom group — which showed the most learning loss — earned 33 points and received a “most learning loss” label.
+  </p>
+  
+  <h4 style="text-align: left">
+    Change in enrollment
+  </h4>
+  
+  <p>
+    We calculated the percent change between 2020-2021 academic year enrollment to 2019-2020 enrollment using public school data <u>available for each state from the National Center for Education Statistics</u>. Because of data limitations at the time this analysis was done, pre-K enrollment data was excluded. Private schools were also not included.
+  </p>
+  
+  <p>
+    Illinois did not provide enrollment data for the 2020-2021 academic year, so only its testing scores were used to calculate its education score.
+  </p>
+  
+  <p>
+    <i>Annette Choi contributed to this methodology.</i>
+  </p>
+  
+  <p>
+  </p>
+</div>

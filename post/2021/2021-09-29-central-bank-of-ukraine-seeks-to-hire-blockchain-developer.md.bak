@@ -1,0 +1,83 @@
+---
+title: Central Bank of Ukraine Seeks to Hire Blockchain Developer
+author: willmeet22
+type: post
+date: 2021-09-29T12:02:50+00:00
+url: /central-bank-of-ukraine-seeks-to-hire-blockchain-developer/
+image: "/img/posts/2021/09/nbu-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-29T12:02:50+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/central-bank-of-ukraine-seeks-to-hire-blockchain-developer/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/nbu.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Central Bank of Ukraine Seeks to Hire Blockchain Developer" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>National Bank of Ukraine is hiring a blockchain expert who will likely support its digital currency project. The vacancy has been announced as the financial institution prepares to pilot e-hryvnia salary payments for government workers as early as this year. </strong>
+  </p>
+  
+  <h2>
+    NBU Posts Blockchain Developer Ad on Linkedin
+  </h2>
+  
+  <p>
+    The central bank of Ukraine is looking to employ a blockchain developer with promises of career growth opportunities and a private sector salary. A job posting describing the role’s responsibilities and the benefits candidates may expect has been recently published on Linkedin by the bank’s IT director, Vladimir Nagornyuk.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter wp-image-487675 size-full" src="https://technologymanias.com/wp-content/uploads/2021/09/shutterstock_1597371529.jpg" alt="Central Bank of Ukraine Seeks to Hire Blockchain Developer" width="1280" height="720" />
+  </p>
+  
+  <p>
+    The blockchain specialist is expected to participate in the “development, implementation and refinement of infrastructure services, highly accessible distributed systems and services (Hyperledger),” the ad details. The future hire will focus on the design and development of microservices and integration solutions, development of smart contracts, registers, and architectural solutions.
+  </p>
+  
+  <p>
+    According to Nagornyuk’s post, quoted by Forklog, the National Bank of Ukraine (NBU) offers “opportunities for professional development in a stable and transparent organization” and “market level remuneration” with performance-based bonuses. A corporate pension plan and flexible working hours are also part of the benefits.
+  </p>
+  
+  <p>
+    The monetary authority says it will provide its blockchain expert with access to training courses and an “opportunity to be involved in the development of the country.” This indicates that the person occupying the position is likely to join the regulator’s project to create its own central bank digital currency (CBDC).
+  </p>
+  
+  <p>
+    The e-hryvnia project has been in the works for several years now. New legislation opening the door for its issuance, the law “On Payment Services,” was adopted by the Ukrainian parliament in June, and later signed by President Volodymyr Zelensky. The bill grants the NBU powers to mint a digital version of the sovereign fiat currency.
+  </p>
+  
+  <p>
+    A survey conducted among financial professionals this year showed that the industry favors a blockchain design for the digital hryvnia that would allow peer-to-peer transfers, fuel e-commerce, and be used to facilitate transactions in the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> space. The central bank stated that the application of its CBDC in the virtual assets sector is worth further research.
+  </p>
+  
+  <p>
+    Meanwhile, Ukraine’s Ministry of Digital Transformation revealed in August that it plans to use the electronic hryvnia to pay its employees once the coin is available for testing. According to a recent statement by Arsen Makarchuk, head of the NBU Strategy and Development Department, a pilot project to do so may be launched by the end of the year.
+  </p>
+  
+  <p>
+    <strong><em>Do you think the central bank of Ukraine will find an appropriate candidate for its vacant blockchain developer position? Tell us in the comments section below. </em></strong>
+  </p>
+</div>

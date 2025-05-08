@@ -1,0 +1,92 @@
+---
+title: EY Releases Nightfall 3 — Protocol Aims to Bolster Private and Affordable Ethereum Transfers
+author: willmeet22
+type: post
+date: 2021-07-05T04:31:37+00:00
+url: /ey-releases-nightfall-3-protocol-aims-to-bolster-private-and-affordable-ethereum-transfers/
+image: "/img/posts/2021/07/shutterstock_1117944785-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"32cf2678-02c9-4022-8933-5877e9593183","recipients":334,"external_id":"fbceddae-7b1b-43ec-dfb1-466c1033da73","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 334
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ey-releases-nightfall-3-protocol-aims-to-bolster-private-and-affordable-ethereum-transfers/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_1117944785-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="EY Releases Nightfall 3 — Protocol Aims to Bolster Private and Affordable Ethereum Transfers" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_1117944785-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1117944785.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>EY, the multinational professional services network commonly known as Ernst & Young, has announced the company has contributed a set of tools for privately managing transactions on the Ethereum network. EY’s global media relations executive Joanna Hardy explained on Thursday how the company’s protocol helps ethereum transaction fees become more affordable and it enables the private transfer of ether.</strong>
+  </p>
+  
+  <h2>
+    Professional Services Giant and Big Four Member EY Releases Ethereum Protocol Nightfall 3
+  </h2>
+  
+  <p>
+    EY is a well known professional and financial services brand and the company headquartered in London has been working with blockchain and cryptocurrency solutions for quite some time. While EY is one of the largest professional services networks on a global scale it is also a member of the “Big Four” accounting firms.
+  </p>
+  
+  <p>
+    On July 1, Hardy detailed in an EY blog post that the company has released a set of tools that make ether transactions cheaper and more private. The protocol is called “Nightfall” and it leverages zero-knowledge proofs and other technologies to help bolster the tool’s privacy and transaction affordability goals.
+  </p>
+  
+  <p>
+    “EY today released a new set of tools for privately managing transactions on the Ethereum blockchain,” Hardy said on Thursday. “The project, known as Nightfall 3, combines zero-knowledge proofs (ZK or ZKP) with a new model for handling transaction verification to increase efficiency and reduce transaction costs known as an optimistic rollup. The combined protocol is known as a ZK-Optimistic Rollup.”
+  </p>
+  
+  <p>
+    The EY global media relations executive added:
+  </p>
+  
+  <blockquote>
+    <p>
+      Nightfall 3 aggregates ZKP transactions into groups, called rollups. These are known as ‘optimistic’ rollups because the system assumes the transactions to be valid unless proven otherwise and eliminates the process of having all participants verify all transactions.
+    </p>
+  </blockquote>
+  
+  <p>
+    Hardy further claims that the Nightfall 3 tool set with the help of ZK-Optimistic Rollups can make it so the cost of a single transaction would be “one-eighth of the cost needed to make a conventional, public ERC20 token transfer.” “When developing a new ZKP protocol, developers need to be able to interact directly with low-level ZKP constructs,” Dr. Duncan Westland, the associate director and head of global blockchain research and development at EY said.
+  </p>
+  
+  <p>
+    Westland continued:
+  </p>
+  
+  <blockquote>
+    <p>
+      If the user only requires private token transfers, it’s possible to have the application manage the ZKP interactions. In that case, provided the user is careful about how Layer 1 to Layer 2 transfers are made, a ZKP transaction can be considered a conventional token exchange, albeit with added privacy. Having an API that allows users to work that way can speed up development.
+    </p>
+  </blockquote>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Nightfall 3 Balances Security Incentives and Mathematical Efficiency
+  </h2>
+  
+  <p>
+    Hardy’s EY announcement notes that the prototype code for Nightfall 3 is available on Github and available in the public domain. EY has dedicated a lot of energy toward the growing crypto industry and in 2016, the company said blockchain is poised for critical mass. The month prior ET helped Australia auction 24,000 BTC and last year in July, EY launched an app that helps U.S. crypto investors with tax filings. EY has dedicated time to Ethereum as well and Nightfall 3 is “designed to reduce the learning curve required by developers.”
+  </p>
+  
+  <p>
+    “Based on EY experience, ZK-Optimistic roll-ups are currently among the most effective in balancing security incentives and mathematical efficiency for running private transactions on the public Ethereum network,” EY global blockchain leader Paul Brody concluded in the blog post written by Hardy. “As we have in the past, we are again contributing this code into the public domain to speed up enterprise adoption of this technology,” Brody added.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about EY’s set of tools that aim to make ether transactions cheaper and more private? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

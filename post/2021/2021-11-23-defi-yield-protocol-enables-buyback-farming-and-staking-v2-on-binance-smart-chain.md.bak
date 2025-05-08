@@ -1,0 +1,133 @@
+---
+title: DeFi Yield Protocol Enables Buyback, Farming and Staking V2 on Binance Smart Chain
+author: willmeet22
+type: post
+date: 2021-11-23T23:04:38+00:00
+url: /defi-yield-protocol-enables-buyback-farming-and-staking-v2-on-binance-smart-chain/
+image: "/img/posts/2021/11/image_2021-11-22_18-37-01-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-23T23:04:40+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/defi-yield-protocol-enables-buyback-farming-and-staking-v2-on-binance-smart-chain/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/image_2021-11-22_18-37-01.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    Nowadays, there are so many different viable ways of earning money through the usage of cryptocurrencies. In the past, many traders would have preferred to simply hold on to their coins or ‘hold’ for as long as possible in order to get substantial returns on their investments. However, as time went on, new methods such as mining, staking, farming, and more emerged through which many are now earning much more comparative to their previous amounts.
+  </p>
+  
+  <p>
+    <b>What is the DeFi Yield Protocol?</b>
+  </p>
+  
+  <p>
+    The DeFi Yield Protocol (DYP) is a one-of-a-kind platform which provides solutions pertaining to staking, yield farming, and also non-fungible tokens (NFTs). It allows users to successfully leverage DYP’s sophisticated trading capabilities and tools in a seamless fashion.
+  </p>
+  
+  <p>
+    Simply put, DYP enables its users to provide liquidity as well as be rewarded for their efforts. The rewards can come via ETH, for instance. Concurrently, the platform is also working towards maintaining its token price stability in addition to offering security for the end users via the integration of its ‘anti-manipulation’ aspect.
+  </p>
+  
+  <p>
+    <b>New pools</b>
+  </p>
+  
+  <p>
+    The DYP has hereby informed everyone that the availability of new pools for the purposes of farming, staking and buyback on BSC (Binance Smart Chain) have now been launched. Every user is now eligible to earn 50% APR provided that they utilize the staking pools. Furthermore, the users can earn 100% APR should they choose to utilize the buyback pools, and a maximum of 500% APY if the farming pools are used.
+  </p>
+  
+  <p>
+    The information provided below is a summary of the main earning methods provided by DYP to its users.
+  </p>
+  
+  <p>
+    <b>DYP Farming</b>
+  </p>
+  
+  <p>
+    Farming has quickly become one of the most popular and common methods for earning an income through cryptocurrencies. For those interested in farming with DYP, they would thus need to have their liquidity be removed and their deposited assets be retrieved. This method is useful for those who wish to both stake and farm their assets simultaneously, as users can theoretically stake their DYP tokens and use other altcoins such as BUSD or ETH for farming purposes.
+  </p>
+  
+  <p>
+    Also, using a single asset, liquidity is automatically added to PancakeSwap V2 and the Staking contract receives a deposit via the utilization of one asset. Keep in mind that at least one supported asset must be utilized in order to start earning, and these include but are not limited to BNB, CAKE, BUSD, ETH and more. After this, the users will then be eligible to earn DYP/ETH/WBNB as rewards.
+  </p>
+  
+  <p>
+    In order to successfully maintain the token price stability, the smart contract will attempt to convert iDYP payouts to WBNB every 24 hours. Should the iDYP price be influenced by over 2.5%, then the highest iDYP amount that is not impacting the price would be switched to WBNB, with the leftover amount awarded in the following day’s prizes.
+  </p>
+  
+  <p>
+    Furthermore, if there are still any undistributed iDYP rewards after a week, DYP governance shall then vote upon whether the leftover iDYP would be distributed to the different token holders or if it will be burnt. Keep in mind that every burned token shall be taken out of circulation.
+  </p>
+  
+  <p>
+    Additionally, when the users unstake, they shall obtain the complete amount in the original deposit asset by burning LP tokens.
+  </p>
+  
+  <p>
+    <b>DYP Staking</b>
+  </p>
+  
+  <p>
+    Users are also able to stake their DYP tokens as previously mentioned. There is no Impermanent Loss either. In order to begin earning, the users need to allocate DYP tokens into the staking contract. DYP also allows the users to pick between two staking methods, with payouts ranging from 25% APR to 50% APR, depending on the lock duration, which can range from 0 days to 90 days.
+  </p>
+  
+  <p>
+    Moreover, the ‘REINVEST mechanism’ is included into the staking pools, allowing users to automatically add their daily rewards to the staking pool. Additionally, the ‘DYP Referral’ programme is provided to the users too, wherein if the users refer DYP to their friends, then they will immediately receive 5% of their profits every time they stake DYP. The referrals also do not involve any gas fees.
+  </p>
+  
+  <p>
+    <b>DYP BuyBack</b>
+  </p>
+  
+  <p>
+    One of the main reasons as to why the users might choose this option is because it is possible to earn 100% APR in DYP when they deposit CAKE, BTCB, BUSD, ETH, or WBNB. To begin earning, the users are required to deposit at least one of the supported assets into the corresponding Buyback contract. Afterwards, all assets would be converted into DYP plus iDYP and then transferred into a staking contract automatically.
+  </p>
+  
+  <p>
+    Moreover, the prizes are delivered electronically and can be redeemed on a daily basis. The users are also eligible to get the entire deposited sums (in DYP) when they withdraw.
+  </p>
+  
+  <p>
+    <b>Launch and overall success</b>
+  </p>
+  
+  <p>
+    When the above-mentioned information and processes are taken into account, it becomes clear to see as to why and how DYP has managed to gain so much traction. Binance Smart Chain remains one of the top choices for numerous individuals involved in the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> and blockchain sector, and so the DeFi Yield Protocol secured a much-needed win in the eyes of its supporters thanks to the successful launch of the new pools.
+  </p>
+  
+  <p>
+    As of this moment, over $15 million were deposited into these new pools in less than a day after the launch occurred. Additionally, DYP managed to pay 15,611 AVAX, 7,641 BNB and 9,009 ETH to its respective users thereby bringing the total to more than $44, 314,000, which makes it clear to see as to why so many remain bullish on this platform today.
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><em>This is a sponsored post. Learn how to reach our audience here. Read disclaimer below.</em></small>
+  </p>
+</div>

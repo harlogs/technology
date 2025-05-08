@@ -1,0 +1,79 @@
+---
+title: Millions of Wix Merchants Can Now Accept 12 Different Cryptocurrencies
+author: willmeet22
+type: post
+date: 2021-10-12T20:03:46+00:00
+url: /millions-of-wix-merchants-can-now-accept-12-different-cryptocurrencies/
+image: "/img/posts/2021/10/millions-wix-merchants-can-now-accept-12-different-cryptocurrencies-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-12T20:03:47+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/millions-of-wix-merchants-can-now-accept-12-different-cryptocurrencies/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/millions-wix-merchants-can-now-accept-12-different-cryptocurrencies.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Millions of Wix Merchants Can Now Accept 12 Different Cryptocurrencies" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On Tuesday, the Atlanta-based cryptocurrency payments company Bitpay announced the Israeli software company Wix has enabled its Software as a service (SaaS) e-commerce product to accept crypto-asset payments. The integration will allow Wix merchants to accept 12 different cryptocurrencies such as bitcoin, dogecoin, bitcoin cash, ethereum, litecoin, and stablecoins as well.</strong>
+  </p>
+  
+  <h2>
+    SaaS Platform Wix Implements Bitpay Infrastructure So Merchants Can Accept Crypto
+  </h2>
+  
+  <p>
+    Founded in 2006, by the Israeli software engineers Nadav Abrahami, Avishai Abrahami, and Giora Kaplan, the global SaaS platform Wix provides users with the ability to develop both mobile and HTML5 websites without coding experience. On October 12, Wix announced that it would be implementing Bitpay’s cryptocurrency payment processing infrastructure so users can choose it as an option for the Wix e-commerce platform.
+  </p>
+  
+  <p>
+    Alongside five different stablecoins such as BUSD, DAI, GUSD, USDP, and USDC, Wix Merchant users can also accept bitcoin (BTC), bitcoin cash (BCH), dogecoin (DOGE), ethereum (ETH), litecoin (LTC), wrapped bitcoin (WBTC), and XRP (in specific jurisdictions). Metrics indicate Wix makes about $1 billion in revenue via its product services such as the website builder, business management services, and web hosting.
+  </p>
+  
+  <p>
+    “Wix is one of the largest and most widely used web development platforms with over 210 million users, so this is another step forward in moving <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> mainstream,” said Stephen Pair, Bitpay’s CEO in a statement. “Businesses can get to market quickly and capture incremental sales by tapping into the massive trillion-dollar cryptocurrency marketplace,” Pair added.
+  </p>
+  
+  <h2>
+    Wix Executive Notes the Move Gives Merchants a ‘Whole New Market of Customers Who Prefer to Pay With Crypto’
+  </h2>
+  
+  <p>
+    Bitpay has made a number of moves in the industry during the last year with well known firms like Universal Air Travel Plan (UATP), the youth fashion and retail brand Pacsun, Shop.com, Dr. Luke’s music company Prescription Songs, the luxury hotel group The Kessler Collection, Verifone, the pet services platform Wag, the virtual cloud desktop startup Shells, the luxury fashion e-tailer Jomashop, and the leader of collector car, vintage and antique motorcycle, and road art sales Mecum Auctions.
+  </p>
+  
+  <p>
+    “We’re continuing to integrate with innovative payment partners to offer Wix merchants even more payment options to offer their customers,” Omer Shatzky, the head of billing and payments at the SaaS firm Wix. “With Bitpay, Wix merchants have access to a whole new market of customers who prefer to pay with bitcoin and other cryptocurrencies and an avenue for their business to tap into the growing <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> market.”
+  </p>
+  
+  <p>
+    According to the announcement, in the first stage of the Wix rollout, Wix merchants and their customers will be able to use the Bitpay service in the U.S., U.K., Germany, Canada, Australia, and Brazil.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Wix implementing Bitpay’s crypto payment infrastructure so Wix merchants can accept digital assets? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

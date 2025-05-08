@@ -1,0 +1,112 @@
+---
+title: Alchemy Pay Using Chainlink to Enable Trading on Decentralized Exchanges and Borrowing in DeFi Using ACH
+author: willmeet22
+type: post
+date: 2021-09-22T21:01:55+00:00
+url: /alchemy-pay-using-chainlink-to-enable-trading-on-decentralized-exchanges-and-borrowing-in-defi-using-ach/
+image: "/img/posts/2021/09/alchemy-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-22T21:01:56+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/alchemy-pay-using-chainlink-to-enable-trading-on-decentralized-exchanges-and-borrowing-in-defi-using-ach/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/alchemy.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    PRESS RELEASE. <b>Singapore, September 22</b><b>, 2021 – </b><span style="font-weight: 400;">Alchemy Pay is now using </span><span style="font-weight: 400;">Chainlink Price Feeds</span><span style="font-weight: 400;"> to enable users to buy crypto on decentralized exchanges (DEXs) and obtain loans in leading DeFi lending platforms directly from wallets using Alchemy Pay’s ERC-20 utility token, ACH.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Chainlink Price Feeds help assure users that they are receiving fair market exchange rates when purchasing assets directly via their wallets on DEXs like Uniswap, Sushiswap, and ForTube using their ACH, as well as when collateralizing DeFi loans with ACH.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">“It is crucial to the success of our payment gateway solution that the value of ACH is accurately shared throughout the ecosystem,” said Alchemy Pay CEO, John Tan. “The accuracy of Chainlink Price Feeds is underpinned by the robust technology Chainlink has deployed to protect against downtime and manipulation.”</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Since the price of assets is not a data feed inherently available on the blockchain, a solution is needed to fetch it off the blockchain (off-chain) and then deliver it on-chain to be referenced when users make transactions involving different cryptocurrencies</span><span style="font-weight: 400;">. It’s important that asset prices reflect a volume-weighted average from all trading environments, as opposed to just one exchange, to prevent inaccuracies. Chainlink decentralized oracle networks fetch and deliver the prices, as opposed to a centralized entity.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Following Alchemy Pay initial integration in 2020, Chainlink has become a key component in Alchemy Pay’s payment gateway system. In order to use Alchemy Pay’s payment facilitation services, retailers pledge ACH on the network. By collateralizing ACH, retailers are able to use Alchemy Pay systems to accept cryptocurrencies at their online and physical stores, which Alchemy Pay converts to the merchant’s required fiat currency. Transactions on the system complete in seconds at about 30% of the cost of legacy payment systems.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Alchemy Pay connects with merchants through major platforms like Shopify, Binance, and QFPay, which represent more than 2 million touchpoints worldwide. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Chainlink already helps secure tens of billions in value across DeFi and CeFi. Some of the benefits of Chainlink Price Feeds include:</span>
+  </p>
+  
+  <ul>
+    <li style="font-weight: 400;" aria-level="1">
+      <b>High-Quality Data</b><span style="font-weight: 400;"> — Chainlink Price Feeds source data from numerous premium data aggregators, leading to price data that’s aggregated from hundreds of exchanges, weighted by volume, and removing outliers and suspicious volumes.</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <b>Secure Node Operators </b><span style="font-weight: 400;">— Chainlink Price Feeds are secured by independent, security-reviewed, and Sybil-resistant oracle nodes run by leading blockchain developers with a strong track record for reliability, even during high gas prices and extreme network congestion. </span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <b>Decentralized Network </b><span style="font-weight: 400;">— Chainlink Price Feeds are decentralized at the data source, oracle node, and oracle network levels, generating strong protections against downtime and tampering.</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <b>Economy of Scale</b><span style="font-weight: 400;"> — Chainlink Price Feeds benefit from an economy of scale, where increasing adoption allows multiple projects to collectively use and fund shared oracle networks to fetch commonly required datasets. This allows DeFi projects to get premium data quality and robust oracle security for a fraction of the total cost of traditional feeds.</span>
+    </li>
+  </ul>
+  
+  <p>
+    <span style="font-weight: 400;">“</span><span style="font-weight: 400;">Our hybrid crypto-fiat system enables both crypto and fiat for everyday digital payments – large or small – in a single system,” said Tan. “This requires an accurately represented ACH token moment by moment. We can depend on Chainlink for that.” </span>
+  </p>
+  
+  <p>
+    <b>About Chainlink</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Chainlink is the industry standard for building, accessing, and selling oracle services needed to power hybrid smart contracts on any blockchain. Chainlink oracle networks provide smart contracts with a way to reliably connect to any external API and leverage secure off-chain computations for enabling feature-rich applications. Chainlink currently secures tens of billions of dollars across DeFi, insurance, gaming, and other major industries, and offers global enterprises and leading data providers a universal gateway to all blockchains. Learn more about Chainlink by visiting </span><span style="font-weight: 400;">chain.link</span><span style="font-weight: 400;"> or read the documentation at </span><span style="font-weight: 400;">docs.chain.link</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> To discuss an integration, </span><span style="font-weight: 400;">reach out to an expert</span><span style="font-weight: 400;">.</span>
+  </p>
+  
+  <p>
+    <b>About Alchemy Pay</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Alchemy Pay is the inventor of the world’s first hybrid fiat and digital currency gateway solution for businesses and investors. Alchemy Pay powers seamless <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> and fiat acceptance for merchant networks, developers and financial institutions, and powers adoption of blockchain technology by making <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> investment and DeFi services readily accessible to consumers and institutions in the fiat economy. Today, Alchemy operates in 18 countries and regions and has touchpoints with more than 2 million merchants through partnerships with industry giants such as Binance, Shopify, Arcadier, QFPay and more.</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><i>This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.</i></small>
+  </p>
+</div>

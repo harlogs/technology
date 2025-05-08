@@ -1,0 +1,123 @@
+---
+title: 'WUSD: The Next Generation Stablecoin for DeFi'
+author: willmeet22
+type: post
+date: 2021-09-07T22:02:15+00:00
+url: /wusd-the-next-generation-stablecoin-for-defi/
+image: "/img/posts/2021/09/wault-240x172.jpg"
+response_body:
+  - '{"id":"cb0bbcb6-61ef-4206-8d64-e8c3c6d0b4c7","recipients":941,"external_id":"c4c1d887-cd80-6128-97ad-9300939ed0bb","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 941
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-07T22:02:18+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/wusd-the-next-generation-stablecoin-for-defi/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/wault.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="WUSD: The Next Generation Stablecoin for DeFi" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    PRESS RELEASE. <span style="font-weight: 400;">Within the DeFi space, Wault Finance has demonstrated its revolutionary nature by developing multiple innovative products. The protocol is one of the fastest growing projects in the DeFi sector, providing users a variety of yield farming and staking opportunities. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Now, Wault intends to expand its ecosystem with the development of its stablecoin WUSD. </span><span style="font-weight: 400;">WUSD</span><span style="font-weight: 400;"> is a next-generation stablecoin that uses an innovative model to ensure that it holds its peg to the dollar and is designed to provide use-cases for holders. This article will explore the key features of the stablecoin. </span>
+  </p>
+  
+  <p>
+    <b>Commerce-backed stablecoin</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">WUSD is different from other stablecoins that are fiat-backed or algorithmic stablecoins. In WUSD’s case the stablecoin is backed by crypto-assets within a sustainable mechanism. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The stablecoin is backed by USDT and Wault Finance’s native token WEX at a ratio of 9:1. This means that 90% of WUSD is collateralized by USDT deposits and the remaining 10% from WEX. This ensures the stability of the stablecoin and guarantees that holders do not lose more than 10% of their capital in the worst-case scenario of extreme volatility. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">WUSD’s process is as follows. When a trader deposits 1000 USDT to purchase WUSD, 900 USDT is deposited by the smart contract to WUSD’s Treasury, and the remaining 100 USDT is used to buy WEX tokens. The two tokens are held in the Treasury, and the protocol deploys a portion of that to generate yields to reinforce the Treasury. This ensures that WUSD is always backed by enough collateral, while also earning yields in the background to reinforce the Treasury. The buyback and lockup on WEX also raises its price, creating a positive cycle for the ecosystem.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">When the user wants to exchange their 1000 WUSD for USDT, the WUSD is burnt from circulation, and the user receives back 1000 USDT, with 100 of it bought back from WEX according to the market price. This Treasury, along with the following stability mechanisms, ensures that WUSD keeps its peg to the USD and prevents risks associated with internal minting and burning of a governance token. </span>
+  </p>
+  
+  <p>
+    <b>WUSD Stability Mechanisms</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Wault has also deployed four different stability mechanisms that ensure WUSD maintains its peg. This includes the Treasury, WSwap Emissions Support, WSwap Trading Fees Support, and WUSD Staking Support. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The WUSD Treasury ensures collateralization, and the additional stability mechanisms reinforce the Treasury. 15% of the trading fees from WSwap, one of the top DEXs on BSC and Polygon goes towards the treasury. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">If WUSD moves off-peg, a portion of WEX emissions goes towards the Treasury, supporting it so that arb bots can return WUSD to peg, a guaranteed outcome as long as the Treasury is full. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">WUSD staking is also a major way that Wault intends to maintain the peg of the stablecoin. Wault intends to incentivize early holders of WUSD with WEX emissions. The emission rate will serve as a stability mechanism for WUSD peg. If the peg shifts from $1, emissions will rise and fall to modulate the incentives for staking WUSD. At the moment, WUSD-BUSD </span><span style="font-weight: 400;">staking on Wault</span><span style="font-weight: 400;"> earns 34% APR, a very high yield for stablecoins in DeFi. The WUSD-BUSD pool has already amassed up to $40 million TVL since its recent launch. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Wault is also working on new partnerships to establish additional pools and use-cases for the stablecoin, and is making headway in doing just that with its ecosystem of partners. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Finally, WUSD is coming to Polygon, launching on </span><span style="font-weight: 400;">Wault’s cross-chain platform there.</span>
+  </p>
+  
+  <p>
+    <b>Future developments </b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Wault has so far been able to become one of the top DEXs on two different blockchains. During the highs of the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> bull run, Wault hit over $1.5 billion in TVL. In addition, the team behind the project has made significant strides with the timely release of products in recent months. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Wault has revealed that it aims to continue building integrations to expand to more blockchains. There are also plans to launch a lending platform to expand the current DeFi products on its protocol. Wault is busy supporting the ecosystem as well. Wault recently launched a</span><span style="font-weight: 400;"> Moon Fuel Grant Program</span><span style="font-weight: 400;"> to support new projects, as well as a </span><span style="font-weight: 400;">Scholarship Program</span><span style="font-weight: 400;"> to support low income gamers to make a living through play-to-earn games. To learn more about Wault Finance, visit its social networks below:</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Website</span> <span style="font-weight: 400;">Twitter</span> <span style="font-weight: 400;">Telegram</span> <span style="font-weight: 400;">Discord</span> <span style="font-weight: 400;">Medium</span> <span style="font-weight: 400;">Docs</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><i>This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.</i></small>
+  </p>
+</div>

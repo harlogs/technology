@@ -1,0 +1,93 @@
+---
+title: An In-Depth Look at Olympus DAO Protocol and the Not-So-Stable Stablecoin OHM
+author: willmeet22
+type: post
+date: 2021-11-01T15:03:53+00:00
+url: /an-in-depth-look-at-olympus-dao-protocol-and-the-not-so-stable-stablecoin-ohm/
+image: "/img/posts/2021/11/ohm-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 3
+wpil_links_outbound_internal_count_data:
+  - 'a:3:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-01T15:03:54+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/an-in-depth-look-at-olympus-dao-protocol-and-the-not-so-stable-stablecoin-ohm/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/ohm.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="An In-Depth Look at Olympus DAO Protocol and the Not so Stable Stablecoin OHM" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>In mid-October, Bitcoin.com News reported on how decentralized finance (defi) or algorithmic stablecoins have seen significant demand in 2021. One particular stablecoin called OHM is quite different from the traditional reserve currency defi protocols today, as OHM is a free-floating currency backed only by what’s held in the Olympus DAO treasury. OHM may not be backed by a U.S. dollar in the usual fashion, but the stablecoin’s $3.6 billion market valuation makes it the fifth-largest crypto reserve currency by market capitalization.</strong>
+  </p>
+  
+  <h2 id="8c9f" class="gh dm gi bc gj gk gl gm gn go gp gq gr gs gt gu gv gw gx gy gz ha hb hc hd he hf">
+    Meet Olympus DAO: An Algorithmic Currency Protocol
+  </h2>
+  
+  <p>
+    When stablecoins were first introduced, a centralized model appeared where a blockchain network is used to distribute tokens that have fiat backing held by an audited third-party custodian. The centralized model still exists today, and the top two stablecoins in terms of market valuation, USDT and USDC are both perfect examples of that type of model. In recent times, decentralized finance (defi) or algorithmic stablecoins have appeared, like Makerdao’s DAI.
+  </p>
+  
+  <p>
+    Makerdao is an Ethereum-based decentralized autonomous organization (DAO) that issues the stablecoin DAI which is essentially backed by a mixture of overcollateralized loans and Makerdao’s repayment scheme. DAO’s are basically frameworks encoded from smart contracts and network participants influence the organization’s motives. Makerdao facilitates loans and issues a token pegged to the price of the U.S. dollar without an intermediary.
+  </p>
+  
+  <p>
+    Following the success of Makerdao’s DAI stablecoin, a great number of decentralized stablecoins have been joining the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> economy. Coingecko’s “Top Stablecoins by Market Capitalization” list shows a great number of these blockchain assets are backed by fiat currencies like the U.S. dollar. However, a project called the Olympus DAO developed a very different reserve currency protocol that issues the OHM token. Unlike DAI or USDC which are pegged to the value of the U.S. dollar, OHM’s reserves are crypto assets held by the Olympus Treasury.
+  </p>
+  
+  <p>
+    The Olympus DAO team introduced the DAO on February 1, 2021, and the intro post explains that the project is different as it’s a free-floating currency backed by the treasury. “Each OHM token is backed by 1 DAI in the treasury,” the Olympus DAO introduction explains. “However, tokens can’t be minted or burned by anyone except the protocol. The protocol only does so in response to price. When OHM trades below 1 DAI, the protocol buys back and burns OHM; when OHM trades above 1 DAI, the protocol mints and sells new OHM.” The project’s intro blog post adds:
+  </p>
+  
+  <blockquote>
+    <p>
+      Because the treasury must hold 1 DAI and only 1 DAI for each OHM, every time it buys or sells it makes a profit. It either gets more than 1 DAI for the sale, or spent less than 1 DAI on the purchase. The fact that the protocol holds DAI for each token allows us to say with certainty that OHM will not trade below its intrinsic value in the long term. This allows investments to be made with defined risk.
+    </p>
+  </blockquote>
+  
+  <p>
+    Olympus DAO participants can interact with the project’s governance model, stake OHM, as well as leverage a strategy called bonding. OHM’s first recorded value on May 23, 2021, was around $162.79 per OHM. The value has increased by over 540% since then and today a single OHM is exchanging hands for $1,057 per unit. The <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> asset OHM’s market cap is around .6 billion and the number of OHM in circulation grew by 120% in the last 30 days. Statistics show there’s $126 million in OHM global trading volume and 3,517,713 OHM in circulation at the time of writing.
+  </p>
+  
+  <h2>
+    Olympus DAO Faces Pyramid Accusations, Smart Contract Vulnerabilities, Price Crashes, and Issues With Regulators
+  </h2>
+  
+  <p>
+    While many proponents say that people shouldn’t dismiss OHM and the Olympus DAO, and some refer to it as the first “decentralized central bank,” others have called the project a pyramid or Ponzi scheme. Still others have complained about OHM’s volatility and while OHM aims to be a stablecoin backed by treasury assets, price stability is not the ultimate goal. An Okex Academy blog post about the Olympus DAO subject discusses a variety of risks the project could face like smart contract vulnerabilities, price crashes, and regulatory issues with governments.
+  </p>
+  
+  <p>
+    These days there’s $137 billion in value across the list of stablecoins that exist currently and much of the trades and settlements within the crypto economy are settled in digitized dollars. Zeus, the pseudonymous Olympus DAO founder, thinks that the trend is contradictory to the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> revolution’s main goals — to compete and eventually replace fiat currencies.
+  </p>
+  
+  <p>
+    “There’s a strange irony to the fact that the most utilized cryptocurrency is really just a digitized dollar,” Zeus said this July. “While functional stablecoins may achieve a stable USD value, that does not mean they’re stable in purchasing power. Their real value changes just like dollars in a bank account.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the Olympus DAO project and the stablecoin OHM? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

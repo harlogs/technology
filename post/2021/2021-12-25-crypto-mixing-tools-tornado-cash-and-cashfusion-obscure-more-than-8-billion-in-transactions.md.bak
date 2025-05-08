@@ -1,0 +1,79 @@
+---
+title: Crypto Mixing Tools Tornado.cash and Cashfusion Obscure More Than $8 Billion in Transactions
+author: willmeet22
+type: post
+date: 2021-12-25T21:06:22+00:00
+url: /crypto-mixing-tools-tornado-cash-and-cashfusion-obscure-more-than-8-billion-in-transactions/
+image: "/img/posts/2021/12/bcheth-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-25T21:06:23+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/crypto-mixing-tools-tornado-cash-and-cashfusion-obscure-more-than-8-billion-in-transactions/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/bcheth.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>While blockchain monitoring has increased a great deal during the last few years, cryptocurrency mixers have seen significant use from those who don’t want their financial transactions tracked. Meanwhile, two mixing applications, Tornado.cash and Cashfusion, have helped crypto owners make their ethereum and bitcoin cash less traceable. The two applications combined recorded more than $8 billion in crypto transactions that have been purposely obfuscated.</strong>
+  </p>
+  
+  <h2>
+    Over $4.8 Billion in Ethereum Processed via Tornado.cash
+  </h2>
+  
+  <p>
+    Digital currency privacy is a big deal to a lot of people. To some people, it’s not and they have no issues transacting on transparent ledgers that are monitored by blockchain surveillance firms. Privacy advocates, on the other hand, use a number of methods like leveraging a VPN, using the Tor browser, and accessing token mixers. As the end of 2021 approaches, the two <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> asset mixing applications Tornado.cash and Cashfusion have processed over billion in digital assets.
+  </p>
+  
+  <p>
+    Tornado.cash is an ethereum (ETH) mixing tool that has seen approximately 2,344,835 ether worth more than $4.8 billion in deposits. The application is very popular and was even reviewed by former Bitcoin developer Gavin Andresen in 2020. Tornado.cash has also recently announced it’s in the midst of deploying on the L2 (layer 2) Ethereum platform Arbitrum One. Out of the $4.87 billion deposited, Tornado.cash users paid $7.2 million in network fees, according to metrics from Dune Analytics.
+  </p>
+  
+  <p>
+    Statistics further indicate that there have been 12,240 unique depositors and 36,382 unique withdrawal addresses. The $4.8 billion in deposits was distributed by 98,593 unique deposits from the 12,240 addresses. The share of withdrawals using a relayer is roughly 70,800, while traditional wallet withdrawals are around 20,233.
+  </p>
+  
+  <h2>
+    More Than $3.8 Billion in Bitcoin Cash Fused Since November 2019
+  </h2>
+  
+  <p>
+    Another mixing project that has seen a few billion in coins mixed is the Cashfusion project leveraged by the bitcoin cash (BCH) community. The non-custodial mixing application that’s featured in the Electron Cash wallet has been a popular anonymity tool since November 28, 2019. Cashfusion offers significant transaction obfuscation and the project was reviewed by data analyst James Waugh in January 2020.
+  </p>
+  
+  <p>
+    Waugh explained at the time that he combed through thousands of transaction inputs and outputs and realized that it’s “not possible to establish a concrete link” between them. As of today, and since November 2019, 7,293,680 bitcoin cash worth 3.28 billion has been processed. There have been 6,931,976 inputs and 7,102,213 outputs to date and BCH fees are negligible in comparison to Ethereum’s network fees at 169 satoshis for every BCH fused.
+  </p>
+  
+  <p>
+    Both of these mixing applications are popular today and are used quite regularly. On Fridays, BCH fans participate in what’s called “Fusion Fridays,” in order to get a larger crowd fusing their coins together. With Tornado.cash supporting Arbitrum One, fees will be much smaller than the average onchain ETH fee. In addition to mixing applications dedicated to ethereum (ETH) and bitcoin cash (BCH), the non-custodial wallets Wasabi wallet and Samourai wallet also offer mixing features for bitcoin (BTC).
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the privacy-mixing tools Tornado.cash and Cashfusion? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

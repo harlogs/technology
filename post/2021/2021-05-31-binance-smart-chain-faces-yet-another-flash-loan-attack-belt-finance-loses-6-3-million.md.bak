@@ -1,0 +1,68 @@
+---
+title: 'Binance Smart Chain Faces yet Another Flash Loan Attack: Belt Finance Loses $6.3 Million'
+author: willmeet22
+type: post
+date: 2021-05-31T20:01:07+00:00
+url: /binance-smart-chain-faces-yet-another-flash-loan-attack-belt-finance-loses-6-3-million/
+image: "/img/posts/2021/05/shutterstock_689975659-768x432-1-240x172.jpg"
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/binance-smart-chain-faces-yet-another-flash-loan-attack-belt-finance-loses-6-3-million/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/05/shutterstock_689975659-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Binance Smart Chain Faces yet Another Flash Loan Attack: Belt Finance Loses $6.3 Million" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/05/shutterstock_689975659-768x432-1.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-300x169.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-1024x576.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-696x392.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-1068x601.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-747x420.jpg 747w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-190x107.jpg 190w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-380x214.jpg 380w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659-760x428.jpg 760w, https://news.bitcoin.com/wp-content/uploads/2021/05/shutterstock_689975659.jpg 1280w" sizes="auto, (max-width: 696px) 100vw, 696px" /></p> 
+  
+  <p>
+    <strong>Belt Finance, a Binance Smart Chain-based decentralized lending protocol, lost $6.3 million in a flash loan attack last week. The attackers took advantage of a series of inefficiencies in the smart contract to manipulate the price of the set and obtain profit from a series of transactions. This is just the last of a series of attacks that seem to be pointing to Binance Chain protocols due to their vulnerabilities.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Belt Finance Loses $6.3 Million in Flash Loan Attack
+  </h2>
+  
+  <p>
+    Belt Finance, a borrowing and loaning protocol that operates in the Binance Smart Chain suffered a flash attack last week that caused losses of over six million dollars. The attack, that used Pancakeswap as a tool for executing its strategy, used a series of operations to manipulate its belt/BUSD pool, a stable token in the protocol, and profit due to this inefficiency. The Belt Finance team declared in a post mortem report that the attackers managed to exploit this bug eight times before being detected.
+  </p>
+  
+  <p>
+    The team of Belt Finance immediately suspended withdrawals and deposits to the affected pools and claimed the attack vector that was used for the attack has been patched after the attack. In addition to this, they are studying how to reimburse the users affected by this event. The team declared:
+  </p>
+  
+  <blockquote>
+    <p>
+      We are currently working to create a fair and comprehensive compensation plan for those affected with a snapshot of the accounts that were affected by this attack. We will release a compensation plan within the next 48 hours, a time frame necessary for us to get and go through all the logs to see exactly which users need to get compensated.
+    </p>
+  </blockquote>
+  
+  <p>
+    The team also denied allegations and rumors surrounding the sale of tokens by part of the members of Belt Finance. While some point in the direction of a possible rug pull, the similarity with other attackers can lead to believe this is yet another flash loan attack directed to poorly secured Binance Smart Chain (BSC) protocols.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2 style="text-align: center;">
+    Not the First Time
+  </h2>
+  
+  <p>
+    The BSC network has become a magnet for flash loan attacks in recent days. Just this month, PancakeBunny, another liquidity protocol in the chain, also suffered an attack that made them lost three million dollars, and Bogged Finance, a similar project, lost almost the same amount in a flash loan attack too. Alongside this, the defi protocol Burgerswap was siphoned for $7.2 million in a flash loan attack.
+  </p>
+  
+  <p>
+    This has led developers to believe there is an organized group targeting BSC protocols. This is what the official account of the Binance Smart Chain declared on Twitter, advising these protocols to stay on guard for this kind of attack and to work with audit companies to double-check their code for vulnerabilities.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the recent attack on Belt Finance? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

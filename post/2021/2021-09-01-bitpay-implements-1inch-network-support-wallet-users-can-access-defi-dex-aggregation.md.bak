@@ -1,0 +1,95 @@
+---
+title: Bitpay Implements 1inch Network Support — Wallet Users Can Access Defi, Dex Aggregation
+author: willmeet22
+type: post
+date: 2021-09-01T06:03:17+00:00
+url: /bitpay-implements-1inch-network-support-wallet-users-can-access-defi-dex-aggregation/
+image: "/img/posts/2021/09/dhdhhdhhfhfhhfhfhfhhfhfhfh-240x172.jpg"
+response_body:
+  - '{"id":"bbb9b2ee-af2d-492f-8323-3bd0947fac03","recipients":891,"external_id":"daa3dcf2-861b-cf1a-d1ca-fbbf3247440c","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 891
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-01T06:03:17+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/bitpay-implements-1inch-network-support-wallet-users-can-access-defi-dex-aggregation/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/dhdhhdhhfhfhhfhfhfhhfhfhfh.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Bitpay Implements 1inch Network Support — Wallet Users Can Access Defi, Dex Aggregation" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On August 31, the Atlanta-based cryptocurrency payments services provider Bitpay announced that the Bitpay wallet has integrated the decentralized exchange (dex) aggregator 1inch Network. Bitpay wallet users can utilize 1inch protocol to swap ether or the myriad of ERC20 tokens.</strong>
+  </p>
+  
+  <h2>
+    The Bitpay Wallet Supports 1inch
+  </h2>
+  
+  <p>
+    Decentralized finance (defi) has grown exponentially according to statistics as defillama.com data shows there’s $157 billion total value locked (TVL) across all defi supporting blockchains.
+  </p>
+  
+  <p>
+    Metrics from Dune Analytics indicate that, as far as Ethereum network defi user growth is concerned, there are 3.2 million unique addresses. Bitpay is now allowing Bitpay wallet users to take part in some of the defi market action by supporting the dex aggregation protocol 1inch.
+  </p>
+  
+  <p>
+    The 1inch dex aggregator basically scans the myriad of dex platforms like Uniswap, Sushiswap, and others in order to find the lowest prices for <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> traders. The 1inch defi protocol has its own native governance token and it is also leveraged for staking as well.
+  </p>
+  
+  <p>
+    On Tuesday, the world’s largest crypto payment provider Bitpay revealed the company has partnered with 1inch and the protocol is now available to Bitpay wallet users. The integration means users accessing the Bitpay wallet can utilize the 1inch dex aggregation functionality without leaving the wallet.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Bitpay CEO: ‘We Wanted to Offer Users a Safe, Secure Way to Interact’ With Defi Apps
+  </h2>
+  
+  <p>
+    Bitpay’s CEO and co-founder Stephen Pair explained on Tuesday that defi protocols and decentralized applications (dapps) are popular among Bitpay’s user base.
+  </p>
+  
+  <p>
+    “We wanted to offer users a safe, secure way to interact with them,” Pair stressed in a statement. “The Bitpay wallet app lets our power users spend, store and manage <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> and support for the 1inch dex aggregator enables users the ability to get the best crypto swap rates quickly,” Pair added.
+  </p>
+  
+  <p>
+    The Bitpay wallet support follows 1inch announcing the protocol would be utilizing the Ethereum scaling solution “optimistic rollups” via the Optimism Gateway. Sergej Kunz, the 1inch Network co-founder believes partnering with Bitpay will bring more defi accessibility to global users all around the world.
+  </p>
+  
+  <p>
+    “As defi services gradually progress towards mass adoption, it is important to offer access to the 1inch dex aggregation to as many users as possible,” Kunz remarked during the announcement.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Bitpay adding 1inch Network support to the Bitpay wallet so users can access defi? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

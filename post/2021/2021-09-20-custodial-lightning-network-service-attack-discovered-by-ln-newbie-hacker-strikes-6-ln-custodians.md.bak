@@ -1,0 +1,97 @@
+---
+title: Custodial Lightning Network Service Attack Discovered by LN ‘Newbie’ — Hacker Strikes 6 LN Custodians
+author: willmeet22
+type: post
+date: 2021-09-20T22:00:51+00:00
+url: /custodial-lightning-network-service-attack-discovered-by-ln-newbie-hacker-strikes-6-ln-custodians/
+image: "/img/posts/2021/09/image-2021-09-20-101657-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-20T22:00:52+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/custodial-lightning-network-service-attack-discovered-by-ln-newbie-hacker-strikes-6-ln-custodians/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/image-2021-09-20-101657.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On September 18, a Redditor posted to the r/bitcoin forum and explained how he discovered a way to “attack [the] lightning Network’s custodial services.” The Reddit account dubbed “Reckless Satoshi” wanted to figure out if a “discrepancy between real routing fees and service’s transaction fee can be exploited for a profit.” The researcher disclosed that he wanted to see how large the damage could be and said “it is bad.”</strong>
+  </p>
+  
+  <h2>
+    6 Lightning Network Custodial Services Attacked, Researcher Discloses Findings to Offenders Prior to Public Disclosure
+  </h2>
+  
+  <p>
+    A Redditor called Reckless Satoshi published a disclosure post on r/bitcoin this past Saturday and disclosed how he had found a vulnerability with routing fees and some of the Lightning Network’s custodial services. The research attack was done in good faith and after it was complete he disclosed the bugs to the offending services before publishing his findings. Reckless Satoshi used the Lightning Network (LN) attack on six different services including Bitfinex, Muun, Okex, Lnmarkets, Southxchange, and Walletofsatoshi.
+  </p><figure id="attachment_486443" aria-describedby="caption-attachment-486443" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" loading="lazy" class="wp-image-486443 size-full" src="https://technologymanias.com/wp-content/uploads/2021/09/rpost.jpg" alt="" width="1280" height="600" /><figcaption id="caption-attachment-486443" class="wp-caption-text">The Reddit post published by Reckless Satoshi on September 18, 2021.</figcaption></figure> 
+  
+  <p>
+    Reckless Satoshi said the attack was “cheap, but not free,” and a “simple attack.” After depositing funds into the custodial services, Reckless Satoshi used “a node that will be routing the payments between the custodial service and the receiving node.”
+  </p><figure id="attachment_486444" aria-describedby="caption-attachment-486444" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" loading="lazy" class="wp-image-486444 size-full" src="https://technologymanias.com/wp-content/uploads/2021/09/ghubcode.jpg" alt="" width="1280" height="720" /><figcaption id="caption-attachment-486444" class="wp-caption-text">The attack’s parameters according to the Github code published by Reckless Satoshi.</figcaption></figure> 
+  
+  <p>
+    “If a positive net return is possible, then it is just a matter of optimizing the size of the fee collected and the transaction speed rate to see how big the damage could be,” Reckless Satoshi added. “It is easy to see how this attack must be feasible on any service with [a] free withdrawal fee.”
+  </p>
+  
+  <p>
+    Reckless Satoshi also published his attack to the code repository site Github. After explaining how he placed a node in the middle, the researcher added:
+  </p>
+  
+  <blockquote>
+    <p>
+      This is one of the simplest attacks. In fact, the only LN attack I can think of, but also I am just a newbie in the process of learning. I assume there are people out there much more capable of conducting this research. Who knows, maybe there have been sizable losses in the past that remain undisclosed.
+    </p>
+  </blockquote>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Lightning Network Total Value Locked at $112 Million, Up Over 100% Since the End of July
+  </h2>
+  
+  <p>
+    The visitors who read Reckless Satoshi’s forum thread thanked him for conducting the research and disclosing the bugs to specific custodial LN providers. “I’m glad to see that people are not hacking/exploiting the system just for malicious purposes or to make quick profit out of it,” an individual wrote in response to the disclosure. Moreover, a number of Redditors discussing Reckless Satoshi’s findings argued over what they should call the attack.
+  </p><figure id="attachment_486442" aria-describedby="caption-attachment-486442" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" loading="lazy" class="wp-image-486442 size-full" src="https://technologymanias.com/wp-content/uploads/2021/09/lntvl.jpg" alt="" width="1280" height="600" /><figcaption id="caption-attachment-486442" class="wp-caption-text">The Lightning Network total value locked (TVL) on Monday, September 20, 2021, according to defipulse.com stats.</figcaption></figure> 
+  
+  <p>
+    At the time of writing, the Lightning Network has seen its total value locked (TVL) slide by 9.3% during the last 24 hours. However, since July 20, 2021, the LN TVL jumped over 100% from $56 million that day to today’s (2,600+ BTC) $112 million TVL held in the Lightning Network. Much of the 9.3% TVL slide on LN is due to the recent <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> market rout on Monday morning, September 20, as the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> economy has slid 9% in value during the last 24 hours.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the Lightning Network attack described by the Redditor Reckless Satoshi? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

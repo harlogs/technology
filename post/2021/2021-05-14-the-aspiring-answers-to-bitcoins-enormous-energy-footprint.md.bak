@@ -1,0 +1,138 @@
+---
+title: The Aspiring Answers to Bitcoin’s Enormous Energy Footprint
+author: willmeet22
+type: post
+date: 2021-05-14T09:03:16+00:00
+url: /the-aspiring-answers-to-bitcoins-enormous-energy-footprint/
+image: "/img/posts/2021/05/bitcoin-energy-footprint-768x432-1-240x172.jpg"
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/the-aspiring-answers-to-bitcoins-enormous-energy-footprint/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-768x432-1.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-300x169.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-1024x576.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-696x392.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-1068x601.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-747x420.jpg 747w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-190x107.jpg 190w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-380x214.jpg 380w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint-760x428.jpg 760w, https://news.bitcoin.com/wp-content/uploads/2021/05/bitcoin-energy-footprint.jpg 1280w" sizes="auto, (max-width: 696px) 100vw, 696px" /></p> 
+  
+  <p>
+    <strong>Following a tweet from Elon Musk highlighting Tesla’s suspension of bitcoin payment acceptance due to sky-high energy needs, the industry quickly responded by highlighting the capable solutions that already address this drawback.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Musk’s Comments Conveniently Ignore Reality of Blockchain Innovation
+  </h2>
+  
+  <p>
+    Ever the commentator on all things crypto, Elon Musk took to Twitter on May 13th to explain that Tesla would suspend customer purchases of cars with bitcoin (BTC), pinning the decision on the network’s power consumption as the catalyst.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Tesla & Bitcoin pic.twitter.com/YSswJmVZhP
+    </p>
+    
+    <p>
+      — Elon Musk (@elonmusk) May 12, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Although he has been one of crypto’s biggest advocates over the last few months, Musk’s latest comments sent bitcoin prices into a tailspin, quickly sparking a steep selloff that has erased nearly 13% of its value over the last 24 hours at the time of writing. Yet, his comments overlook one of the most critical arguments for cryptocurrency’s actual usage: the veritable pantheon of suitable solutions and alternatives that address precisely this point.
+  </p>
+  
+  <p class="p1">
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2 style="text-align: center;">
+    The Layer 2 Scaling Response
+  </h2>
+  
+  <p>
+    Despite his energy consumption comments, there are viable solutions already designed to address his point. Although aimed at resolving transaction throughput, the Lightning Network was amongst the first to address the scalability problems of Bitcoin, and since then, others have joined the fray.
+  </p>
+  
+  <p>
+    Among the projects focused on energy consumption is Polygon, which has built an eco-friendly layer 2 solution for Ethereum. In terms of powering the network, the platform’s plasma and sidechains purportedly require several orders of magnitude less power than both Ethereum or Bitcoin, making it a viable answer to Musk’s search for a cryptocurrency that requires less than 1% of the comparable power per transaction.
+  </p>
+  
+  <h2 style="text-align: center;">
+    PoS to the Rescue
+  </h2>
+  
+  <p>
+    Proof-of-stake (PoS) has emerged as the clear challenger to the proof-of-work (PoW) blockchains that initially dominated the arena. The idea behind PoS is that coin holders stake nodes responsible for validating transactions, reducing the need for the enormous power consumption and computational resources required by existing PoW blockchains.
+  </p>
+  
+  <p>
+    The Twitter hivemind was quick to point this out, and among the respondents was Elrond CEO Beniamin Mincu. Elrond operates on a Secure-Proof-of-Stake (SPoS) blockchain that involves adaptive state sharding to keep the network operating at an optimal level.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      1/ Humanity *needs* (a) a high bandwidth, low latency financial system, (b) that is decentralized, and (c) accessible to anyone, anywhere.
+    </p>
+    
+    <p>
+      This is a high impact, multi trillion dollar opportunity, able to dramatically improve ppls&#8217;s lives across the world.
+    </p>
+    
+    <p>
+      Thread for @elonmusk
+    </p>
+    
+    <p>
+      — Beniamin Mincu ⚡ (@beniaminmincu) January 29, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Tezos, which runs a Delegated-Proof-of-Stake (DPoS) consensus model was also quick to prepare a sharp response to Musk, again highlighting a network with power consumption many orders of magnitude lower than competing blockchains like Bitcoin and Ethereum.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      An important decision @elonmusk and @Tesla. <br />Learn more about the evolution of #blockchain through Proof of Stake #Tezos.https://t.co/zB3PO9Q1CQ pic.twitter.com/A3ftVMthkg
+    </p>
+    
+    <p>
+      — Tezos (@tezos) May 12, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Not to be left out of the conversation, Jelurida CEO Lior Yaffe, the creator of Nxt, the original PoS-based open-source blockchain, opined on the matter, highlighting that the networks he maintains already address the very issue Musk raised. Yaffe explains,
+  </p>
+  
+  <blockquote>
+    <p>
+      As one of the core developers of the first pure PoS coin Nxt, and its multichain spinoff Ardor, I’m happy to see that Elon has finally realized that there is no need to burn fossil fuels in order to maintain a decentralized token of value.
+    </p>
+  </blockquote>
+  
+  <h2 style="text-align: center;">
+    Putting Musk’s Comments in Perspective
+  </h2>
+  
+  <p>
+    So why the sudden focus on Bitcoin’s energy consumption? Perhaps Musk is leveraging his enormous platform to catalyze meaningful change and raise the bar. Moreover, his use of the word “suspended” possibly indicates that he isn’t letting go of the idea of Bitcoin altogether but rather pushing for a more desirable outcome.
+  </p>
+  
+  <p>
+    However, for all his posturing on the lack of Bitcoin’s green-ness, Musk should take heed of the fact that Tesla doesn’t always reach the bar he set for Bitcoin. Consider for one that most Tesla’s are still powered by fossil fuels underpinning the grid. And don’t get us started on the pollution caused by lithium batteries. To counter his point even further, data compiled by Coinshares estimates that renewable sources generated nearly 74.1% of the energy used to mine Bitcoin.
+  </p>
+  
+  <p>
+    What’s most surprising is that given Musk’s resources and stature, why isn’t he more familiar with the existing innovations already advancing significant changes in the blockchain universe?
+  </p>
+  
+  <p>
+    <strong><em>What do you think is Musk’s play here? Does he have an ulterior motive? Let us know in the comments section below.</em></strong>
+  </p>
+</div>

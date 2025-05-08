@@ -1,0 +1,85 @@
+---
+title: Polygon Acquires Mir Protocol in $400M Deal in Order to Bolster ‘Groundbreaking ZK Rollup Tech’
+author: willmeet22
+type: post
+date: 2021-12-12T11:04:42+00:00
+url: /polygon-acquires-mir-protocol-in-400m-deal-in-order-to-bolster-groundbreaking-zk-rollup-tech/
+image: "/img/posts/2021/12/shutterstock_2065496042-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-12T11:04:42+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/polygon-acquires-mir-protocol-in-400m-deal-in-order-to-bolster-groundbreaking-zk-rollup-tech/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/shutterstock_2065496042.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Polygon Acquires Mir Protocol in $400M Deal in Order to Bolster 'Groundbreaking ZK Rollup Tech'" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On December 9, Polygon co-founder Mihailo Bjelic announced that the project has acquired the Ethereum scaling startup Mir in a $400 million deal. The Mir team of cryptographers and engineers are joining Polygon in order to create a “highly-scalable, Ethereum-compatible ZK rollup” called Polygon Zero.</strong>
+  </p>
+  
+  <h2>
+    Mihailo Bjelic: ‘Polygon Is Focused on Zero-Knowledge Cryptography as the End Game for Blockchain Scaling’
+  </h2>
+  
+  <p>
+    Following Polygon’s acquisition of the Hermez Network (now Polygon Hermez) for $250 million in August, the project has announced it has purchased the Ethereum scaling startup Mir. Polygon co-founder Mihailo Bjelic revealed the acquisition on Thursday and said the startup is “building groundbreaking ZK tech.” The $400 million deal will pave the way for Polygon’s new ZK Rollup project.
+  </p>
+  
+  <p>
+    “The Mir team is now joining Polygon in order to utilize this groundbreaking technology and build our new project – Polygon Zero, a highly-scalable, Ethereum-compatible ZK Rollup,” Bjelic said. “Polygon is focused on Zero-Knowledge (ZK) cryptography as the end game for blockchain scaling. We have committed $1B from the Polygon treasury to this effort, and we outlined our plans in our ZK Thesis,” the co-founder added.
+  </p>
+  
+  <p>
+    During the last 30 days, the Polygon network’s native token MATIC climbed 24% in value, and year-to-date, MATIC has jumped 11,750% in USD value. Furthermore, while the cost to transfer ether is $8.31 per transfer, the cost to do the same transfer using Polygon Hermez is $0.25, according to l2fees.info. Polygon has also announced several new rollups before the acquisition of Mir.
+  </p>
+  
+  <h2>
+    Miden, Nightfall, Plonky2
+  </h2>
+  
+  <p>
+    The project recently revealed Polygon Miden, a STARK-based, Ethereum-compatible rollup on November 16, and Polygon Nightfall, a privacy-focused rollup. In addition to the Mir acquisition, Polygon’s co-founder details that the team plans to introduce efficient recursive proofs.
+  </p>
+  
+  <p>
+    “ZK scaling represents the future of Ethereum, but scalable, EVM-compatible ZK Rollups don’t exist yet,” Bjelic says. “The missing piece is efficient recursive proofs, as recursion allows us to parallelize proof generation for much better performance. Unfortunately, the existing recursive proof systems supported by Ethereum are inefficient and slow.” Bjelic further added:
+  </p>
+  
+  <p>
+    This ends today. We are announcing plonky2, a recursive proof system that is incredibly fast, and Ethereum-friendly. We believe this engineering breakthrough will be a huge value-add to the community and will open new frontiers of Ethereum scaling.
+  </p>
+  
+  <p>
+    Bjelic further explains that plonky2 is “practical to use on Ethereum” and “plonky2 can generate recursive proofs in an incredible 170 milliseconds on a laptop.” The Polygon co-founder detailed that plonky2 will be officially announced in the next few weeks. In terms of total value locked (TVL) in decentralized finance (defi), Polygon has $4.88 billion.
+  </p>
+  
+  <p>
+    The 4.88 billion locked in Polygon defi protocols equates to 1.96% of the $248 billion locked in defi across all blockchains, according to defillama.com stats. Defi protocols leveraging Polygon include projects like Aave, Quickswap, Sushiswap, Curve, and Balancer. In regard to the Mir acquisition announcement, Bjelic post notes that part of the $400 million deal was made with MATIC tokens.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Polygon acquiring Mir in a $400 million deal? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

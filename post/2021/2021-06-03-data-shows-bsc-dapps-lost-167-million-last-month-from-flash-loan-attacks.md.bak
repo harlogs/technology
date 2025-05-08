@@ -1,0 +1,78 @@
+---
+title: Data Shows BSC Dapps Lost $167 Million Last Month From Flash Loan Attacks
+author: willmeet22
+type: post
+date: 2021-06-03T19:46:20+00:00
+url: /data-shows-bsc-dapps-lost-167-million-last-month-from-flash-loan-attacks/
+image: "/img/posts/2021/06/ggallen-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"b69dc09f-3ba2-4f98-b2a9-19bf9bfc32b4","recipients":6,"external_id":"b062f63f-d90d-143c-0140-da42eead1362","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users.","You must configure Android notifications in your OneSignal settings if you wish to send messages to Android users."]}'
+status:
+  - 200
+recipients:
+  - 6
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/data-shows-bsc-dapps-lost-167-million-last-month-from-flash-loan-attacks/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/06/ggallen-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Data Shows BSC Dapps Lost $167 Million Last Month from Flash Loan Attacks" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/ggallen-768x432-1.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-300x169.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-1024x576.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-696x392.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-1068x601.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-747x420.jpg 747w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-190x107.jpg 190w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-380x214.jpg 380w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen-760x428.jpg 760w, https://news.bitcoin.com/wp-content/uploads/2021/06/ggallen.jpg 1280w" sizes="auto, (max-width: 696px) 100vw, 696px" /></p> 
+  
+  <p>
+    <strong>Binance Smart Chain (BSC) decentralized applications (dapps) have been hit with a number of flash loan attacks in recent weeks. According to collected data by Rekt, during the last 30 days BSC has lost a total of $167 million from these flash loan exploits.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Flash Loan Hackers Prey on Binance Smart Chain Dapps – $167 Million Siphoned in May
+  </h2>
+  
+  <p>
+    Flash loan attacks have become an issue for the Binance Smart Chain (BSC) as a myriad of BSC dapps were breached during the month of May. Essentially, these flash loans provide people with the ability to borrow crypto without relinquishing any collateral.
+  </p>
+  
+  <p>
+    The person using the flash loan leverages the method to trigger decentralized finance (defi) apps associated with oracles to sell at the desired spot price. Sometimes the hackers leverage phony ERC20s and other malicious methods during the flash loan execution to siphon defi liquidity pools.
+  </p>
+  
+  <p>
+    Bitcoin.com News has reported on numerous BSC flash loan attacks that have siphoned funds from projects like Pancakebunny, Belt Finance, Spartan, Fog Finance, and Burgerswap.
+  </p><figure id="attachment_463680" aria-describedby="caption-attachment-463680" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" loading="lazy" class="wp-image-463680 size-full" title="Data Shows BSC Dapps Lost $167 Million Last Month From Flash Loan Attacks" src="https://technologymanias.com/wp-content/uploads/2021/06/900888.jpg" alt="Data Shows BSC Dapps Lost $167 Million Last Month From Flash Loan Attacks" width="1280" height="720" srcset="https://technologymanias.com/wp-content/uploads/2021/06/900888.jpg 1280w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-300x169.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-1024x576.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-768x432.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-696x392.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-1068x601.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-747x420.jpg 747w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-190x107.jpg 190w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-380x214.jpg 380w, https://news.bitcoin.com/wp-content/uploads/2021/06/900888-760x428.jpg 760w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /><figcaption id="caption-attachment-463680" class="wp-caption-text">All the BSC flash loan attacks in May according to Rekt stats. </figcaption></figure> 
+  
+  <p>
+    Now statistics from the publication Rekt indicate that $167 million in flash loan attacks exploited BSC dapps in May. Pancakeswap has lost a whopping $45 million while Spartan saw $30 million taken during an attack.
+  </p>
+  
+  <p>
+    Pancakeswap lost a total of $200 million according to initial reports, but the BSC dapp’s team noted that the hackers only managed to snag around 114,600 BNB ($45 million).
+  </p>
+  
+  <p>
+    Bearn saw $11 million in stablecoins drained and Spartan saw liquidity calculation discrepancies when $30 million was swiped from a flash loan attack. Autoshark lost the least amount of funds with only $740,000 worth of BSC-based tokens swiped.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <p>
+    Flash loan attacks have been a great problem for a wide variety of defi protocols. Ever since the ETH-based protocol Bzx was attacked the method has been a common practice among hackers.
+  </p>
+  
+  <p>
+    While BSC is now getting an increased share of flash loan attacks, Ethereum still gets hit once in a while as well. Yearn Finance suffered a flash loan attack in February which saw $11 million siphoned from the project.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about all the flash loan attacks hitting the BSC during the last 30 days? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

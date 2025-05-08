@@ -1,0 +1,116 @@
+---
+title: DeFi Yield Protocol (DYP) Launches Decentralized Tools Dashboard
+author: willmeet22
+type: post
+date: 2021-05-24T22:02:23+00:00
+url: /defi-yield-protocol-dyp-launches-decentralized-tools-dashboard/
+image: "/img/posts/2021/05/photo5861844174322644394-768x434-1-240x172.jpg"
+atap_auto_post:
+  - no
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/defi-yield-protocol-dyp-launches-decentralized-tools-dashboard/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="393" src="https://technologymanias.com/wp-content/uploads/2021/05/photo5861844174322644394-768x434-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="DeFi Yield Protocol (DYP) Launches Decentralized Tools Dashboard" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/05/photo5861844174322644394-768x434-1.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-300x169.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-1024x578.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-696x393.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-1068x603.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-744x420.jpg 744w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-190x107.jpg 190w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-380x214.jpg 380w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394-760x428.jpg 760w, https://news.bitcoin.com/wp-content/uploads/2021/05/photo5861844174322644394.jpg 1280w" sizes="auto, (max-width: 696px) 100vw, 696px" /></p> 
+  
+  <p>
+    <strong>Yield Farming protocol DYP has launched its long-awaited DYP Tools. DYP Tools V1 is a decentralized tools dashboard built with features that will increase the use cases for DYP Token and the entire DeFi ecosystem. The tool dashboard serves as a liquidity locker for any DeFi project and protects the DeFi community by providing a decentralized trust score for all DeFi. </strong>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The launch of the DYP Tools V1 is a significant milestone for the yield farming protocol, and the dashboard tool is equipped with extensive features. Some of these include UniSwap Watchman, Pool Explorer, Unique Community Trust Vote System, Big Swap Explorer, DYP Locker, Top Tokens Page, Yield Farm Data, and many more. Let’s look at some of the features.</span>
+  </p>
+  
+  <p>
+    <b>Comprehensive data aggregator </b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DYP has integrated a UniSwap Watchman option that aggregates data from Uniswap V2 smart contracts periodically. The data is transformed into the proper format and takes care of storing and sending it within the DYP Tools core. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The Pool Explorer is a handy option for Uniswap traders and shows the latest activity within the pools supported on the DEX. It also has filter options that traders can use to check the addition and removal of pools. Traders can also view the top 10 hottest pairs, ETH price from Coingecko, and the latest ETH Gas price. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The Pair explorer is more specific than the Pool explorer and scans names and links of pairs on UniSwap. Traders can access TradingView Charts, crypto pair prices, liquidity, volume, and other information. The community trust and vote option is also available, and users can view the last 333 swaps on a trading pair. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Additionally, a Big Swap explorer option provides info about big swaps (swaps exceeding $10,000) on Uniswap. This way, traders can know whale movements and be informed of potential liquidity increases or removal from a trading pool. DYP Tools also has a top token page that shows the top 100 tokens based on preset parameters, including trust score, liquidity amount, volume, and price change. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Yield farmers can also view the latest Farm data from top crypto data aggregators at a single click on the Tools dashboard. </span>
+  </p>
+  
+  <p>
+    <b>Decentralized voting option and zero fee liquidity locker </b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DYP Tools also has a unique feature for voting that it expects to transform the current community trust system in the DeFi and crypto space. Most common crypto data aggregators favor a voting system that anyone can easily manipulate. With the DYP Tools, a unique Community Trust Vote System, no one will control the voting process for a crypto project. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DYP has implemented a system whereby you can only vote on a project if you hold the token in your wallet to achieve this transparent system. All that is required is for voters to connect their wallets and press the like or dislike feature. DYP Tools smart contract checks if the wallet holds the token needed for the vote. If the token is held on the wallet, the vote will be casted and if otherwise,the voter will be given a prompt that they need to hold the token to cast their vote. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The DeFi sector is filled with new projects that claim to lock their initial liquidity and eventually rugpull (remove liquidity), leading to a collapse of the project. DYP has integrated a DYP Locker tool that prevents such actions from occurring. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Developers can lock their pools securely using the Locker platform at zero initial costs. This is the cheapest lock option in the DeFi space and offers a transparent and fair process for new DeFi projects. To create a lock, 1% of the liquidity provider tokens will be sent as ETH to buy and lock DYP, which fuels this process. Once the lock period is over, DYP is sent to the recipient’s wallet along with the liquidity unlocked. </span>
+  </p>
+  
+  <p>
+    <b>Other features </b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DYP Tools also provides options for users to submit information about new projects to increase their trust score. A button to access the DEX to buy DYP and swap tokens while users can also change their themes. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The subscription smart contract setup is built for users to get premium features. Users can buy DYP using this feature, and the smart contract locks the DYP for a certain period. As soon as the DYP tokens are unlocked, the user will switch to a free version. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DYP has a premium subscription for advanced traders and businesses where users need to buy DYP tokens worth $75 and lock on the smart contract. If the DYP is locked, the user can access the paid version, while on unlocking DYP, the entire process reverts to the free version. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The premium subscription provides users access to manual research for new and old projects, access to new features released on the platform, and guaranteed allocation of new project token resale launched on the DYP LaunchPad.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DYP also stated that it would soon release its LaunchPad in the coming weeks. The LaunchPad will provide new token offerings to the market and users will be able to participate based on their staking balance or DYP Tools Premium subscription. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The DYP LaunchPad will provide mandatory smart contract audits from top industry security firms. The KYC of the project team, liquidity locked via the DYP locker and team tokens locked on vesting contracts. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">DYP continues to trail the blaze in the DeFi space, and the launch of the DYP Tools V1 is expected to lead to an adoption of the DYP token and its project within the crypto space. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">To learn more about DeFi Yield Protocol, follow the links below. </span><span style="font-weight: 400;">www.dyp.finance</span><span style="font-weight: 400;"> | </span><span style="font-weight: 400;">Twitter </span><span style="font-weight: 400;">| </span><span style="font-weight: 400;">Discord </span><span style="font-weight: 400;">| </span><span style="font-weight: 400;">Telegram </span><span style="font-weight: 400;">| </span><span style="font-weight: 400;">Github </span><span style="font-weight: 400;">| </span><span style="font-weight: 400;">Medium</span>
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><em>This is a sponsored post. Learn how to reach our audience here. Read disclaimer below.</em></small>
+  </p>
+</div>

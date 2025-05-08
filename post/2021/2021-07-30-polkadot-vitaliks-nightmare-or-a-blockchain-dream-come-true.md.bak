@@ -1,0 +1,120 @@
+---
+title: Polkadot – Vitalik’s Nightmare or a Blockchain Dream Come True?
+author: willmeet22
+type: post
+date: 2021-07-30T10:47:00+00:00
+url: /polkadot-vitaliks-nightmare-or-a-blockchain-dream-come-true/
+image: "/img/posts/2021/07/vitalik-polkadot-240x172.jpg"
+response_body:
+  - '{"id":"e633ddd7-5b95-4d98-9f01-84b1a7abe148","recipients":514,"external_id":"f1c8068d-c0e8-1248-5e9b-3d6866d3c24e","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 514
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/polkadot-vitaliks-nightmare-or-a-blockchain-dream-come-true/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/07/vitalik-polkadot.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Although it’s possible to draw comparisons between almost any two blockchain development platforms, comparing Ethereum with Polkadot is almost an inevitability. Not only on the technical level – they use a comparable architecture and proof-of-stake consensus to achieve scalability – but because Vitalik Buterin and Dr. Gavin Wood also have a shared history in Ethereum. </strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Polkadot and Ethereum are Entering the Final Stretch of the Runway for Chain Supremacy
+  </h2>
+  
+  <p>
+    The coming year is set to be a big one for both networks. Ethereum has been rolling out a series of improvements ahead of the “merge” that will occur when the current Ethereum main chain joins the proof-of-stake Beacon chain. At this point, Ethereum will finally abandon its proof-of-work consensus and shift entirely to proof-of-stake. More upgrades are expected to follow as the network implements additional chains, or shards, connected to the Beacon chain, which aim to improve scalability.
+  </p>
+  
+  <p>
+    Although the timelines are somewhat nebulous, it seems likely that Polkadot is set to reach its own next big milestone before Ethereum’s merge takes place. ‘Parachain auctions‘ are the process of awarding the first shard slots on Polkadot, a step that Kusama, Polkadot’s experimental “canary network,” recently achieved.
+  </p>
+  
+  <p>
+    Assuming it will only be a matter of months before Polkadot follows suit, then we could expect to see the network fully operational and supporting an array of use cases before the end of this year.
+  </p>
+  
+  <h2 style="text-align: center;">
+    A Potted History
+  </h2>
+  
+  <p>
+    For their part, the two founders have always been at pains to point out that they aren’t in competition with one another. But there’s a lot of water under the bridge between Buterin and Wood. The pair are both core members of the team that co-founded Ethereum, with Dr. Gavin Wood having invented the Solidity programming language and founded Parity Technologies, which has always been a significant technology engine for Ethereum. Wood also founded the Web3 Foundation, which supports Polkadot’s development.
+  </p>
+  
+  <p>
+    He left his position as Ethereum’s Chief Technology Officer in 2015, having already proposed a new kind of infrastructure that would level up the newly launched smart contract platform into a more robust and scalable platform. Tellingly, Wood didn’t mention Buterin in his final Ethereum blog post, despite name-checking several others.
+  </p>
+  
+  <p>
+    While Wood and Buterin have been tight-lipped about the competition between the two projects, others have been more willing to speak out. Peter Mauric, Head of Public Affairs at Parity Technologies, recently addressed the comparison, commenting on Ethereum’s shortcomings and referring to the smart contract platform as a “proof of concept” which had provided the education necessary to build Polkadot.
+  </p>
+  
+  <p class="p1">
+    <span class="s1"><!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement --></span>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Clash of Titans
+  </h2>
+  
+  <p>
+    After over three years in development, Polkadot launched on mainnet last year. Although it’s been running without any applications until the parachains are operational, the project has attracted a significant amount of interest, and not just because of the founder’s history. Polkadot offers the promise of true interoperability between applications running on different chains.
+  </p>
+  
+  <p>
+    Over the time that Polkadot has been in development, the Ethereum team has been working on a solution for Ethereum 2.0. It’s undeniable that the two platforms share many technological similarities. Both run on a variant of proof-of-stake. In Ethereum’s case, it’s an open validator network where anyone can join with the requisite minimum 32 ETH stake. In Polkadot’s Nominated Proof-of-Stake, DOT holders can stake DOT to nominate a validator.
+  </p>
+  
+  <p>
+    There’s also the fact that both platforms use sharding to enable scalability, connecting sharded chains to a central chain responsible for network security. Ethereum 2.0 is also doing away with Solidity and the Ethereum Virtual Machine in favor of a web assembly language called eWASM. Despite Solidity being Gavin Wood’s brainchild, Polkadot is also built for standard web assembly languages. The critical advantage is that this opens up smart contract development to a far larger global pool of developers familiar with more general languages like Go, Rust, and C/C++.
+  </p>
+  
+  <p>
+    Of course, all these similarities could just be a sheer coincidence. However, for Gavin Wood, the fact that Ethereum 2.0 is shaping up to be very similar to his own creation has got to feel like something of a vindication.
+  </p>
+  
+  <h2 style="text-align: center;">
+    On-chain vs. Off-chain Governance
+  </h2>
+  
+  <p>
+    There is perhaps one critical difference between the two platforms. While consensus takes place on-chain, governance has always been an off-chain matter for Ethereum. Seemingly in light of Ethereum’s experience with contentious hard forks, Polkadot has shunned this model in favor of a forkless model of on-chain governance.
+  </p>
+  
+  <p>
+    It’s important to note that both on-chain and off-chain governance have their own pros and cons, so it will be interesting to see how these different approaches play out against one another.
+  </p>
+  
+  <p>
+    So two visionary founders, two ambitious roadmaps, two comparable platforms. However, there’s one critical difference. Polkadot has had five years in development from scratch, with the opportunity to meticulously build and test everything twice — once on the testnet, and again in a live, experimental environment on Kusama. When Polkadot goes live with its parachains, it will be a clean start from the outset.
+  </p>
+  
+  <p>
+    While this is no mean feat, the Ethereum team arguably has a more difficult task ahead. To coin an analogy, they need to change the engine in a moving vehicle. It’s this simple fact that explains why it could be seven years or more between the first Ethereum genesis and the eventual transition to proof-of-stake. It will be even longer before the network achieves a level of scalability for which its supporters have so patiently waited.
+  </p>
+  
+  <p>
+    By that time, who knows how much adoption on other networks will have gained pace?
+  </p>
+  
+  <p>
+    Ultimately, nobody can say what goes on in Vitalik Buterin’s head. But, to use the vehicle analogy again, the idea of jumping into a box-fresh sports car has to be more enticing than attempting to pimp an old jalopy while cruising down the freeway at full speed. And watching Polkadot’s development, it would be hard to imagine Vitalik Buterin wouldn’t agree.
+  </p>
+  
+  <p>
+    <strong><em>Which blockchain do you think will come on top — Ethereum or Polkadot? Let us know in the comments section below.</em></strong>
+  </p>
+</div>

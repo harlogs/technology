@@ -1,0 +1,70 @@
+---
+title: Marathon’s Bitcoin Mining Pool Will ‘No Longer Filter Transactions’ — Marapool Begins Signaling for Taproot
+author: willmeet22
+type: post
+date: 2021-05-31T23:01:14+00:00
+url: /marathons-bitcoin-mining-pool-will-no-longer-filter-transactions-marapool-begins-signaling-for-taproot/
+image: "/img/posts/2021/05/taprorost-768x432-1-240x172.jpg"
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/marathons-bitcoin-mining-pool-will-no-longer-filter-transactions-marapool-begins-signaling-for-taproot/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/05/taprorost-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/05/taprorost-768x432-1.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-300x169.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-1024x576.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-696x392.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-1068x601.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-747x420.jpg 747w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-190x107.jpg 190w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-380x214.jpg 380w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost-760x428.jpg 760w, https://news.bitcoin.com/wp-content/uploads/2021/05/taprorost.jpg 1280w" sizes="auto, (max-width: 696px) 100vw, 696px" /></p> 
+  
+  <p>
+    <strong>On Monday, the publicly-listed enterprise mining firm Marathon Digital Holdings announced the company has adopted the latest codebase offered by Bitcoin Core developers that features Taproot. Marathon is now signaling for Taproot according to the announcement. The North American bitcoin miner further noted that the firm’s mining operation Marapool will “cease filtering transactions.”</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Marathon Adopts Bitcoin Core Version 0.21.1 With Taproot Privacy Features
+  </h2>
+  
+  <p>
+    The firm Marathon Digital Holdings (Nasdaq: MARA), has been making a number of business moves in the bitcoin mining sector in 2021. In December 2020, the firm announced the purchase of 70,000 Antminer S19 bitcoin miners from Bitmain for $170 million. Last week, Marathon revealed that Compute North’s mining farm in Texas will host 73,000 of Marathon’s mining rigs. Furthermore, in more recent times, Marathon made headlines for censoring specific bitcoin transactions in a mined BTC block.
+  </p>
+  
+  <p>
+    At that time, Marathon revealed to the public that Marapool dedicated 10.37 exahash toward mining KYC/OFAC compliant transactions only. Although, on May 31, Marathon explained in its Taproot signaling announcement that the bitcoin mining pool will “cease filtering transactions.” The company said that the North American mining pool Marapool “has adopted and implemented Bitcoin Core version 0.21.1.”
+  </p>
+  
+  <p>
+    The new 0.21.1 codebase hosts the Taproot feature, an addition that developers say will add privacy enhancements, scaling improvements, and other technical advancements.
+  </p>
+  
+  <p>
+    “Marathon is committed to the core tenets of the Bitcoin community, including decentralization, inclusion, and no censorship,” said Fred Thiel, Marathon’s CEO. The company’s mining pool will “no longer filter transactions” and “begin validating transactions in a manner consistent with all other miners who use the standard node,” the announcement emphasizes.
+  </p>
+  
+  <p>
+    “Over the coming week, we will be updating all our miners to the full standard Bitcoin core 0.21.1 node, including support for Taproot,” Thiel said during the announcement. “By adopting the full standard Bitcoin core node, we will be validating transactions on the blockchain in the exact same way as all other miners who use the standard node,” the Marathon CEO added.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2 style="text-align: center;">
+    Taproot Awaits Activation
+  </h2>
+  
+  <p>
+    Taproot is in the midst of “Speedy Trial,” an activation mechanism that was initiated on May 1. Basically miners are dealing with six sub-phases between each difficulty change. During the last difficulty change, more than 95% of miners were signaling for Taproot activation. Taproot’s actual ruleset will be followed in November and enforced via soft fork at block height 709,632.
+  </p>
+  
+  <p>
+    “We look forward to continue being a collaborative and supportive member of the Bitcoin community,” Thiel further remarked. “And to realizing the vision of Bitcoin as the first decentralized, peer-to-peer payment network that is powered by its users rather than a central authority or middlemen,” he added.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Marathon signaling Taproot and detailing that Marapool will cease filtering transactions? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

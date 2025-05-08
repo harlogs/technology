@@ -1,0 +1,85 @@
+---
+title: Ripple Launching Liquidity Hub Despite SEC Lawsuit Over XRP
+author: willmeet22
+type: post
+date: 2021-11-11T03:04:08+00:00
+url: /ripple-launching-liquidity-hub-despite-sec-lawsuit-over-xrp/
+image: "/img/posts/2021/11/ripple-crypto-service-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-11T03:04:09+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ripple-launching-liquidity-hub-sec-lawsuit-over-xrp/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/ripple-crypto-service.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ripple Launching Liquidity Hub Amid SEC Lawsuit Over XRP" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Amid an ongoing lawsuit with the U.S. Securities and Exchange Commission (SEC) over XRP, Ripple is launching a new product, Liquidity Hub, which aims to be “a one-stop shop for enterprises to source any tokenized asset.” The product “will allow customers to seamlessly access crypto assets from a variety of global venues, including market makers, exchanges, OTC desks and in the future decentralized venues,” the company detailed.</strong>
+  </p>
+  
+  <h2>
+    Ripple Liquidity Hub Allows Customers to ‘Seamlessly Access Crypto Assets From a Variety of Global Venues’
+  </h2>
+  
+  <p>
+    Ripple announced Tuesday that it is launching a new product called “Ripple Liquidity Hub.” The announcement explains:
+  </p>
+  
+  <blockquote>
+    <p>
+      Ripple Liquidity Hub will allow customers to seamlessly access <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> assets from a variety of global venues, including market makers, exchanges, OTC desks and, in the future, decentralized venues.
+    </p>
+  </blockquote>
+  
+  <p>
+    Asheesh Birla, general manager at Ripple, explained that the new product aims to be “a one-stop shop for enterprises to source any tokenized asset.”
+  </p>
+  
+  <p>
+    Ripple Liquidity Hub is expected to launch in 2022. “The product will support turn-key integration and smart order routing to source digital assets at optimized prices giving customers the ability to easily buy, sell, and hold <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> assets,” Ripple explained.
+  </p>
+  
+  <p>
+    Initially, the platform will “support BTC, ETH, LTC, ETC, BCH and XRP (availability will vary by geography), with plans to expand to more tokenized assets,” the company added, noting that “In the future Ripple plans to add additional features such as support for staking and yield generating functionalities.”
+  </p>
+  
+  <p>
+    The announcement notes that Ripple has been using Liquidity Hub internally for almost two years “for internal liquidity management as part of its On-Demand Liquidity (ODL) product, powering millions of transactions, worth billions of dollars.”
+  </p>
+  
+  <p>
+    Ripple’s first partner to use the product is crypto-to-cash network Coinme. “Initially, Coinme will utilize the underlying technology platform of Liquidity Hub, with plans to unlock additional functionality as it becomes available,” Ripple detailed.
+  </p>
+  
+  <p>
+    This product launch announcement came as Ripple continues its legal battle with the U.S. Securities and Exchange Commission (SEC). The securities regulator sued Ripple Labs, its CEO Brad Garlinghouse, and co-founder Christian Larsen for allegedly raising more than $1.3 billion through XRP which the commission considers an unregistered security offering. Ripple and its executives are fighting the lawsuit, insisting that XRP is not a security.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Ripple launching Liquidity Hub amid an ongoing lawsuit with the SEC? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

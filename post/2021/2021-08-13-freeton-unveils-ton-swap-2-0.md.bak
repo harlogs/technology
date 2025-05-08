@@ -1,0 +1,137 @@
+---
+title: FreeTON Unveils TON Swap 2.0
+author: willmeet22
+type: post
+date: 2021-08-13T09:01:09+00:00
+url: /freeton-unveils-ton-swap-2-0/
+image: "/img/posts/2021/08/free-ton-swap-240x172.jpg"
+response_body:
+  - '{"id":"278a5e72-c2e9-4142-9421-31572a369855","recipients":648,"external_id":"4ca2bcd0-6214-8a44-fbdc-876c0ebf87cf","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 648
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-08-13T09:01:09+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/freeton-unveils-ton-swap-2-0/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/08/free-ton-swap.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="FreeTON Unveils TON Swap 2.0" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <i><span style="font-weight: 400;">Broxus, a leading developer of the FreeTON project, has unveiled the second version of their FreeTON DEX, TON Swap. The update consists of a reworking of existing features, an expansion of functionality and available information and the addition of key new features.</span></i>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The FreeTON project has been busy this summer, expanding the offerings it has for users, working to bring in and support promising, fledgling projects, and making inroads throughout the DeFi industry. The latest update, consisting of an overall of the </span><span style="font-weight: 400;">Broxus</span><span style="font-weight: 400;">-powered </span><span style="font-weight: 400;">TON Swap</span><span style="font-weight: 400;"> DEX, is perhaps the most significant due to the enhancements that have been made to the exchange’s user experience and the groundwork that has been laid for the platform to grow into a launchpad for other projects in DeFi. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">FreeTON started just over a year and a half ago when work on the Telegram Open Network was halted by a court order. A community of people that had studied the technology developed by the Durov brothers decided that, rather than letting the blueprint remain unfulfilled, they would work on it and further develop it together, taking a grassroots approach to funding and implementing a decentralized form of governance. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The result is what the FreeTON project has grown into, one of the most technologically impressive platforms, still in its early days of maturity, but already offering glimpses of the potential it has to shake up the DeFi space. With unparalleled scalability, remarkably cheap transaction fees (they are typically less than .001% of the transaction), stalwart security and a merit-based token distribution system, it is little wonder that a robust community has already flourished around the project. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">This summer has been crucial for FreeTON as developers have unveiled a bevy of new products and refined a number of existing features. Broxus, one of the leading development teams working on the project and a member of the FreeTON DeFi alliance, launched the first of a planned series of FreeTON bridges, linking TON to Ethereum. The bridge highlights just how useful FreeTON can be as it allows users to make transactions with ETH without having to deal with ridiculously high gas fees. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">In addition to the bridge, Broxus has also developed a TON Crystal wallet, started the Crystal Handshake Program which identifies and supports promising startups in the DeFi space, and launched a FreeTON DEX called TON Swap. Now the team has completed an overhaul of the TON Swap DEX, making it much easier to use while also beefing it up with great new features. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">In addition to a frontend rewrite, TON Swap users will now be able to take advantage of a revamped token tab that provides real-time and historical data on all the tokens supported by the exchange, including:</span>
+  </p>
+  
+  <ul>
+    <li>
+      <span style="font-weight: 400;"> Names</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> Prices</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> Price changes</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> 24-hour trading volume</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> Liquidity </span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> Commissions</span>
+    </li>
+  </ul>
+  
+  <p>
+    <span style="font-weight: 400;">There is also a trading pairs tab with real-time and historical data on trading pairs, including:</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;"> A list of all pairs</span>
+  </p>
+  
+  <ul>
+    <li>
+      <span style="font-weight: 400;"> 24-hour and 7-day trading volumes for all pairs</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> Total value locked metrics</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> Liquidity</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;"> Commissions</span>
+    </li>
+  </ul>
+  
+  <p>
+    <span style="font-weight: 400;">The second version of TON Swap also features the beta version of the FreeTON Token Constructor. This is a groundbreaking new feature that will allow FreeTON to serve as a launchpad for projects looking to create and launch their own tokens. The tokens will be tip-3 tokens powered by TON Swap and will give creators the opportunity to easily create their own DAOs and independent protocols. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">With community cooperation and transparency as central tenets of the FreeTON philosophy, the developers from Broxus have continued the project’s tradition of involving everyone in the development process by making the frontend of TON Swap open source. Interested parties can check out the project specs </span><span style="font-weight: 400;">here</span><span style="font-weight: 400;">.</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <p>
+    <b>About FreeTON:</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">FreeTON is a fast, secure and scalable network with near-zero fees, which can process up to a million transactions per second thanks to its unique dynamic sharding technology. As a development built off of the Durov brothers’ original TON concept, the FreeTON blockchain is designed to facilitate the widespread adoption of decentralized solutions by millions of users through an unprecedented combination of reliable security, industry-leading scalability and decentralization. The ecosystem features a number of products, including a DEX and bridges with other blockchains.</span>
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><em>This is a sponsored post. Learn how to reach our audience here. Read disclaimer below.</em></small>
+  </p>
+</div>

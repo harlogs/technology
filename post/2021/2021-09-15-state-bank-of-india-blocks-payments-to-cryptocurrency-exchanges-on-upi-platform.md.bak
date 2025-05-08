@@ -1,0 +1,93 @@
+---
+title: State Bank of India Blocks Payments to Cryptocurrency Exchanges on UPI Platform
+author: willmeet22
+type: post
+date: 2021-09-15T17:14:26+00:00
+url: /state-bank-of-india-blocks-payments-to-cryptocurrency-exchanges-on-upi-platform/
+image: "/img/posts/2021/09/state-bank-of-india-240x172.jpg"
+response_body:
+  - '{"id":"1d020fe1-7876-4a56-be59-4b17c9aa83c7","recipients":1015,"external_id":"0c7c0afa-02d6-a3d5-c780-23de5c43b170","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 1015
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 8
+wpil_links_outbound_internal_count_data:
+  - 'a:8:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:3;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:4;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:5;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:6;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:7;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-15T17:14:28+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/state-bank-of-india-blocks-payments-cryptocurrency-exchanges-upi/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/state-bank-of-india.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="State Bank of India SBI Blocks Funds to Crypto Exchanges on UPI Platform" loading="lazy" style="float:left;margin:0 15px 15px 0" /></p> 
+  
+  <p>
+    <strong>State Bank of India (SBI) has reportedly blocked payments to cryptocurrency exchanges using its Unified Payments Interface (UPI). Payment processors have been told to disable the bank’s UPI for crypto merchants.</strong>
+  </p>
+  
+  <h2>
+    Payment Processors Instructed to Disable SBI UPI for Crypto Firms
+  </h2>
+  
+  <p>
+    State Bank of India, the country’s largest bank, has reportedly “blocked the receipt of funds by crypto bourses on its UPI platform,” the Economic Times reported Wednesday, citing sources in the payments industry.
+  </p>
+  
+  <p>
+    Unified Payments Interface (UPI) is an instant real-time payment system developed by the National Payments Corporation of India (NPCI) to facilitate interbank transactions through mobile phones. The UPI payment system is regulated and supervised by India’s central bank, the Reserve Bank of India (RBI). According to the publication:
+  </p>
+  
+  <blockquote>
+    <p>
+      The bank has told payment processors to disable SBI UPI for <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> merchants.
+    </p>
+  </blockquote>
+  
+  <p>
+    This means SBI bank customers cannot transfer funds via UPI to <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchanges to buy cryptocurrencies, including bitcoin.
+  </p>
+  
+  <p>
+    An SBI spokesperson was quoted as saying: “It is the policy of the bank not to comment upon matters relating to the subject matter.”
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <p>
+    Several banks in India have been clamping down on fund transfers to <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchanges. The NPCI, however, said in May that it will not block payments to <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> companies using UPI. Instead, it advised banks to make their own decisions whether to allow transactions involving cryptocurrencies based on their own risk assessment.
+  </p>
+  
+  <p>
+    Now that SBI has made its decision, many other banks may be reluctant to onboard <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> merchants on their respective UPI platforms, the publication conveyed.
+  </p>
+  
+  <p>
+    One of the largest Indian <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> exchanges, Wazirx, has already been impacted. CEO Nischal Shetty told the publication: “We’re trying to discuss and put forward our points to SBI. Wazirx follows KYC (know your customer) norms and AML (anti-money laundering) policies. Being the largest <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchange in India, millions of Indians are currently affected due to this move by SBI.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about State Bank of India blocking payments to <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchanges? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

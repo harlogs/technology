@@ -1,0 +1,165 @@
+---
+title: Third-Generation Blockchains Will Pick Up the Defi Slack Left by Ethereum
+author: willmeet22
+type: post
+date: 2021-11-22T13:03:52+00:00
+url: /third-generation-blockchains-will-pick-up-the-defi-slack-left-by-ethereum/
+image: "/img/posts/2021/11/forbes-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 3
+wpil_links_outbound_internal_count_data:
+  - 'a:3:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-22T13:04:20+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/third-generation-blockchains-will-pick-up-defi-slack-left-by-ethereum/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/forbes.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left;margin:0 15px 15px 0" /></p> 
+  
+  <p>
+    <strong>With the ETH 2.0 upgrade still months, if not years, from a full launch, third-generation blockchain protocols are quickly racing up to dethrone Ethereum as the “go-to” hub for dapps and defi.</strong>
+  </p>
+  
+  <h2 style="text-align: center">
+    Blockchain Metamorphosis to Catalyze Future Defi Growth
+  </h2>
+  
+  <p>
+    Although many people may only be discovering it recently, blockchain technology has been around long enough to have moved on from first to second, and now third-generation protocols.
+  </p>
+  
+  <p>
+    The first-gen blockchain started with Bitcoin, a proposed alternative to the hegemony of centralized financial services. It laid the foundation for a decentralized financial ecosystem, but the Bitcoin network offered limited functionalities, required immense computational power to operate, and suffered from a severe lack of interoperability.
+  </p>
+  
+  <p>
+    This led to the emergence of Ethereum in 2015, marking the dawn of the second generation of blockchain protocols. As Vitalik Buterin introduced the smart contract functionality on the blockchain, it sparked a paradigm shift that enabled cryptocurrencies to transition from financial tools to serve a more practical purpose.
+  </p>
+  
+  <h2 style="text-align: center">
+    Ethereum’s Problems Continue to Pile Up
+  </h2>
+  
+  <p>
+    Ethereum opened the doorway to decentralized finance (defi) by enabling “conditional transfer” of data and value on-chain. Since then, Ethereum has been on a rolling spree, cementing itself as the go-to platform for launching dapps, NFTs, and defi protocols.
+  </p>
+  
+  <p>
+    Developers and adopters embraced Ethereum and began generating their own ERC20 tokens, so much that the social media platforms started talking about “the flippening” — where ETH would overtake BTC in terms of market capitalization.
+  </p>
+  
+  <p>
+    However, despite its success, problems soon became evident on the Ethereum blockchain. As new projects entered the Ethereum ecosystem en masse, the network started facing scalability issues. Gas fees shot through the roof, and limited transaction throughput became an everyday problem.
+  </p>
+  
+  <p>
+    Vitalik Buterin, the creator of Ethereum, has also expressed his doubts regarding Ethereum’s ability to scale, saying,
+  </p>
+  
+  <blockquote>
+    <p>
+      Scalability [currently] sucks; the blockchain design fundamentally relies on bottlenecks where individual nodes must process every single transaction in the entire network.
+    </p>
+  </blockquote>
+  
+  <p>
+    While the proposed Ethereum 2.0 upgrade promises solutions to the current problems clouding the Ethereum network, things haven’t progressed as planned. Initially slated for a 2019 rollout, the first phase of ETH 2.0 started in December 2020. And with two more phases to go, there are minimal chances of a full-fledged release before 2022.
+  </p>
+  
+  <p>
+    As such, it isn’t hyperbole to claim that the network has a long road ahead before it can achieve its core vision of becoming the world’s “decentralized computer.”
+  </p>
+  
+  <p class="p1">
+    <h2 style="text-align: center">
+      Here Come Third-Generation Protocols
+    </h2>
+    
+    <p>
+      Despite the innovations brought forward by Bitcoin and Ethereum, the chains are plagued by their respective scalability and efficiency issues. At the same time, both networks require significant computing resources to operate. All of this has led to a perpetual cycle of painfully slow throughput rates and excessively high costs.
+    </p>
+    
+    <p>
+      Many layer-2 scaling solutions have been developed to overcome the inherent problems with Bitcoin and Ethereum, each achieving varying degrees of success. Layer-2 solutions have addressed the interoperability and scalability issues to an extent, but the core problems related to consensus mechanisms and mining are yet to be addressed.
+    </p>
+    
+    <p>
+      This is where third-generation blockchains come into the picture. While some third-generation protocols can complement existing blockchain networks, others are totally new blockchains that boast a wide range of features and functionalities. From multi-layered architectures to innovative consensus mechanisms, third-generation blockchain protocols are not just fully capable of resolving scalability issues as they arise, but are also highly interoperable, fast, and cost-efficient.
+    </p>
+    
+    <p>
+      There is no denying that the defi boom happened because of Ethereum and that Ethereum still dominates the defi market. However, as new defi projects built on third-gen blockchain protocols enter the picture, Ethereum’s authority will undoubtedly be challenged.
+    </p>
+    
+    <p>
+      As defi continues to expand its market, the next “Defi Boom” will most likely come from emerging chains that are more agile and focused than earlier blockchain network innovations. That said, promising projects are lining up for newer blockchains as the cryptoverse sets the table for the “next big flippening.”
+    </p>
+    
+    <h2 style="text-align: center">
+      The Battle for Defi: Featuring Cardano, Solana, and Polkadot
+    </h2>
+    
+    <p>
+      When it comes to market dominance, Cardano, Solana, and Polkadot are leading the pack. Each platform offers a range of features, which is why a consortium of new projects are lining up to start building their ideas on these chains.
+    </p>
+    
+    <p>
+      For instance, Ardana, Cardano’s stablecoin and defi hub, enables Cardano to expand into the defi landscape. The platform and its constituent protocols are designed from a defi macro-perspective to offer users the required functionalities to help maintain all types of decentralized economies on the Cardano chain. It will function as a financial base layer, supporting Cardano’s decentralized economy by employing historically proven protocol models for composability, capital efficiency, and stability.
+    </p>
+    
+    <p>
+      As part of its strategic roadmap, Ardana will soon launch dUSD. This verifiable, on-chain collateral-backed stablecoin will help users put their ADA and other supported assets to work. The platform will also launch its AMM dex (decentralized exchange), Danaswap, for stable multi-asset pools. Per the Ardana team, Danaswap will offer capital-efficient swaps while aiming for minimal slippage and enabling liquidity providers to leverage low-risk yield opportunities.
+    </p>
+    
+    <p>
+      Another ambitious initiative picking up the baton where Ethereum left off is Acala, the defi liquidity hub leveraging the built-in features of third-generation blockchain protocol Polkadot. Currently, almost every stablecoin is built on the Ethereum network, limiting adoption and use. Acala wants to shift this reality by leveraging Polkadot’s speed, cross-chain interoperability, and cost-efficiency to offer a defi hub with built-in liquidity and readymade decentralized financial applications.
+    </p>
+    
+    <p>
+      Likewise, Acala claims to settle transactions for a fraction of what other networks require, building a quantitative edge in the defi race. The platform will support micro gas fees that are only slightly affected by transaction complexity through Polkadot’s weight-based fee model. In addition, Acala will also introduce an “algorithmic risk adjustment” feature that will automatically modify risk parameters on its lending and borrowing protocol, including interest rates and collateral ratios.
+    </p>
+    
+    <p>
+      Finally, in this ongoing war for defi market share, Atani, the all-in-one <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> trading platform built on Solana’s blockchain network, is another heavyweight contender to monitor. The platform features free <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> trading tools and has partnered with top exchanges like Kucoin, Binance, Okex, Bitfinex, Poloniex, and more to offer users lower trading fees.
+    </p>
+    
+    <p>
+      Atani recently launched its new dex aggregator on Solana, to deliver order routing features while offering add-ons like portfolio tracking, price alerts, technical analysis, and more. With this aggregator and Solana’s embedded qualities, Atani’s plan is to reduce friction between the fragmented defi ecosystem, serving up the liquidity from cexs (centralized exchanges) and dexs to the Solana ecosystem while assuring multi-chain support.
+    </p>
+    
+    <h2 style="text-align: center">
+      The Road Ahead
+    </h2>
+    
+    <p>
+      We haven’t really scratched the surface when it comes to tapping into the real potential of defi. Web 3.0 is growing, and the global village is becoming a lot smaller. At the same time, defi services are so revolutionary for both the global unbanked and the underbanked that they need more space to expand, just as existing protocols push network capacity limits.
+    </p>
+    
+    <p>
+      From an unbiased perspective, Polkadot, Cardano, Solana, and several other third-generation blockchain platforms offer the much-needed solutions to scalability and interoperability that have handicapped the legacy chains. They are faster, more secure, cost-efficient, and have low resource consumption, positioning them as all-in-one solutions that broadly benefit the entire <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> industry. With Ethereum 2.0’s debut still a long way off, third-generation blockchain protocols are already here to do the heavy lifting and take defi to the next level.
+    </p>
+    
+    <p>
+      <em><strong>Which network do you think will win the defi race? Let us know in the comments section below.</strong></em>
+    </p></div>

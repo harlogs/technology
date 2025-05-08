@@ -1,0 +1,79 @@
+---
+title: Terra to Burn $4.5 Billion Worth of LUNA From Community Pool
+author: willmeet22
+type: post
+date: 2021-11-13T10:04:18+00:00
+url: /terra-to-burn-4-5-billion-worth-of-luna-from-community-pool/
+image: "/img/posts/2021/11/shutterstock_1648155934-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-13T10:04:18+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/terra-to-burn-4-5-billion-worth-of-luna-from-community-pool/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/shutterstock_1648155934.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="terra" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Terra, an algorithmic stablecoin project, will burn $4.5 billion worth of terra (LUNA), its native token, from its community pool. The decision was taken using the on-chain governance system, and according to proposals 133 and 134, the LUNA will be burned and swapped for the native stablecoin of the chain, UST. This burn is expected to raise the price of LUNA, at least in the long term.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Terra Starts Burning LUNA
+  </h2>
+  
+  <p>
+    Terra, a smart contract-enabled algorithmic stablecoin project, passed a pair of proposals to burn $4.5 billion worth of terra (LUNA), its native token, from community pools. The burn will occur every 800 blocks produced, and its purpose is to adapt the structure of the currency for the new Columbus 5 upgrade, which changed the way UST is produced.
+  </p>
+  
+  <p>
+    The UST obtained from the burn will be reallocated to the community pool, with governance responsible for deciding what to do with these funds. The first swap transaction already took place earlier this week. After the whole stash gets burned, there will be another period in which the community will be able to decide how much of this will be used to bootstrap Ozone, a decentralized insurance protocol on top of Terra.
+  </p>
+  
+  <h2 style="text-align: center;">
+    Economics Simplified
+  </h2>
+  
+  <p>
+    According to a tweet from Terra’s official account, The executions of the approved proposals represent one of the largest — if not the largest — burns of a major layer-one asset in the crypto market’s history. This might make the price of LUNA rise in the long term because the coin will become more scarce. About this burn, Do Kwon, CEO of Terraform Labs, stated:
+  </p>
+  
+  <blockquote>
+    <p>
+      The burn will simplify the narrative of Luna economics, boost staking rewards, and leave the community pool well funded with 10 million Luna.
+    </p>
+  </blockquote>
+  
+  <p>
+    Kwon also noted that after the changes that took place with the application of the Columbus 5 upgrade, “all on-chain stablecoin swap fees are routed to the oracle rewards pool for validators and we believe this will keep Luna staking rewards lucrative.”
+  </p>
+  
+  <p>
+    Terra has been targeted by regulatory oversight. Kwon received a subpoena from the SEC when he traveled to the U.S. to present at Messari’s Mainnet conference. The subpoena had to do with one of the native protocols built on top of Terra, called Mirror, that allows users to trade tokens that are derivatives pegged to the price of some stocks. Kwon sued the SEC last month for the way it acted and how it served the subpoena.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Terra’s latest community pool burn? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

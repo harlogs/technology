@@ -1,0 +1,93 @@
+---
+title: GoCrypto Reveals a Protocol That Revolutionizes Digital Payments
+author: willmeet22
+type: post
+date: 2021-12-07T07:04:40+00:00
+url: /gocrypto-reveals-a-protocol-that-revolutionizes-digital-payments/
+image: "/img/posts/2021/12/picture1-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-07T07:04:44+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/gocrypto-reveals-a-protocol-that-revolutionizes-digital-payments/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/picture1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>PRESS RELEASE.</strong> <strong>LJUBLJANA, SLOVENIA:</strong> The GoCrypto project always strives to bring crypto payments into the mainstream. The upgraded solution dubbed GoCrypto 2.0 enables true decentralized payments where the merchant can accept virtually any currency and receive the settlement in its desired crypto currency without virtually any central entity in between. The solution would at its core utilize blockchains that support smart contracts in order to enable automatic processing of the payments and its several steps, such as acceptance of payment, routing and swapping of the funds, fee collection, settlement to a <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> currency address or execution of smart contracts, etc. It will also be possible to connect third party bridges that will enable interaction with blockchains that don’t support smart contracts and possibly even legacy payments such as cards and digital wallets.
+  </p>
+  
+  <p>
+    <strong>How it works:</strong>
+  </p>
+  
+  <p>
+    Below is the description of the payment flow. The Merchant POS system generates a QR code with instructions for the smart contract through the GoCrypto Gateway. Client with his compatible wallet scans the QR code and approves the transactions. The funds are then taken from the client wallet and routed either through a DEX or directly into the merchant settlement account. A fee for the service is deducted automatically before the funds hit the merchant smart contract. How the fee is later distributed can be adjusted as the project progresses. At first, the fee distribution would be determined by the GoCrypto project as the creator of the solution but if the governance is later transferred to a GoC DAO, then the stakeholders (GoC holders, developers, etc.) will be able to vote on the fee distribution.
+  </p>
+  
+  <p>
+    The addition of other functionalities and inclusion of other non-smart contract based systems will be possible via different bridges that will be either developed and released by the project or any other 3rd party provider that will wish to be plugged into the decentralized payments system. These will be either centralized or decentralized bridges that will enable payments with BTC, credit cards, digital fiat wallets, etc. It will also be possible to add a bridge on the settlement side, so the merchant will have the possibility to receive their settlement in fiat.
+  </p>
+  
+  <p>
+    <strong>Key benefits:</strong>
+  </p>
+  
+  <p>
+    Fees are basically non-existent, only a very small fee is charged by the protocol to enable further development<br /> Decentralization of payments where no central entity is in control of the payment funds, they go directly from the user to the merchant via a completely transparent system of auditable smart contracts<br /> The solution’s design enables integration of many 3rd party dApps, apps and bridges to add different functionalities to the payments<br />GoC token ecosystem
+  </p>
+  
+  <p>
+    The GoC token will be the main token within the protocol. It will be used to reward protocol participants such as stakers, affiliates, developers. They’ll be able to earn GoC through the affiliate program that will help with the spread and uptime of the solution, developers will be rewarded with GoC for their contribution to the development of the protocol and stakers will earn GoC for their GoC deposits as these deposits will enable the governance of the protocol from the community and with the creation of the GoC DAO.
+  </p>
+  
+  <p>
+    <strong>Next steps:</strong>
+  </p>
+  
+  <p>
+    The modular design of the protocol will enable further development and integration of additional features such as payroll deposits, charity contributions, fund deposits and credit lines, etc. to the system to help bridge legacy systems to decentralized networks until we reach full decentralization of payments.
+  </p>
+  
+  <p>
+    Details explaining development process of the GoCrypto 2.0 protocol can be found on company’s Roadmap web page.
+  </p>
+  
+  <p>
+    <strong>Join the GoCrypto community on </strong><strong>Telegram!</strong>
+  </p>
+  
+  <p>
+    Website | Facebook | Twitter | LinkedIn | Telegram
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><i>This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.</i></small>
+  </p>
+</div>

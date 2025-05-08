@@ -1,0 +1,95 @@
+---
+title: Smartbch Defi Universe Expands — Dozens of SEP20 Tokens, $12.8M Total Value Locked in Dex Platforms
+author: willmeet22
+type: post
+date: 2021-11-04T15:03:50+00:00
+url: /smartbch-defi-universe-expands-dozens-of-sep20-tokens-12-8m-total-value-locked-in-dex-platforms/
+image: "/img/posts/2021/11/shutterstock_1932008531-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-04T15:03:52+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/smartbch-defi-universe-expands-dozens-of-sep20-tokens-12-8m-total-value-locked-in-dex-platforms/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/shutterstock_1932008531.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On April 1, Bitcoin.com News published an in-depth report on the Smart Bitcoin Cash (Smartbch) protocol and its compatibility with Ethereum’s EVM and Web3 API before any Smartbch projects were seen in the wild. Seven months later, Smartbch has matured a great deal and metrics indicate that between three decentralized finance (defi) protocols, there’s roughly $12.8 million total value locked on the Smartbch-based applications.</strong>
+  </p>
+  
+  <h2>
+    Defillama Tracks Smartbch, $12.8 Million Locked Across 3 Dex Protocols
+  </h2>
+  
+  <p>
+    It’s been an active year for decentralized finance (defi) applications as the total value locked (TVL) in defi surpassed $250 billion this week. Meanwhile, the top defi blockchains like Ethereum, Binance Smart Chain, Solana, Polygon, Avalanche, Terra, and more continue to see TVLs rise.
+  </p>
+  
+  <p>
+    Alongside this, smaller defi networks like Zilliqa, Algorand, and Smartbch have seen TVLs expand as well. The Bitcoin Cash-based Smartbch protocol has expanded a great deal since Bitcoin.com News first reported on the subject.
+  </p>
+  
+  <p>
+    During the first week of September, Bitcoin Cash community members discussed the decentralized exchange (dex) Benswap.cash. Since then, a number of Smartbch compatible dex applications and non-fungible token (NFT) projects have been seen in the wild. On Wednesday, the official Twitter account for the defi analytics web portal defillama.com tweeted that the Defillama team is tracking Smartbch.
+  </p>
+  
+  <p>
+    “Now tracking Smartbch,” the Defillama Twitter account said. “Smart Bitcoin Cash (Smartbch for short) is an EVM compatible sidechain for Bitcoin Cash and has an aim to explore new ideas and unlock possibilities in a fast, secure, and decentralized manner.”
+  </p>
+  
+  <p>
+    Statistics indicate that Smartbch has a TVL of $12.8 million on November 3, 2021, between three defi protocols. Smartbch defi applications tracked by defillama.com include Benswap, Mistswap, and Muesliswap respectively. Benswap has around $5.71 million, Mistswap commands $5.49 million, and Muesliswap has around $1.66 on Wednesday. Benswap’s TVL is the most dominant with 44.38% of the $12.8 million TVL among the three dex platforms.
+  </p>
+  
+  <p>
+    Tokens swapped on Benswap include coins like eben (EBEN), flexusd (FLEXUSD), flex (FLEX), law (LAW), and cashcats (CATS). According to metrics from the web portal smartbch.fountainhead.cash, 49,373 bitcoin cash (BCH) worth $29 million is locked in Smartbch today. Roughly 52.5 BCH has been burnt or $31,482 in fees, and there are more than 434,000 contract actions. The web portal marketcap.cash keeps a list of Smartbch (SEP20) tokens in terms of the size of each coin’s market capitalization.
+  </p>
+  
+  <h2>
+    Dozens of SEP20 Tokens, Bridge Development, Beachswap ‘Rug Pull’
+  </h2>
+  
+  <p>
+    Today, the SEP20 token with the second-largest market valuation below bitcoin cash is eben (EBEN) which is trading for $0.74 per coin. The stablecoin flexusd is the third-largest cap while mist (MIST) is the fourth and trades for $0.011 per token. Just a while back, the Smartbch bridge stemming from the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> trading platform Coinflex was the only bridge to access the Smartbch network’s EVM compatibility.
+  </p>
+  
+  <p>
+    Now, there are a few different bridges coming to life as Mota Global has been developing a Smartbch bridge, the BCH developer Ekliptor has created an SEP20 bridge called prompt.cash/bridge, and there’s another being deployed called ​​tokenbridge.cash, which is in the midst of “undergoing a full code review and validator voting.”
+  </p>
+  
+  <p>
+    Bitcoin cash proponents testing the Smartbch network with some of the decentralized applications (dapps), decentralized exchange (dex) platforms, and cross-chain bridges should always be cautious of possible losses, hacks, and rug pulls. Just recently, Smartbch saw its first “rug-pull” as it’s been alleged that a decentralized exchange (dex) platform called Beachswap “exit scammed.”
+  </p>
+  
+  <p>
+    Some of the aforementioned bridges have just been released and users should test small fractions in order to verify reliability. On September 8, Bitcoin.com News reported on the dex Benswap and at the time the project was not audited. Since then, however, the firm Certik has published a “fundamental protection and assessment” audit of the dex platform.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about all the activity taking place on the Smartbch network? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

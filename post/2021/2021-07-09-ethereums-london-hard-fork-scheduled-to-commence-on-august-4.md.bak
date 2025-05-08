@@ -1,0 +1,80 @@
+---
+title: Ethereum’s London Hard Fork Scheduled to Commence on August 4
+author: willmeet22
+type: post
+date: 2021-07-09T11:01:19+00:00
+url: /ethereums-london-hard-fork-scheduled-to-commence-on-august-4/
+image: "/img/posts/2021/07/shutterstock_583939735-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"72fa9f60-48c3-4f2e-8e26-1465bb823fca","recipients":389,"external_id":"2e30e998-e272-cad5-bfed-a46b673bc04b","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 389
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ethereums-london-hard-fork-scheduled-to-commence-on-august-4/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_583939735-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ethereum's London Hard Fork Scheduled to Commence on August 4" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_583939735-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_583939735.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>The highly anticipated Ethereum hard fork is expected to launch on August 4 at block height 12,965,000 according to Ethereum core developers. The London hard fork will add five Ethereum Improvement Proposals (EIPs) that aim to enhance the blockchain. However, the Berlin hard fork was postponed after a vulnerability was identified by the audit company Chainsecurity and the London hard fork could be delayed as well. </strong>
+  </p>
+  
+  <h2>
+    London Hard Fork Scheduled for August 4, 2021
+  </h2>
+  
+  <p>
+    Ethereum’s London hard fork is one of the most long-awaited changes in quite some time and will follow the recently implemented Berlin hard fork. The London upgrade is meant to complement the Ethereum 2.0 transition which will change the ETH chain from proof-of-work (PoW) to proof-of-stake (PoS).
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Ethereum core devs have proposed block 12,965,000 for London upgrade on Mainnet. It is expected around August 4th.https://t.co/EgHKhrabBzhttps://t.co/5ec2o7OKiD
+    </p>
+    
+    <p>
+      — banteg (@bantg) July 6, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Just recently, Bitcoin.com News reported on three Ethereum testnets preparing to leverage the London hard fork. Now that the implementations have been successful following adaptations to the testnets Goerli and Ropsten, pull request #223 was officially merged.
+  </p>
+  
+  <p>
+    “This pull request proposes block 12965000 for the mainnet activation of the London network upgrade,” explained Ethereum core developer Tim Beiko. “The ETA for this block should be between 13:00 UTC and 17:00 UTC on August 4, 2021. We had agreed on ACD116 to decide the block async and try and get client releases done for ACD117 (July 9).” Beiko added:
+  </p>
+  
+  <blockquote>
+    <p>
+      If we can roughly hit that timeline, then August 4th should provide enough time to advertise the client releases that are mainnet compatible, and allow infrastructure providers [and] node operators to upgrade.
+    </p>
+  </blockquote>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <p>
+    The biggest changes being added to the blockchain include EIP-1559 and EIP-3554. EIP-1559 will change Ethereum’s fee rate to a new scheme that makes the crypto asset ETH deflationary.
+  </p>
+  
+  <p>
+    EIP-3554 messes with the miner’s difficulty bomb to ease the transition from PoW to PoS. Additionally, the upcoming fork will also feature EIP-3198: BASEFEE opcode, EIP-3529: reduction in refunds, and EIP-3541: reject new contracts starting with the 0xEF byte.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the Ethereum London upgrade date? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

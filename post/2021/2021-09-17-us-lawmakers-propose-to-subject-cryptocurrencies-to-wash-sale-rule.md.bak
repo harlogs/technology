@@ -1,0 +1,89 @@
+---
+title: US Lawmakers Propose to Subject Cryptocurrencies to Wash Sale Rule
+author: willmeet22
+type: post
+date: 2021-09-17T00:01:05+00:00
+url: /us-lawmakers-propose-to-subject-cryptocurrencies-to-wash-sale-rule/
+image: "/img/posts/2021/09/wash-sale-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 5
+wpil_links_outbound_internal_count_data:
+  - 'a:5:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:3;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:4;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-17T00:01:06+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/us-lawmakers-cryptocurrencies-wash-sale-rule/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/wash-sale.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="US Lawmakers Propose to Subject Cryptocurrencies to Wash Sale Rule" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>A committee of the U.S. House of Representatives has proposed to subject cryptocurrencies to the “wash sale” rule. Since cryptocurrencies are treated as property by the Internal Revenue Service (IRS), they are currently not subject to the wash sale rule. This proposal attempts to close down a big <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> tax loophole.</strong>
+  </p>
+  
+  <h2>
+    Crypto Included in New Proposal
+  </h2>
+  
+  <p>
+    The Committee on Ways and Means, the chief tax-writing committee of the U.S. House of Representatives, proposed to subject cryptocurrencies to the wash sale rule Monday. If adopted, the rules will apply to <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> trades occurring after Dec. 31.
+  </p>
+  
+  <p>
+    The “wash sales” provision in the bill states:
+  </p>
+  
+  <blockquote>
+    <p>
+      This section includes commodities, currencies, and digital assets in the wash sale rule, an anti-abuse rule previously applicable to stock and other securities. The wash sale rule in section 1091 prevents taxpayers from claiming tax losses while retaining an interest in the loss asset.
+    </p>
+  </blockquote>
+  
+  <p>
+    The wash-sale rule was designed to discourage people from selling securities at a loss simply to claim a tax benefit. A wash sale occurs when an individual sells a security at a loss and then purchases that same security or substantially identical securities within 30 days.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <p>
+    Shehan Chandrasekera, head of Tax Strategy at <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> tax software firm Cointracker, commented that with this wash sale proposal, the committee “is trying to close down a big crypto tax loophole.” He elaborated:
+  </p>
+  
+  <blockquote>
+    <p>
+      Since cryptocurrencies are treated as property (IRS 2014-21), they are not subject to the wash sale rule. This allows you to harvest losses more aggressively in <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> than in stocks. You don’t have to wait 30 days. Ways & Means Committee is trying to subject <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> to the wash sale rule.
+    </p>
+  </blockquote>
+  
+  <p>
+    According to Chandrasekera, “the new rules will not eliminate the tax benefit, it will defer the tax benefit.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about this new proposal? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

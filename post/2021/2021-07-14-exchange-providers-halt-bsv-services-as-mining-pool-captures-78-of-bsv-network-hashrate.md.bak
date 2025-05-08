@@ -1,0 +1,106 @@
+---
+title: Exchange Providers Halt BSV Services as Mining Pool Captures 78% of BSV Network Hashrate
+author: willmeet22
+type: post
+date: 2021-07-14T20:15:50+00:00
+url: /exchange-providers-halt-bsv-services-as-mining-pool-captures-78-of-bsv-network-hashrate/
+image: "/img/posts/2021/07/shutterstock_1338426002-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"d818b54d-1df8-4d47-a9da-c3fd842bf685","recipients":415,"external_id":"7beec160-1d10-e094-09ea-703472960793","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 415
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/exchange-providers-halt-bsv-services-mining-pool-captures-78-bsv-hashrate/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_1338426002-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Exchange Providers Halt BSV Services as Mining Pool Captures 78% of BSV Network Hashrate" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_1338426002-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1338426002.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>The cryptocurrency community has been discussing the Bitcoinsv network as a mining pool called Taal has well over 51% of the hashrate. Data from the analytical crypto website Coin Dance shows the mining pool Taal commands over 78% of the network’s hashrate during the last 24 hours. On Tuesday, the European cold storage provider, Gravity, says it has suspended bitcoinsv trading “due to several large exchanges disabling BSV deposits [and] withdrawals.”</strong>
+  </p>
+  
+  <h2>
+    Following Blockchain Reorganization Attack Last Week, Taal Captures Well Over 51% of the Bitcoinsv Network’s Hashrate
+  </h2>
+  
+  <p>
+    According to statistics, a mining operation called Taal currently commands well over 51% of the Bitcoinsv (BSV) network’s hashrate. On Wednesday, the mining pool Taal captures more than 78% of the BSV hashrate in terms of distribution among five known pools and 13% of unknown hashrate. Data from the web page sv.coin.dance/blocks indicates that during the trailing seven days, Taal commanded 69% of the network’s hashpower. Block details show that a great majority of BSV blocks have been found by Taal’s operation.
+  </p><figure id="attachment_474526" aria-describedby="caption-attachment-474526" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/07/coindancebsv-300x117.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/coindancebsv-768x300.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/coindancebsv-1024x400.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/07/coindancebsv.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-474526 size-full" title="Exchange Providers Halt BSV Services as Mining Pool Captures 78% of BSV Network Hashrate" src="https://technologymanias.com/wp-content/uploads/2021/07/coindancebsv.jpg" alt="Exchange Providers Halt BSV Services as Mining Pool Captures 78% of BSV Network Hashrate" width="1280" height="500" /><figcaption id="caption-attachment-474526" class="wp-caption-text">Data from the web portal sv.coin.dance/blocks on July 14, 2021.</figcaption></figure> 
+  
+  <p>
+    Beside’s Taal’s hashpower, other mining pools mining the BSV chain include Viabtc, SBI Crypto, Btc.com, F2pool, and Svpool, at least for today. During the week, other known pools like Solomining, Hathor, and Matter pool have also found BSV blocks. Last week, the Switzerland-based global industry organization, the Bitcoin Association (for BSV), explained that the BSV network was being attacked by a malicious entity.
+  </p>
+  
+  <p>
+    “A malicious actor has recently been carrying out block re-organisation attacks on the Bitcoin SV network,” the Bitcoinsv group noted on July 8. “[It] appears to be intentional acts in an effort to mask the illegal double-spending of coins. The Bitcoin SV Infrastructure Team have identified one of the addresses connected with the attack as being long associated with ransomware and other attacks on the BTC, BCH, and BSV chains – so the malicious actor is engaged in illegal activity which could involve also BTC and BCH, and not just the BSV network,” the BSV organization added.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Gravity Suspends Bitcoinsv Trading and 51% Attack Explanations
+  </h2>
+  
+  <p>
+    Following the attack, the Twitter account @dash_community tweeted that the Bitcoinsv chain should have had protections like Chainlocks, similar to what’s been implemented on the Dash network. “To prevent damaging block reorganizations like this one, BSV should implement Chainlocks, which Dash pioneered (but which other projects like [Firo] also use), which make reorganizations impossible. Evolve or die,” the account tweeted last week.
+  </p><figure id="attachment_474527" aria-describedby="caption-attachment-474527" style="width: 1000px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/07/cal-300x195.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/cal-768x499.jpg 768w, https://technologymanias.com/wp-content/uploads/2021/07/cal.jpg 1000w" sizes="auto, (max-width: 1000px) 100vw, 1000px" loading="lazy" class="wp-image-474527 size-full" title="Exchange Providers Halt BSV Services as Mining Pool Captures 78% of BSV Network Hashrate" src="https://technologymanias.com/wp-content/uploads/2021/07/cal.jpg" alt="Exchange Providers Halt BSV Services as Mining Pool Captures 78% of BSV Network Hashrate" width="1000" height="650" /><figcaption id="caption-attachment-474527" class="wp-caption-text">The Bitcoinsv (BSV) conversation has been a very topical discussion on Twitter.</figcaption></figure> 
+  
+  <p>
+    After the reorganization issue, reports noted that the exchanges Huobi and Okex halted withdrawals and deposits for BSV. “Huobi Global [has] disabled BSV deposits and withdrawals; no advance warning was given. They are fighting BSV because they know it is the real Bitcoin,” one Bitcoinsv supporter wrote.
+  </p>
+  
+  <p>
+    Then on July 13, the cold storage provider, Gravity, told its Twitter followers that it was disabling BSV trades.
+  </p>
+  
+  <p>
+    “Urgent Notice,” Gravity tweeted. “Our liquidity providers have just informed us that, due to several large exchanges disabling BSV deposits [and] withdrawals, they are also suspending access to BSV liquidity until further notice. This means it will not be possible to trade BSV on Gravity at this time. We sincerely apologise for the short notice [and] will update you with more information when we have it. Trading of all other digital assets on Gravity remains unaffected.”
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      51% attacks are a trap to see if someone is an idiot and doesnt understand what proof of work is for in Bitcoin. If they are a dumb peacock they can enjoy getting attention of the tiger (law enforcement)
+    </p>
+    
+    <p>
+      — BSV KING (@bitcoinkaiser) July 14, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Meanwhile, the Coingeek streaming channel that focuses on Bitcoinsv (BSV) news coverage and the BSV ecosystem, also discussed the situation. Kurt Wuckert Jr. hosted the show and he responded to the criticisms that were being cast at the BSV chain. Wuckert Jr., also made similar statements the day prior on Twitter.
+  </p>
+  
+  <p>
+    “51% attacks don’t really exist without the exchange-based bitcoin economy,” Wuckert Jr. tweeted. Huobi [and] Okex stopped withdrawals/deposits, but they will be back. Honest nodes reject malicious blocks, and then further attempts are waste. Things will be back to normal soon,” he added.
+  </p>
+  
+  <p>
+    Commenting on the 51% attack discussion stemming from the Coingeek streaming channel video, the bitcoiner Theo Goodman wasn’t impressed by the host’s explanation of the events. When someone tweeted: “Watch this, Kurt explains what is happening at the start,” Goodman responded to the video content.
+  </p>
+  
+  <p>
+    “He does explain it but then adds some opinion,” Goodman wrote. ‘There is no such thing as a 51% attack’ and from 9:14 he contradicts himself regarding trust. Then later he [basically] says not to worry unless you are in infrastructure they will figure it out.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the discussions revolving around the Bitcoinsv network? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

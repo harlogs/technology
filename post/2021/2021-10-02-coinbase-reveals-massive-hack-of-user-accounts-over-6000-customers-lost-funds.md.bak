@@ -1,0 +1,91 @@
+---
+title: 'Coinbase Reveals Massive Hack of User Accounts: Over 6,000 Customers Lost Funds'
+author: willmeet22
+type: post
+date: 2021-10-02T16:02:56+00:00
+url: /coinbase-reveals-massive-hack-of-user-accounts-over-6000-customers-lost-funds/
+image: "/img/posts/2021/10/breach-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-02T16:03:00+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/coinbase-massive-hack-user-accounts-over-6000-customers-lost-funds/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/breach.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Coinbase Reveals Massive Hack: Over 6,000 Customers Lost Funds" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>The Nasdaq-listed cryptocurrency exchange Coinbase has disclosed that at least 6,000 users were victims of a hacking campaign to gain unauthorized access to the accounts of Coinbase customers. The hackers also took advantage of a flaw in Coinbase’s SMS Account Recovery process to gain access to user accounts.</strong>
+  </p>
+  
+  <h2>
+    Cryptocurrencies of at Least 6,000 Coinbase Customers Stolen by Hackers
+  </h2>
+  
+  <p>
+    Cryptocurrency exchange Coinbase reportedly informed over 6,000 customers this week that their accounts had been compromised and funds were removed. A copy of the letter is posted on the website of California’s Attorney General. In the letter, the exchange explained:
+  </p>
+  
+  <blockquote>
+    <p>
+      Unfortunately, between March and May 20, 2021, you were a victim of a third-party campaign to gain unauthorized access to the accounts of Coinbase customers and move customer funds off the Coinbase platform. At least 6,000 Coinbase customers had funds removed from their accounts, including you.
+    </p>
+  </blockquote>
+  
+  <p>
+    In order to access a user account at Coinbase, the hackers needed to know the email addresses, passwords, and phone numbers linked to the accounts, and have access to a personal email inbox, the company said. “This type of campaign typically involves phishing attacks or other social engineering techniques to trick a victim into unknowingly disclosing login credentials to a bad actor.”
+  </p>
+  
+  <p>
+    Coinbase further explained that “for customers who use SMS texts for two-factor authentication, the third party took advantage of a flaw in Coinbase’s SMS Account Recovery process in order to receive an SMS two-factor authentication token and gain access to your account.”
+  </p>
+  
+  <p>
+    The exchange noted that once the hackers got into the affected user accounts, they were “able to transfer your funds to crypto wallets unassociated with Coinbase.”
+  </p>
+  
+  <p>
+    The letter also noted that Coinbase updated its SMS Account Recovery protocols as soon as it learned of the issue, adding:
+  </p>
+  
+  <blockquote>
+    <p>
+      We will be depositing funds into your account equal to the value of the currency improperly removed from your account at the time of the incident. Some customers have already been reimbursed — we will ensure all customers affected receive the full value of what you lost. You should see this reflected in your account no later than today.
+    </p>
+  </blockquote>
+  
+  <p>
+    The Nasdaq-listed <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchange also said that it is conducting an internal investigation into this incident and the company is working closely with law enforcement to find the individuals behind this hack.
+  </p>
+  
+  <p>
+    Nonetheless, Coinbase insisted, “We have not found any evidence that these third parties obtained [user] information from Coinbase itself.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about this security breach affecting over 6,000 Coinbase users? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

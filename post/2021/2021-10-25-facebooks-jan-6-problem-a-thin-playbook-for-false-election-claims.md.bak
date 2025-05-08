@@ -1,0 +1,231 @@
+---
+title: 'Facebook’s Jan. 6 problem: A thin playbook for false election claims'
+author: willmeet22
+type: post
+date: 2021-10-25T12:06:50+00:00
+url: /facebooks-jan-6-problem-a-thin-playbook-for-false-election-claims/
+image: "/img/posts/2021/10/211024-riot-social-media-ap-773-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-25T12:06:52+00:00
+wpe_campaignid:
+  - 5352
+wpe_feed:
+  - https://www.politico.com/rss/politicopicks.xml
+wpe_sourcepermalink:
+  - https://www.politico.com/news/2021/10/25/facebook-jan-6-election-claims-516997
+categories:
+  - News
+tags:
+  - news today usa
+  - usa news today
+
+---
+<div>
+  <img decoding="async" src="https://technologymanias.com/wp-content/uploads/2021/10/211024-riot-social-media-ap-773.jpg" /></p> 
+  
+  <p>
+    In the days and hours leading up to the Jan. 6 Capitol insurrection, engineers and other experts in Facebook’s Elections Operations Center were throwing tool after tool at dangerous claims spreading across the platform — trying to detect false narratives of election fraud and squelch other content fueling the rioters.
+  </p>
+  
+  <p>
+    But much of what was ricocheting across the social network that day fell into a bucket of problematic material that Facebook itself has said it doesn’t yet know how to tackle.
+  </p>
+  
+  <p>
+    Internal company documents show Facebook had no clear playbook<b> </b>for handling some of the most dangerous material on its platform: content delegitimizing the U.S. elections. Such claims fell into a category of “harmful non-violating narratives” that stopped just short of breaking any rules. Without set policies for how to deal with those posts during the 2020 cycle, Facebook’s engineers and other colleagues were left scrambling to respond to the fast-escalating riot at the Capitol — a breakdown that triggered outrage across the company’s ranks, the documents show.
+  </p>
+  
+  <p>
+    “How are we expected to ignore when leadership overrides research based policy decisions to better serve people like the groups inciting violence today,” one employee asked on a Jan. 6 message board, responding to memos from CEO Mark Zuckerberg and CTO Mike Schroepfer. “Rank and file workers have done their part to identify changes to improve our platform but have been actively held back.”
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    The documents include disclosures made to the Securities and Exchange Commission and provided to Congress in redacted form by the legal counsel for Frances Haugen, a Facebook whistleblower who left the company four months after the Jan. 6 violence. The redacted versions were reviewed by a consortium of news organizations, including POLITICO.
+  </p>
+  
+  <p>
+    Facebook for years has been collecting data and refining its strategy to protect the platform and its billions of users, particularly during post-election periods when violence is not uncommon. The company has taken added precautions in parts of the world such as Myanmar and India, which have seen deadly unrest during political transitions, including using “break the glass” measures — steps reserved for critical crises — to try to thwart real-world harm.
+  </p>
+  
+  <p>
+    Yet even with those insights, Facebook did not have a clear plan for addressing much of the activity that led to violence following the 2020 U.S. presidential election.
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    On the day of the Capitol riot, employees began pulling levers to try to stave off the peril.
+  </p>
+  
+  <p>
+    The Elections Operations Center — effectively a war room of moderators, data scientists, product managers and engineers that monitors evolving situations — quickly started turning on what they call “break the glass” safeguards from the 2020 election that dealt more generally with hate speech and graphic violence but which Facebook had rolled back after Election Day.
+  </p>
+  
+  <p>
+    Sometime late on Jan. 5 or early Jan. 6, engineers and others on the team also readied “misinfo pipelines,” tools that would help them see what was being said across the platform and get ahead of the spread of misleading narratives — like one that Antifa was responsible for the riot, or another that then-President Donald Trump had invoked the Insurrection Act to stay in power. Shortly after, on Jan. 6, they built another pipeline to sweep the site for praise and support of “storm the Capitol” events, a post-mortem published in February shows.
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    But they faced delays in getting needed approvals to carry out their work. They struggled with “major” technical issues. And above all, without set guidance on how to address the surging delegitimization material they were seeing, there were misses and inconsistencies in the content moderation, according to the post-mortem document — an issue that members of Congress, and Facebook’s independent oversight board, <u>have long complained about</u>.
+  </p>
+  
+  <p>
+    The technologists were forced to make quick and difficult calls to address nuances in the misinformation, such as whether future-tense statements should be treated differently than those in the past, and how pronouns (“he” versus “Trump,” for example) might affect results.
+  </p>
+  
+  <p>
+    Data captured the following morning, Jan. 7, found that Facebook’s artificial intelligence tools had struggled to address a large portion of the content related to the storming of the Capitol.
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    “I don&#8217;t think that Facebook&#8217;s technical processes failed on January 6,” said Emerson Brooking, resident senior fellow at the Atlantic Council’s Digital Forensic Research Lab, emphasizing how the post-mortem shows engineers and others working hard to reduce harm on that day. “Instead, I think that Facebook&#8217;s senior leadership failed to deal aggressively enough with the election delegitimization that made Jan. 6 possible in the first place.”
+  </p>
+  
+  <p>
+    “We’re FB, not some naive startup,” one employee wrote on a Jan. 6 message board. “With the unprecedented resources we have, we should do better.”
+  </p>
+  
+  <p>
+    Facebook spokesperson Andy Stone said the company had spent more than two years preparing for the election, mobilizing dozens of teams and tens of thousands of employees to focus on safety and security. He said the company had taken additional precautions before, during and after the race, adjusting them as needed based on what Facebook was seeing on the platform and its communications with law enforcement.
+  </p>
+  
+  <p>
+    “It is wrong to claim that these steps were the reason for January 6th — the measures we did need remained in place well into February, and some like not recommending new, civic, or political groups remain in place to this day,” Stone said in a statement. “These were all part of a much longer and larger strategy to protect the election on our platform — and we are proud of that work.”
+  </p>
+  
+  <h3 style="text-align: left">
+    Facebook’s known unknowns
+  </h3>
+  
+  <p>
+    Facebook itself has identified one major, problematic category that it says slips through the cracks of its existing policies.
+  </p>
+  
+  <p>
+    It’s a gray area of “harmful non-violating narratives” — material that could prove troublesome but nonetheless remains on Facebook because it does not explicitly break the platform’s rules, according to a March report from a group of Facebook data scientists with machine learning expertise.
+  </p>
+  
+  <p>
+    Narratives questioning the 2020 U.S. election results fell into that bucket. That meant influential users were able to spread claims about a stolen election without actually crossing any lines that would warrant enforcement, the document said.
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    When weighing content in this gray zone and others, like vaccine hesitancy, Facebook errs on the side of free speech and maintains a high bar for taking action on anything ambiguous that does not expressly violate its policies, according to the report. Making these calls is further complicated by the fact that context, like how meaning may vary between cultures, is hard for AI and human reviewers to parse. But the social network has struggled to ward off harm by limiting its own ability to act without absolute certainty that a post is dangerous, per the report — a burden of proof that the data scientists said is “extremely challenging” to meet.
+  </p>
+  
+  <p>
+    “We recently saw non-violating content delegitimizing the U.S. election results go viral on our platforms,” they wrote. “The majority of individual instances of such could be construed as reasonable doubts about election processes, and so we did not feel comfortable intervening on such content.”
+  </p>
+  
+  <p>
+    “Retrospectively,” the authors added, “external sources have told us that the on-platform experiences on this narrative may have had substantial negative impacts including contributing materially to the Capitol riot and potentially reducing collective civic engagement and social cohesion in the years to come.”
+  </p>
+  
+  <p>
+    Paul Barrett, deputy director of the NYU Stern Center for Business and Human Rights, said Facebook’s approach is flawed because some material that stays up is more dangerous than what comes down.
+  </p>
+  
+  <p>
+    “Facebook really doesn&#8217;t have its arms around the larger content moderation challenge,” he said. “It’s got an often ambiguous, often contradictory, and problematic set of standards.”
+  </p>
+  
+  <p>
+    One Facebook staffer, responding on an internal message board to the March report, said that &#8220;minimizing harm beyond the sharp-lines or worst-of-the-worst content” should be a top focus because these topics are “actually more harmful than the stuff we’re allowed to remove.”
+  </p>
+  
+  <p>
+  </p>
+  
+  <p>
+    The data scientists called non-violating content a problem “in need of novel solutions.”
+  </p>
+  
+  <p>
+    Katie Harbath, Facebook’s former public policy director for global elections, who left the company in March, argued that top brass should have made borderline material a greater priority.
+  </p>
+  
+  <p>
+    “There could have been a lot more done, especially by leadership, [as far as] looking at some of these edge cases and trying to think through some of this stuff,” she said.
+  </p>
+  
+  <p>
+    Facebook did not respond to a question from POLITICO on where this challenging category sits on leadership’s priority list. But the company said that through its fact-checking program, it curbs misinformation that does not directly violate its policies, and that during the 2020 political cycle, it attached informational labels to content discussing the legitimacy of the election.
+  </p>
+  
+  <p>
+    Harmful non-violating content was far from the only obstacle preventing Facebook from reining in dangerous material after the vote. It also had a hard time curtailing groups from the far-right Stop the Steal movement — which alleged the election had been stolen from Trump — because they were part of grassroots activity fueled by real people with legitimate accounts. Facebook has rules deterring what it calls “coordinated inauthentic behavior,” like deceptive bots or fake accounts, but “little policy around coordinated authentic harm,” per a report on the growth of harmful networks on Facebook.
+  </p>
+  
+  <p>
+    Facebook took down the original Stop the Steal group in November, but it did not ban content using that phrase until after the Jan. 6 riot. The company said it has since been expanding its work to address threats from groups of authentic accounts, but that one big challenge is distinguishing between users coordinating harm on the platform from people organizing for social change.
+  </p>
+  
+  <h3 style="text-align: left">
+    A culture of wait-and-see
+  </h3>
+  
+  <p>
+    Both the inability to firm up policies for borderline content and the lack of plans around coordinated but authentic misinformation campaigns reflect Facebook’s reluctance to work through issues until they are already major problems, according to employees and internal documents.
+  </p>
+  
+  <p>
+    That’s in contrast to the proactive approach to threats that Facebook frequently touts — like proactively removing misinformation that violates its safety and security standards and going after foreign interference campaigns before they can manipulate public debate.
+  </p>
+  
+  <p>
+    Some Facebook staffers argue that what is, in fact, a reactive approach from the company sets Facebook up for failure during high-stakes moments like the events of Jan. 6.
+  </p>
+  
+  <p>
+    An internal report from the company’s Complex Financial Operations Task Force — a separate team of investigators, data scientists and engineers formed to combat potential threats around the 2020 elections — said the company’s approach is typically to not address problems until they become widespread. Facebook tends to invest resources only in the largest quantifiable problems, it said, which leads the company to miss small but growing dangers, like those that emerged between Election Day and Jan. 6.
+  </p>
+  
+  <p>
+    “We are actively incentivized against mitigating problems until they are already causing substantial harm,” said the document, which appeared to have been written soon after the November vote but before the Jan. 6 violence. The task force added that with Facebook’s troves of data and product expertise, detecting new types of harm and abuse “is entirely possible for us to do.”
+  </p>
+  
+  <p>
+    “Continuing to take a primarily reactive approach to unknown harms undermines our overall legitimacy efforts,” the report continued.
+  </p>
+  
+  <p>
+    “There will always be evolving adversarial tactics and emerging high severity topics (covid vaccine misinformation, conspiracy theories, the next time extremist activities are front and center in a major democracy, etc.),” the report said. “We need consistent investment in proactively addressing the intersection of these threats in a way that standard integrity frameworks prioritizing by prevalence do not support.”
+  </p>
+  
+  <p>
+    When such extremist activity came to pass just weeks later, on Jan. 6, employees sounded off on Facebook’s reactivity. Some blasted Schroepfer, who is stepping down in 2022, for encouraging staff to “hang in there” and “self-reflect.”
+  </p>
+  
+  <p>
+    “What do we do when our reflection continually puts us in a reactive position?” one employee responded to Schroepfer’s memo. “Why are we not more proactive given the immense talent and creativity we possess?”
+  </p>
+  
+  <p>
+    “Employees are tired of ‘thoughts and prayers’ from leadership,” another wrote. “We want action.”
+  </p>
+</div>

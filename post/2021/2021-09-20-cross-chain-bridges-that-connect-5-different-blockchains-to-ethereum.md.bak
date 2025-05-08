@@ -1,0 +1,155 @@
+---
+title: Cross-Chain Bridges That Connect 5 Different Blockchains to Ethereum
+author: willmeet22
+type: post
+date: 2021-09-20T03:02:25+00:00
+url: /cross-chain-bridges-that-connect-5-different-blockchains-to-ethereum/
+image: "/img/posts/2021/09/image-2021-09-19-124035-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-20T03:02:26+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/cross-chain-bridges-that-connect-5-different-blockchains-to-ethereum/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/image-2021-09-19-124035.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Cross-Chain Bridges That Connect 5 Different Blockchains to Ethereum" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>During the last few months, cross-chain bridge technology has grown a great deal and users can now swap assets between a myriad of networks. Today, between eight different bridges there’s $7.6 billion total-value locked across these platforms. </strong>
+  </p>
+  
+  <h2>
+    Cross-Chain Bridges
+  </h2>
+  
+  <p>
+    There’s a decent quantity of cross-chain blockchain bridges these days and it has allowed users to do a variety of different decentralized finance (defi) techniques. Interestingly, a great deal of bridges connect to the Ethereum (ETH) network, as they have Ethereum Virtual Machine (EVM) compatibility.
+  </p>
+  
+  <p>
+    Since these connections have been made, a great deal of value has been flowing between a myriad of chains and the Ethereum blockchain. The following post mentions a number of bridges <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> participants can use to achieve cross-chain swaps.
+  </p>
+  
+  <h2>
+    Tezos Wrap Protocol Bridge
+  </h2>
+  
+  <p>
+    The Tezos (XTZ) blockchain is a proof-of-stake (PoS) blockchain network that leverages validating nodes often referred to as bakers. XTZ users have the ability to bridge with the Ethereum blockchain as a team called Bender Labs developed a bridge called the Wrap Protocol.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter size-full wp-image-486271" src="https://technologymanias.com/wp-content/uploads/2021/09/blender.jpg" alt="" width="1280" height="275" />
+  </p>
+  
+  <p>
+    Essentially, the Wrap Protocol developed by Bender provides people with the ability to wrap ERC20 and ERC721 tokens in order to leverage them with different defi applications.
+  </p>
+  
+  <h2>
+    Binance Smart Chain Bridge
+  </h2>
+  
+  <p>
+    The Binance Smart Chain (BSC) is another blockchain that is compatible with Ethereum. BSC offers the same smart contract capacity but the fees on the BSC chain are much cheaper. Binance Chain (BNB) users can switch from the BNB chain to BSC via the BEP20 standard and a cross-chain bridge.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter size-full wp-image-486272" src="https://technologymanias.com/wp-content/uploads/2021/09/binancebridges.jpg" alt="" width="1280" height="600" />
+  </p>
+  
+  <p>
+    The Binance wallet is an extension wallet that can perform cross-chain swaps from BNB to BSC. Alongside this, users can leverage the Binance Bridge to handle cross-chain transactions as well. U.S. users and a number of other countries may have to leverage a VPN to access the Binance Bridge.
+  </p>
+  
+  <h2>
+    Solana’s Wormhole Bridge
+  </h2>
+  
+  <p>
+    Solana (SOL) has a bridge as well and the launch of the Wormhole Network’s ethereum – solana bridge was revealed on September 17. The Wormhole Token Bridge connects Ethereum and Solana and users can interchange assets across both blockchains.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter size-full wp-image-486182" src="https://technologymanias.com/wp-content/uploads/2021/09/dddddfff-1.jpg" alt="" width="1280" height="550" />
+  </p>
+  
+  <p>
+    “The portal is open,” the website wormholenetwork.com details. “Wormhole delivers new communication channels between previously siloed blockchains.” Current Wormhole statistics from Dune Analytics indicate the Solana Wormhole has $382,471,804 total-value locked.
+  </p>
+  
+  <h2>
+    Avalanche Bridge
+  </h2>
+  
+  <p>
+    Another chain that is compatible with Ethereum is Avalanche (AVAX), a proof-of-stake (PoS) blockchain. AVAX participants can bridge AVAX assets to Ethereum by leveraging the cross-chain capabilities offered by the Avalanche wallet.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter size-full wp-image-486270" src="https://technologymanias.com/wp-content/uploads/2021/09/avaxs.jpg" alt="" width="1280" height="600" />
+  </p>
+  
+  <p>
+    Users of this wallet can exchange their AVAX back and forth for a small fee between the Avalanche network and the Ethereum network. After a cross-chain swap is settled onto the Ethereum chain, participants can send the funds to a wallet like Metamask, as long as they configure Metamask to the Avalanche network.
+  </p>
+  
+  <h2>
+    Bitcoin Cash Smartbch Bridge
+  </h2>
+  
+  <p>
+    Bitcoin Cash (BCH) is another chain that is now compatible with Ethereum via the Smartbch network. This means bitcoin cash (BCH) can be wrapped and used for decentralized finance purposes. Currently, there is only one Smartbch bridge powered by the crypto-asset exchange Coinflex.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter size-full wp-image-486273" src="https://technologymanias.com/wp-content/uploads/2021/09/vm3e2ca5-smartsbch-1.jpg" alt="" width="1280" height="720" />
+  </p>
+  
+  <p>
+    Users can access Coinflex via Metamask instead of registering with an email and users can swap their BCH for Smartbch almost instantly, after confirmation times. Essentially a user simply deposits BCH and sends out Smartbch by leveraging the SEP20 token protocol standard at withdrawal. From here, after a Metamask wallet is configured to the Smartbch network, Metamask users can leverage wrapped bitcoin cash.
+  </p>
+  
+  <h2>
+    Research Guides on How to Use Bridges Before Crossing Them
+  </h2>
+  
+  <p>
+    The list above just scratches the surface when it comes to cross-chain swaps as there are bridges stemming from blockchains like Cosmos, Fantom, Polygon, Terra, Harmony, Near, Optimism, and Harmony.
+  </p>
+  
+  <p>
+    Cosmos users can connect with a Keplr wallet and connect to Ethereum via Emeris. Near participants can collaborate with Ethereum via the NEAR Rainbow Bridge. Fantom users can swap with spookyswap or multichain.xyz and Polygon network participants are able to cross-chain swap via the Polygon Bridge. Terra assets can be swapped back and forth between Ethereum and Terra through bridge.terra.money.
+  </p>
+  
+  <p>
+    However, using cross-chain bridges takes some patience and some prior knowledge from walkthrough articles and step-by-step directions on how to leverage blockchain bridges. Funds can get lost if mistakes are made and users should always do due diligence before accessing any cross-chain bridges or decentralized finance (defi) applications in general.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the five cross-chain bridges mentioned in this article? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

@@ -1,0 +1,77 @@
+---
+title: Dapper Labs Partners With Chainalysis to Curb NFT-Based Money Laundering
+author: willmeet22
+type: post
+date: 2021-10-08T11:03:29+00:00
+url: /dapper-labs-partners-with-chainalysis-to-curb-nft-based-money-laundering/
+image: "/img/posts/2021/10/photo_2021-10-08_00-00-13-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-08T11:03:30+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/dapper-labs-partners-with-chainalysis-to-curb-nft-based-money-laundering/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/photo_2021-10-08_00-00-13.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="dapper labs" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Dapper Labs, one of the most successful companies in the NFT space, has partnered with Chainalysis, a blockchain intelligence company, to increase its compliance profile in the NFT business. The company will use Chainalysis insights to have a better understanding of each one of the transactions that users make with their products and the purpose of each transaction. This will help them detect money laundering instances and market manipulation attempts.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Dapper Labs to Use Chainalysis’ Solutions to Increase Oversight
+  </h2>
+  
+  <p>
+    Dapper Labs, the creators of notable projects like Cryptokitties and NBA Top Shots, has partnered with Chainalysis, one of the leading blockchain intelligence companies, to increase oversight of transactions involving its products. The company is seeking to have a better understanding of what users are doing with its creations, and if these are indeed being leveraged by bad actors for illicit purposes.
+  </p>
+  
+  <p>
+    NFTs have gotten a bad rap, with some members of the <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> community making allegations they are being used to launder money due to the outrageous prices of some of these NFTs. Dapper Labs acknowledges the need for more awareness to make their products safer for anyone wishing to enjoy NFT markets. <span class="xn-person">Naeem Bawla</span>, associate director of compliance at Dapper Labs, stated:
+  </p>
+  
+  <blockquote>
+    <p>
+      NFTs are one of the most exciting spaces in <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a>, but they will only be successful in the long-term if we can ensure a safe environment for our customers.
+    </p>
+  </blockquote>
+  
+  <h2 style="text-align: center;">
+    NFT Boom and Chainalysis Weapons
+  </h2>
+  
+  <p>
+    While NFTs had been largely ignored due to their low trading volumes, this year all that changed, with NFT projects reaching more than $1 billion traded. This has increased concern about the legitimacy of the funds moved in such markets, with companies like Dapper Labs growing increasingly worried about the effectiveness of the compliance measures taken.
+  </p>
+  
+  <p>
+    Dapper Labs will apply two different Chainalysis tools. The first one is called Chainalysis KYT (Know Your Transaction), which the company claims can flag illicit and risky transactions in real-time, alerting Dapper Labs of any wrongdoing when it is happening. The other tool that the company will be using is Chainalysis Reactor, which will allow the company to make inquiries about, and subsequent investigations into, any transaction. These tools form part of the Chainalysis arsenal to combat irregularities via this new use case that is NFT-based compliance.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Dapper Labs’ partnership with Chainalysis? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

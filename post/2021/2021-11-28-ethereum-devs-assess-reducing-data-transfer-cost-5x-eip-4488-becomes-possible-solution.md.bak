@@ -1,0 +1,95 @@
+---
+title: Ethereum Devs Assess Reducing Data Transfer Cost 5x, EIP-4488 Becomes Possible Solution
+author: willmeet22
+type: post
+date: 2021-11-28T19:03:51+00:00
+url: /ethereum-devs-assess-reducing-data-transfer-cost-5x-eip-4488-becomes-possible-solution/
+image: "/img/posts/2021/11/rollup-transactions-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-28T19:03:52+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ethereum-devs-assess-reducing-data-transfer-cost-5x-lower-eip-4488-becomes-possible-solution/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/rollup-transactions.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>The second leading crypto asset ethereum has been dealing with high fees since the end of June and today the average ethereum transaction fee is between $5 and $34 per transfer. While there’s been a lot of complaints about ether gas costs this year, Ethereum founder Vitalik Buterin has recommended an Ethereum Improvement Proposal (EIP) that aims to decrease transaction costs by five times. Ethereum developer Tim Beiko discussed the idea as well, and talked about possible “challenges” both long and short term. </strong>
+  </p>
+  
+  <h2>
+    Moving Ether, Transferring an ERC20, and Swapping Tokens on Ethereum Is Costly — Tim Beiko Shares EIP-4488 Insights
+  </h2>
+  
+  <p>
+    Following the London upgrade during the first week of August, it was assumed that EIP-1559 would relieve at least some of the pressure. However, the average transaction network fee continued to rise after the London upgrade reaching, $62 per transfer on November 9. Today, ether gas cost is lower as bitinfocharts.com indicates the average ether fee is 0.0083 ETH per transfer, or $34.09. The web portal l2fees.info shows an ETH transaction as low as $5.77 per transfer, but the cost to move an ERC20 is $13.20, and swapping ETH-based tokens can cost $28.27 per swap.
+  </p>
+  
+  <p>
+    On November 22, Bitcoin.com News reported on the arguments taking place on <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> forums and social media platforms like Twitter, between Ethereum and Avalanche advocates. Ethereum has stiff competition these days as blockchains like Binance Smart Chain, Avalanche, Terra, Solana, Harmony, Near, Fantom, and many more have been siphoning ether users and use cases. Now the high fees seem to be pushing the developers to step up and do something about the expensive gas costs. On November 26, Ethereum developer Tim Beiko shared the most recent developer discussion and talked about an idea to lower the costs of rollups.
+  </p>
+  
+  <p>
+    The gas costs have further pushed Ethereum co-founder Vitalik Buterin to propose leveraging an idea called EIP-4488. “Decrease transaction calldata gas cost, and add a limit of how much total transaction calldata can be in a block,” Buterin suggested on Github on November 24. Essentially, the solution could decrease data transaction costs significantly and estimates say gas cost could be reduced by five times. EIP-4488 leverages a scheme called “calldata,” which is utilized in L2 (layer 2) solutions such as Optimistic and ZK rollups. Beiko talked about the possible solution in his Twitter thread on Friday.
+  </p>
+  
+  <p>
+    “The cost of rollup txns is a function of the data they post back to the Ethereum mainnet,” Beiko said. “If a rollup compresses X transactions and pays Y gas fees to commit it to mainnet, the cost of rollup transactions is a function of Y/X. To do this, rollups add calldata to their transactions, which is currently priced at 16 gas per byte. If we reduce the calldata cost, then we reduce the cost of rollup transactions,” the programmer added. Beiko further stated that one of the challenges to the calldata solution is that it “influences the block sizes on Ethereum.” Beiko continued:
+  </p>
+  
+  <blockquote>
+    <p>
+      It’s literally data we add to each transaction. If we lower the gas cost, and keep the same gas limit, we then have bigger blocks, which can be problematic in the short and long term. Short term, it increases the worst case block size. If, for example, calldata was 1 gas/byte, with a 30m gas block, you’d get a 30MB block (average right now is
+    </p>
+  </blockquote>
+  
+  <h2>
+    EIP-4444, EIP-4490, and the Upcoming Arrow Glacier Upgrade
+  </h2>
+  
+  <p>
+    Currently, ethereum (ETH) users either are not transacting with ether at all, leveraging expensive L1 (layer 1) network fees, or they are utilizing rollup layer solutions. At the time of writing, L2 solutions are much cheaper than L1 fees and the cost to send ethereum via Loopring can cost up to $0.25 per transfer. Polygon Hermez costs $0.25, Zksync is around $0.27, Optimism costs $2.39 today, and transferring with Arbitrum One is $2.43. Beiko’s thread noted that L1 fees were high but L2 fees were also fairly expensive as well.
+  </p>
+  
+  <p>
+    “Fees on Ethereum are *high* and also aren’t trivial on rollups today (~3-4$ for a ETH send on ORs and ~0.25c on ZKRs), so it’s worth thinking about the tradeoff more,” Beiko said. In addition to talking about EIP-4488, the software programmer also mentioned EIP-4444 (Bound Historical Data in Execution Clients) and EIP-4490. “Clients must stop serving historical headers, bodies, and receipts older than one year on the p2p layer,” the EIP-4444 description says. The EIP-4444 abstract summary adds:
+  </p>
+  
+  <blockquote>
+    <p>
+      Clients may locally prune this historical data — This change will result in less bandwidth usage on the network as clients adopt more lightweight sync strategies based on the PoS weak subjectivity assumption.
+    </p>
+  </blockquote>
+  
+  <p>
+    The Ethereum developer’s Twitter thread also told people about the upcoming December 8th Arrow Glacier upgrade, which aims to postpone the network’s difficulty bomb. While open-source programmers prepare to address the network’s issues, alternative blockchain networks continue to advance on Ethereum’s heels.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the recent solutions proposed to address the Ethereum network’s high transfer costs? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

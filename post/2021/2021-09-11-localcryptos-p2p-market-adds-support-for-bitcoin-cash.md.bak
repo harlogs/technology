@@ -1,0 +1,95 @@
+---
+title: Localcryptos P2P Market Adds Support for Bitcoin Cash
+author: willmeet22
+type: post
+date: 2021-09-11T07:00:54+00:00
+url: /localcryptos-p2p-market-adds-support-for-bitcoin-cash/
+image: "/img/posts/2021/09/photo_2021-09-10_10-03-08-240x172.jpg"
+response_body:
+  - '{"id":"e334869e-725a-4585-b227-3867058f803f","recipients":973,"external_id":"c5429067-5c29-715c-3177-48ecca60b1ba","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 973
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-11T07:00:55+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/localcryptos-p2p-market-adds-support-for-bitcoin-cash/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/photo_2021-09-10_10-03-08.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="localcryptos" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Localcryptos, the noncustodial P2P cryptocurrency market, has added bitcoin cash to its platform. This is the fifth cryptocurrency the platform has taken on for P2P transactions after having rebranded from Localethereum. The market will leverage the OP_CHECKDATASIG opcode, which presents some advantages. Also, users from Bitcoin.com Local will be able to migrate their reputation to the Localcryptos platform.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Localcryptos Adds Bitcoin Cash
+  </h2>
+  
+  <p>
+    Localcryptos, one of the leading noncustodial <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> P2P markets, has added support for bitcoin cash transactions on its platform. Now users can deposit, trade, and withdraw bitcoin cash from the Localcryptos platform. This is the fifth <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> added to the service after its rebrand from Localethereum. Before, the company added litecoin and dash, after bitcoin and ethereum.
+  </p>
+  
+  <p>
+    Localcryptos declared that to construct the noncustodial experience for bitcoin cash, it used the OP_CHECKDATASIG opcode, which presents a series of advantages and is only available on the Bitcoin Cash blockchain. Localcryptos stated that while the experience is the same for the end-user:
+  </p>
+  
+  <blockquote>
+    <p>
+      From a programmer’s perspective, the non-custodial Bitcoin Cash P2SH script is more simplistic and intuitive, and it comes with some advantages.
+    </p>
+  </blockquote>
+  
+  <p>
+    The escrow contracts in the platform make it impossible for Localcryptos to spend the funds, and they can only retrieve the escrowed funds to the buyer or to the seller in the case of a dispute. Bitcoin Cash is especially useful for noncustodial P2P transactions due to its low tx fees, which rarely cross the one-cent barrier.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2 style="text-align: center;">
+    Bitcoin.com Local Closes Its Doors
+  </h2>
+  
+  <p>
+    Bitcoin.com Local, a bitcoin cash P2P market, will allow users to migrate their trading history and reputation to Localcryptos before closing its doors. The platform announced it is “passing the torch” to Localcryptos, and will allow the transfer of reputation and trading history, so users of the platform won’t have to start from scratch. Bitcoin.com Local didn’t announce the exact date of its closing, but invited users to withdraw their funds from their wallets.
+  </p>
+  
+  <p>
+    According to the platform, the users will enjoy a better service due to the more diverse and liquid pool of assets that Localcryptos can offer its users. The announcement stressed:
+  </p>
+  
+  <blockquote>
+    <p>
+      On Localcryptos, you’ll have 40+ ways to pay, all messages are end-to-end encrypted, and trades are facilitated by the same blockchain-powered escrow service.
+    </p>
+  </blockquote>
+  
+  <p>
+    <em><strong>What do you think about the inclusion of bitcoin cash in the Localcryptos platform? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

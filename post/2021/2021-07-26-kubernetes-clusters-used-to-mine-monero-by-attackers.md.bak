@@ -1,0 +1,68 @@
+---
+title: Kubernetes Clusters Used to Mine Monero by Attackers
+author: willmeet22
+type: post
+date: 2021-07-26T09:01:24+00:00
+url: /kubernetes-clusters-used-to-mine-monero-by-attackers/
+image: "/img/posts/2021/07/shutterstock_1997092730-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"044d839a-70d5-4fcf-a017-174f1d58473d","recipients":486,"external_id":"c266f70c-1e3e-72b6-181f-468dcd642901","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 486
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/kubernetes-clusters-used-to-mine-monero-by-attackers/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_1997092730-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="kubernetes" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_1997092730-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_1997092730.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>Attackers are abusing an attack vector present in one of the most popular execution engines (Argo Workflows) to repurpose Kubernetes systems to mine cryptocurrencies. The attack exploits a vulnerability in the system of permissions of Argo Workflows machines connected to the internet, deploying malicious workflows that install Monero-based containers.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Attackers Leveraging Argo Workflows for Crypto Mining
+  </h2>
+  
+  <p>
+    A group of attackers discovered a new attack vector that uses a vulnerability in the permission system of Argo Workflows, one of the most used execution engines for Kubernetes, to install cryptocurrency mining modules in machines connected to the internet. This vulnerability means that every instance of Kubernetes, one of the most used cloud computing systems, could be used to mine Monero if it is paired with Argo Workflows.
+  </p>
+  
+  <p>
+    A report from Intezer, a cybersecurity firm, informs they have already identified infected nodes and others vulnerable to this attack. The unprotected nodes allow any user to ping them and insert their own workflows into the system. This means anyone can use the resources in a vulnerable system and direct them to any task.
+  </p>
+  
+  <p>
+    Luckily for attackers, there are several Monero-based cryptocurrency mining containers that can be leveraged easily to start mining Monero using these Kubernetes machines. Most of them are derived from kannix/monero-miner, but there are more than 45 other containers available to use. This is why security experts are anticipating large-scale attacks involving this vulnerability.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Cloud Computing Vulnerability
+  </h2>
+  
+  <p>
+    This is just one of the recent attack vectors compromising cloud computing platforms and being used to enable cryptocurrency mining. Just last month, Microsoft informed of a similar attack that also targeted Kubernetes clusters with Kubeflow machine learning (ML) instances. Attackers use the vulnerable nodes to mine monero and also ethereum using Ethminer.
+  </p>
+  
+  <p>
+    Attacks to this kind of platform started gaining traction back in April 2020, when Microsoft reported an instance that caused tens of thousands of infections in just two hours. These attacks have also prompted companies to switch their policies to avoid abuse. This is the case of Docker, which had to put limits to the free tier of its product because attackers were using its autobuild function to deploy cryptocurrency miners in its free servers.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about these attacks targeting Kubernetes nodes? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

@@ -1,0 +1,95 @@
+---
+title: OVR Using Chainlink to Connect the Metaverse to Real World Data and Events
+author: willmeet22
+type: post
+date: 2021-06-10T19:30:58+00:00
+url: /ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events/
+image: "/img/posts/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-768x432-1-240x172.png"
+response_body:
+  - '{"id":"69ff3fa9-2a06-425c-bc2e-a6fc5a14da6c","recipients":68,"external_id":"5255bed7-05f2-9779-7950-d67ec4b07a35","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 68
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-768x432-1.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-768x432-1.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-696x385.png 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-1068x601.png 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-747x420.png 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/ovr-using-chainlink-to-connect-the-metaverse-to-real-world-data-and-events.png 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <span style="font-weight: 400;">OVR.ai is announcing a live and ongoing integration with </span><span style="font-weight: 400;">Chainlink</span><span style="font-weight: 400;">, the marketing-leading decentralized oracle network that provides smart contracts with secure and reliable off-chain data and computation. The current integration involves the use of </span><span style="font-weight: 400;">Chainlink Verifiable Randomness Function (VRF)</span><span style="font-weight: 400;"> to fairly and transparently select a special grant fund winner from the list of participants taking part in the upcoming OVRLand Treasure Hunt. Additionally, the OVR team plans to leverage Chainlink oracles throughout the platform to connect the physical world to OVRLand’s digital metaverse, enabling a virtual experience that’s impacted by the real world.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">OVR is a decentralized platform for geolocalized Augmented Reality (AR) / Virtual Reality (VR) experiences, with a vision to merge the physical and the virtual world through AR. OVR allows users to build, host, and visualize AR/VR experiences that are customized to specific geographic locations. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">This is accomplished by OVR dividing the digital world into 300 sqm hexagons called OVRLands, which each represent actual physical geographic locations. Each OVRLand is tokenized using the ERC-721 NFT standard on the Ethereum blockchain. The owner of each OVRLand NFT can assign the AR visual experience for the specific geographic location that their NFT represents.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">But what if you could embed decentralized logic into OVRLand NFTs? What if you could take off-chain/geographic data and use it on the blockchain to supercharge interactions within the OVR decentralized metaverse?</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Here is where Chainlink comes to play, allowing OVR to securely and reliably connect real-world events to blockchains in order to trigger smart contract executions. Data such as randomness, geolocation, weather, and more can all be fetched from off-chain sources and supplied on-chain via Chainlink-powered decentralized oracle networks. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The most immediate use case for OVR is leveraging randomness to determine metaverse events. However, the source of randomness must contain high assurances that it can’t be manipulated or predicted to gain unfair advantages, especially when the randomness is responsible for the movement of real economic value. This is why the OVR team selected Chainlink VRF to determine the winner of our 15k OVR token final extraction prize, which serves as a community reward to treasure hunters </span><span style="font-weight: 400;">and to participate in our wider 50k grant for OVRL and buyers.</span><span style="font-weight: 400;"> The extraction process will be done through a public and deterministic algorithm that will iterate through the ordered list of OVRLand IDs, with Chainlink VRF used to generate and supply the random number used to fairly and transparently select a winner from the list.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Chainlink VRF works by combining block data that is still unknown when the request is made with the oracle node’s pre-committed private key to generate both a random number and a cryptographic proof. The OVR smart contract will only accept the random number input if it has a valid cryptographic proof, and the cryptographic proof can only be generated if the VRF process is tamper-proof. This provides users with automated and publicly verifiable assurances directly on-chain that selection using Chainlink VRF is provably fair and cannot be tampered with or predicted by the oracle, outside entities, or the OVR.ai team.</span>
+  </p>
+  
+  <p>
+    <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/unnamed-300x97.png 300w, https://technologymanias.com/wp-content/uploads/2021/06/unnamed.png 512w" sizes="auto, (max-width: 512px) 100vw, 512px" loading="lazy" class="aligncenter size-full wp-image-465313" src="https://technologymanias.com/wp-content/uploads/2021/06/unnamed.png" alt="" width="512" height="165" />
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">In the future, the OVR team also anticipates using a variety of Chainlink Data Feeds beyond VRF. Let’s break down some concrete examples on how Chainlink Data Feeds can supercharge blockchain metaverses and OVR.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Imagine having AR/VR experiences that are not only geolocalized but also “aware” of real world conditions:</span>
+  </p>
+  
+  <ul>
+    <li style="font-weight: 400;" aria-level="1">
+      <span style="font-weight: 400;">AR game logic modified by the result of a football match or an election</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <span style="font-weight: 400;">AR location information modified by weather conditions</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <span style="font-weight: 400;">AR in-game tokens unlocked if a threshold amount of people are present in a location</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="1">
+      <span style="font-weight: 400;">AR/VR experiences unlocked if an artist wins a Grammy award</span>
+    </li>
+  </ul>
+  
+  <p>
+    <span style="font-weight: 400;">But these are just a few examples—any real world data source that can be streamed with an API can be reliably delivered on-chain by Chainlink oracles. The data can be integrated in smart contracts to create infinite types of interaction logic within the OVR metaverse—imagination is the only limit!</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">According to OVR.ai CEO Davide Cuttini, “Using Chainlink VRF for fair selection in the OVRLand distribution event is only the first step in a much wider set of Chainlink-OVR integration possibilities that can redefine the entire AR/VR industry. We are excited to showcase the potential of combining reliable off-chain data with decentralized metaverses to create vibrant and interactive virtual worlds that users can trust to function as intended.” </span>
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><em>This is a sponsored post. Learn how to reach our audience here. Read disclaimer below.</em></small>
+  </p>
+</div>

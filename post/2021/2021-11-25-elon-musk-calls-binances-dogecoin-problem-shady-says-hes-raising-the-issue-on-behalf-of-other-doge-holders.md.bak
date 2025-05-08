@@ -1,0 +1,127 @@
+---
+title: Elon Musk Calls Binance’s Dogecoin Problem ‘Shady’ — Says He’s Raising the Issue on Behalf of Other DOGE Holders
+author: willmeet22
+type: post
+date: 2021-11-25T03:00:44+00:00
+url: /elon-musk-calls-binances-dogecoin-problem-shady-says-hes-raising-the-issue-on-behalf-of-other-doge-holders/
+image: "/img/posts/2021/11/musk-doge-binance-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 4
+wpil_links_outbound_internal_count_data:
+  - 'a:4:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:3;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-25T03:00:46+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/elon-musk-binances-dogecoin-problem-shady-raising-issue-on-behalf-of-doge-holders/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/musk-doge-binance.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Elon Musk Calls Binance's Dogecoin Problem 'Shady' — Says He's Raising the Issue 'on Behalf of Other DOGE Holders'" loading="lazy" style="float:left;margin:0 15px 15px 0" /></p> 
+  
+  <p>
+    <strong>Tesla and Spacex CEO Elon Musk has raised concerns with cryptocurrency exchange Binance about its dogecoin issue. Musk calls the situation “shady,” adding that “DOGE holders using Binance should be protected from errors that are not their fault.” Both Binance CEO Changpeng Zhao and the official Twitter account for the crypto exchange responded.</strong>
+  </p>
+  
+  <h2>
+    Elon Musk Raises Issue on Behalf of Other Dogecoin Holders
+  </h2>
+  
+  <p>
+    Tesla CEO Elon Musk has raised concerns on behalf of dogecoin holders regarding the recent DOGE problem at cryptocurrency exchange Binance. The issue resulted in numerous erroneous dogecoin transactions with some users reporting that their accounts were frozen.
+  </p>
+  
+  <p>
+    Musk, who is sometimes known as the Dogefather, asked Binance CEO Changpeng Zhao (CZ), “What’s going on with your Doge customers?” He added, “Sounds shady.” His tweet gained much attention. At the time of writing, it has received 4.5K comments and liked 24.1K times.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="size-full wp-image-496486 aligncenter" title="Elon Musk Calls Binance's Dogecoin Problem 'Shady' — Says He's Raising the Issue on Behalf of Other DOGE Holders" src="https://technologymanias.com/wp-content/uploads/2021/11/shady-tweet.jpg" alt="Elon Musk Calls Binance's Dogecoin Problem 'Shady' — Says He's Raising the Issue on Behalf of Other DOGE Holders" width="589" height="130" />
+  </p>
+  
+  <p>
+    Both Zhao and the official Twitter account for Binance replied to the Tesla boss.
+  </p>
+  
+  <p>
+    The Binance account disagreed with Musk about the situation being shady. “No, not shady — just frustrating and we’re working on it,” the exchange’s official account wrote, pointing the Spacex CEO to another thread with a detailed explanation of the situation it previously posted.
+  </p>
+  
+  <p>
+    “The root cause is a technical issue during the recent upgrade process that caused old transactions to be resent to 1,674 users,” Binance explained, clarifying that the issue occurred on Binance and not on other <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> trading platforms “because we have a different technical wallet setup for DOGE.” The exchange added:
+  </p>
+  
+  <blockquote>
+    <p>
+      We have to rebuild the wallet entirely, which is causing a delay that we expect may last another week or so.
+    </p>
+  </blockquote>
+  
+  <p>
+    While acknowledging that “users who received old transactions” and “users who cannot withdraw DOGE are upset,” Binance requested: “We’ve kindly asked those that receive the old transactions to return them, but we’re aware that select users are having trouble accessing some of the wallets.”
+  </p>
+  
+  <p>
+    However, Musk argued that dogecoin holders using Binance “should be protected from errors that are not their fault.” He proceeded to point to a thread by Dogecoin Developers explaining the situation.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter wp-image-496487" title="Elon Musk Calls Binance's Dogecoin Problem 'Shady' — Says He's Raising the Issue on Behalf of Other DOGE Holders" src="https://technologymanias.com/wp-content/uploads/2021/11/protected.jpg" alt="Elon Musk Calls Binance's Dogecoin Problem 'Shady' — Says He's Raising the Issue on Behalf of Other DOGE Holders" width="589" height="401" />
+  </p>
+  
+  <p>
+    The CEO of Binance soon joined the discussion. He told Musk that his team is “pretty certain” the problem is “an issue with the latest DOGE wallet,” adding that Binance is in communication with the Dogecoin devs. Zhao then apologized to Musk for any inconvenience the problem may have caused him. He ended his tweet asking Musk about the time when Tesla had a software glitch that prompted a recall of 12,000 vehicles. “What happened here?” he wrote.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="size-full wp-image-496488 aligncenter" title="Elon Musk Calls Binance's Dogecoin Problem 'Shady' — Says He's Raising the Issue on Behalf of Other DOGE Holders" src="https://technologymanias.com/wp-content/uploads/2021/11/cz.jpg" alt="Elon Musk Calls Binance's Dogecoin Problem 'Shady' — Says He's Raising the Issue on Behalf of Other DOGE Holders" width="590" height="567" />
+  </p>
+  
+  <p>
+    Musk replied:
+  </p>
+  
+  <blockquote>
+    <p>
+      I don’t use Binance (tried at one point, but signup was too many hoops to jump through), so no inconvenience to me personally. Just raising this issue on behalf of other DOGE holders.
+    </p>
+  </blockquote>
+  
+  <p>
+    “Appreciate it,” Zhao responded. “I overreacted a bit due to the word ‘shady,’” he admitted.
+  </p>
+  
+  <p>
+    “The KYC part is tedious, and we can’t service U.S. users. You could try Binance.us though,” CZ tried to convince Musk. “Still a tedious signup process, but have DOGE. We are working with their team to fix the issue ASAP.” Musk simply responded with “Sounds good.”
+  </p>
+  
+  <p>
+    Musk also commented on a thread about centralized <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchanges, like Binance and Robinhood, taking custody of people’s cryptocurrencies. Replying to a tweet stating, “Not your keys, not your <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a>,” Musk wrote: “Exactly.”
+  </p>
+  
+  <p>
+    The Tesla CEO previously said that he owns three kinds of cryptocurrencies: bitcoin (BTC), ether (ETH), and dogecoin (DOGE). He also confirmed that he does not own any doge rival meme <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> shiba inu (SHIB). In October, he said the real reason he supports dogecoin is because “it felt like the people’s crypto.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Elon Musk raising concerns on behalf of dogecoin holders with Binance? And, what do you think about Binance’s responses? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

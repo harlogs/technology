@@ -1,0 +1,73 @@
+---
+title: Binance Smart Chain Devs Propose Ethereum-Like Gas Fee Burning Mechanism
+author: willmeet22
+type: post
+date: 2021-10-23T07:06:43+00:00
+url: /binance-smart-chain-devs-propose-ethereum-like-gas-fee-burning-mechanism/
+image: "/img/posts/2021/10/shutterstock_2007471221-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-23T07:06:44+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/binance-smart-chain-devs-propose-ethereum-like-gas-fee-burning-mechanism/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/shutterstock_2007471221.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="binance" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Developers of the Binance Smart Chain, the Binance-backed decentralized blockchain platform, have proposed applying a mechanism to burn BNB tokens based on the utilization of the network. According to the proposal, this would benefit both validators and holders due to the increase in value that the token would experience thanks to token burns. The proposal, called Binance Evolution Protocol 95 (or BEP-95), bears a striking resemblance to EIP-1559, an already implemented Ethereum proposal that also burns fees.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Binance Smart Chain Could Burn Gas Fees
+  </h2>
+  
+  <p>
+    Binance Smart Chain, the decentralized blockchain backed by Binance, could be implementing a gas-burning mechanism in the near future. Developers of the chain unveiled a proposal that points in that direction. The proposal, called BEP-95, would burn some of the fees that users spend to make transactions or to interact with smart contracts on the network.
+  </p>
+  
+  <p>
+    Normally these fees would go to validators as rewards for securing the network. But with BEP-95, 10% of these funds would be burned depending on network activity. This percentage is subject to change, and members can change this number via community vote. According to the proposal, the goal of this new implementation would be to “speed up the BNB burning process and improve its intrinsic value by burning a portion of gas fees.”
+  </p>
+  
+  <h2 style="text-align: center;">
+    Chasing Sustainability
+  </h2>
+  
+  <p>
+    Binance Smart Chain developers could be betting on this change to make BNB more sustainable. Currently, Binance conducts BNB burns that are announced on a regular basis. But the exchange only agreed to burn 100 million BNB tokens. After this number is reached, no more burns will be conducted by the exchange.
+  </p>
+  
+  <p>
+    By changing the economic policy of the network, developers aim to ensure that the currency remains competitive, decreasing the amount of BNB in the market and making it more scarce. This move seems to be mimicking the proposal that Ethereum approved earlier this year, called EIP-1559, that also implemented burning a part of the fees that would normally go to miners. This new economic proposal seems to have contributed to the price growth that Ethereum has experienced since its approval.
+  </p>
+  
+  <p>
+    BNB and Ethereum don’t have a max supply, so there is a common interest in keeping the issuance and supply in check to maintain price stability. The proposal is still in its initial stages, and could change before being implemented on the BSC blockchain.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Binance Smart Chain devs proposing to burn BNB coming from gas fees? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

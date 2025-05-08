@@ -1,0 +1,84 @@
+---
+title: Docker Changes Free-Tier Service Policy Due to Cryptocurrency Mining Abuse
+author: willmeet22
+type: post
+date: 2021-06-15T07:31:40+00:00
+url: /docker-changes-free-tier-service-policy-due-to-cryptocurrency-mining-abuse/
+image: "/img/posts/2021/06/shutterstock_1143603755-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"c3351a76-0530-44e3-808e-b001e29fc6c4","recipients":120,"external_id":"92de889f-169e-adc5-2728-c1a9e44fd3b4","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 120
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/docker-changes-free-tier-service-policy-due-to-cryptocurrency-mining-abuse/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_1143603755-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Docker" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_1143603755-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_1143603755.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>Docker, a popular cloud computing integration solution, is making changes to its free-tier service due to cryptocurrency mining abuse. The service discontinued its “autobuild” feature due to misuse by bad actors, using it to mine cryptocurrencies in their servers. This is a modus operandi that is now affecting several cloud continuous integration platforms, including GitHub, GitLab, and Microsoft Azure.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Docker Forced to Make Changes to Its Free-Tier Services
+  </h2>
+  
+  <p>
+    Docker, a popular CI cloud service, is making changes to its service policy due to crypto mining abuse. The cloud computer continuous integration service announced last week it will no longer provide its autobuild features to its free-tier service. Docker announced this in a blog post, stating the attacks have grown in recent months, affecting their paying customers. The team declared:
+  </p>
+  
+  <blockquote>
+    <p>
+      In April we saw the number of build hours spike 2X our usual load and by the end of the month we had already deactivated ~10,000 accounts due to mining abuse. The following week we had another ~2200 miners spin up.
+    </p>
+  </blockquote>
+  
+  <p>
+    Docker is an immensely popular piece of software that allows applications to run in compartments. This means that a package possesses all the libraries needed to run the app. This new restriction will affect some users that leveraged the autobuild feature for free. The Docker team stated that while this was not an easy decision to make, it was the only measure they could take to mitigate the abuse.
+  </p>
+  
+  <p>
+    Although Docker is a notable platform affected by this new kind of attack, it is by no means the only one. Several continuous integration cloud base providers are now facing similar attacks, and are also studying countermeasures.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2 style="text-align: center;">
+    Cloud Computing in the Crosshairs
+  </h2>
+  
+  <p>
+    These attacks are also affecting companies like GitHub, GitLab, and Microsoft Azure, which offer cloud computing services. The attackers hijack the continuous integration services adding code to the apps that change their original function. The virtual machines spawned to compile apps are repurposed to mine cryptocurrencies for their lifespan, affecting the performance of these services.
+  </p>
+  
+  <p>
+    But the problem goes beyond free tiers. An engineer from CodeShip, a cloud platform, stated in an interview given to The Record that:
+  </p>
+  
+  <blockquote>
+    <p>
+      Sometimes they pay the small fees for our accounts, which are way cheaper than renting on AWS directly, and mine cryptocurrency at maximum capacity.
+    </p>
+  </blockquote>
+  
+  <p>
+    While the problem persists, bigger companies can afford to cope with the added performance hit. Small companies, however, will likely be forced to fight these attacks with countermeasures such as the one Docker executed.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Docker making changes to its policies due to mining abuses? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

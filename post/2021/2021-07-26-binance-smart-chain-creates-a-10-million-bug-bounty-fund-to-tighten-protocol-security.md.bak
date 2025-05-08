@@ -1,0 +1,96 @@
+---
+title: Binance Smart Chain Creates a $10 Million Bug Bounty Fund to Tighten Protocol Security
+author: willmeet22
+type: post
+date: 2021-07-26T16:31:59+00:00
+url: /binance-smart-chain-creates-a-10-million-bug-bounty-fund-to-tighten-protocol-security/
+image: "/img/posts/2021/07/binance-smart-chain-creates-a-10-million-bug-bounty-fund-to-tighten-protocol-security-240x172.jpg"
+response_body:
+  - '{"id":"470a6a56-1d9c-42d6-b20e-cc2485f72fdc","recipients":484,"external_id":"a5f219c9-0787-8ed2-b458-2436553845c6","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 484
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/binance-smart-chain-creates-a-10-million-bug-bounty-fund-to-tighten-protocol-security/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/07/binance-smart-chain-creates-a-10-million-bug-bounty-fund-to-tighten-protocol-security.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Binance Smart Chain Creates a $10 Million Bug Bounty Fund to Tighten Protocol Security" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>The Binance Smart Chain has launched a $10 million bug bounty fund for projects building on top of the protocol, called “Priority One.” The initiative aims to keep the blockchain network secure by encouraging bug bounty hunters and ethical hackers.</strong>
+  </p>
+  
+  <h2>
+    Binance Smart Chain Reveals $10 Million Bug Bounty Fund ‘Priority One’
+  </h2>
+  
+  <p>
+    Security experts and bug bounty hunters now have incentive to help the Binance Smart Chain (BSC) developers secure the network. On Monday, the BSC project revealed “Priority One,” a $10 million fund for projects built on top of the BSC protocol.
+  </p>
+  
+  <p>
+    The announcement says the initiative aims at “refining the lifecycle management of BSC users and decreasing project exploits.” Eligible projects will be able to leverage proactive penetration testing and risk management schemes. Julian Tan, the BSC community coordinator, explained that these types of evaluations shrink the possibility of future exploits.
+  </p>
+  
+  <p>
+    “The shortlisted projects for the bug bounty will be open for continuous testing,” Tan said in a statement sent to Bitcoin.com News. “With more experts identifying specific vulnerabilities and evaluating [decentralized apps] regularly, there’s more to explore; BSC community will work together to check every nook and corner of the target and leave no room for potential exploits.”
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Immunefi CEO: ‘Bug Bounties Compel Disclosure Incentive for Mainnet Contracts’
+  </h2>
+  
+  <p>
+    Bounty hunters combing the BSC protocol for vectors and security flaws will be rewarded for their disclosures. Applicants can apply here and the types of vulnerabilities include but are not limited to:
+  </p>
+  
+  <ul>
+    <li>
+      Smart contracts/Blockchain/Cryptographic flaws
+    </li>
+    <li>
+      Logic errors
+    </li>
+    <li>
+      Financial/Economic attacks
+    </li>
+    <li>
+      Susceptibility to block timestamp manipulation
+    </li>
+    <li>
+      Novel governance attacks
+    </li>
+    <li>
+      Congestion and scalability
+    </li>
+    <li>
+      Oracle failure/manipulation
+    </li>
+  </ul>
+  
+  <p>
+    Submissions have to complete a proof-of-concept and describe the vulnerability in a step-by-step guide. Rewards will be based on the severity assessment of the exploitation found by the ethical hacker. BSC also has help from the Binance Security team, Peckshield, Certik, and Immunefi.
+  </p>
+  
+  <p>
+    “Bug bounties are a core pillar of the [decentralized finance] security stack, providing both a compelling disclosure incentive for mainnet contracts and attracting new security researchers,” the CEO and founder of Immunefi, Mitchell Amador, said in the announcement. “This fund supercharges bug bounties on BSC, by driving the community to adopt best practices while providing compelling incentives for more security researchers to participate in the BSC ecosystem at large,” Amador added.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about BSC creating a $10 million bug bounty program for the BSC protocol? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

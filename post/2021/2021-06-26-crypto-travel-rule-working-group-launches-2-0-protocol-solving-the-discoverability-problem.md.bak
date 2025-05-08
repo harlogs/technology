@@ -1,0 +1,86 @@
+---
+title: Crypto Travel Rule Working Group Launches 2.0 Protocol ‘Solving the Discoverability Problem’
+author: willmeet22
+type: post
+date: 2021-06-26T20:32:12+00:00
+url: /crypto-travel-rule-working-group-launches-2-0-protocol-solving-the-discoverability-problem/
+image: "/img/posts/2021/06/trpcover-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"0592bd58-6b62-4eb0-98b3-6ddf8ab491a4","recipients":253,"external_id":"066830db-70c6-202b-7482-e85d3fb83106","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 253
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/crypto-travel-rule-working-group-launches-2-0-protocol-solving-the-discoverability-problem/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/trpcover-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Crypto Travel Rule Working Group Launches 2.0 Protocol 'Solving the Discoverability Problem'" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/trpcover-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/trpcover.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>Just before the Financial Action Task Force (FATF) published the organization’s 12-month review, a working group called the Travel Rule Protocol (TRP) released its 2.0 version of the TRP crypto application programming interface (API) in order to “simplify the end-user crypto exchange experience.” TRP is backed by big banks like Fidelity Investments, Standard Chartered, and ING Bank and 25 virtual currency service providers (VASPs). </strong>
+  </p>
+  
+  <h2>
+    Travel Rule-Focused Crypto Working Group Releases Protocol Version 2.0
+  </h2>
+  
+  <p>
+    The Travel Rule Protocol (TRP) is an organization that aims to enhance crypto financial transaction data in order to comply with KYC/AML policy. The organization is backed by large financial institutions and crypto exchanges and custodians like Bitgo, Coinbase, Kraken, and Gemini.
+  </p>
+  
+  <p>
+    The Travel Rule Protocol (TRP) was revealed last year as 25 American-based VASPs published a paper showing how the businesses aim to comply with the FATF Travel Rule. The organization also released a TRP crypto application programming interface (API) version 1.0 and the product is a solution for any organization to identify data tied to crypto transactions and that meet the requirements of the FATF-based Travel Rule.
+  </p>
+  
+  <p>
+    This week, the TRP group launched its 2.0 version of the protocol and claims the solution “builds on [the] previous Travel Rule Protocol version 1.1.0 by adding easy to use workflow for end-users while solving the ‘discoverability’ problem.” Moreover, TRP 2.0 provides a straightforward way for VASPs to “comply with FATF recommendations without putting additional burden on end-users.”
+  </p>
+  
+  <p>
+    The organization believes the implementation of the TRP API is easy for VASPs to integrate into their existing framework. “A number of TRP Working Group members have created implementations of the TRP API that can be utilized immediately,” the launch announcement notes.
+  </p>
+  
+  <p>
+    “It was important to the TRP Working Group that the end-user experience was as easy as possible, and no more difficult than typical existing pre-Travel Rule industry practises” the TRP Working Group’s chair, Andrew Davidson, said in a statement. “We decided to adopt a workflow based on the existing LNURL standard, a bech32-encoded query string from the Lightning Network. The solution can be used with any virtual asset and gives the VASP a lot of flexibility to tailor it to their user’s needs while making an easy to implement or adopt solution” Davidson continued:
+  </p>
+  
+  <blockquote>
+    <p>
+      With the LNURL-based workflow, we have allowed end users to have an almost identical user experience to that they are used to with existing Virtual Asset platforms, while at the same time being compliant with the FATF recommendations and bypassing the complexity of the VASP discoverability.
+    </p>
+  </blockquote>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    ‘TRP Protects Clients From Criminal Third Parties’
+  </h2>
+  
+  <p>
+    The ‘Travel Rule’ is basically a descriptive label for the Bank Secrecy Act (BSA) rule [31 CFR 103.33(g)]. The rule essentially mandates that all financial companies are mandated to pass on transmission data like KYC/AML to the next financial institution. “The funds’ transfer rules are designed to help law enforcement agencies detect, investigate and prosecute money laundering and other financial crimes by preserving an information trail about persons sending and receiving funds through funds transfer systems,” financial regulators explain.
+  </p>
+  
+  <p>
+    FATF’s 12-month review that deals with virtual assets (VAs) and VASPs, stresses that the use of “anonymity tactics” and the “lack of effective” regulation continues to plague the cryptocurrency industry. If the TRP Working Group’s 2.0 protocol API meets the FATF recommendations, it probably follows the “designated threshold above which VASPs are required to conduct customer due diligence is USD/EUR 1,000.”
+  </p>
+  
+  <p>
+    “The latest update to TRP 2.0 allows us and the virtual assets ecosystem as a whole to offer even safer services and protect our clients from criminal third parties,” Christopher Kiew-Smith, the chief compliance officer at Zodia, a member company of the TRP Working Group said.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the TRP API? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

@@ -1,0 +1,161 @@
+---
+title: iExec Launches Oracle Factory Allowing Anyone To Create Custom Oracles in Minutes
+author: willmeet22
+type: post
+date: 2021-10-12T13:04:34+00:00
+url: /iexec-launches-oracle-factory-allowing-anyone-to-create-custom-oracles-in-minutes/
+image: "/img/posts/2021/10/iexc-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-12T13:04:34+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/iexec-launches-oracle-factory-allowing-anyone-to-create-custom-oracles-in-minutes/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/iexc.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    PRESS RELEASE. <i><span style="font-weight: 400;">Using the iExec Oracle Factory, developers are able to create their own decentralized oracles with just the API’s URL and key.</span></i>
+  </p>
+  
+  <p>
+    <b>October 12</b><b>th</b><b>, Lyon, France, 2021</b><span style="font-weight: 400;"> – </span><span style="font-weight: 400;">iExec</span><span style="font-weight: 400;">, a decentralized marketplace for computing assets, has announced the launch of</span> <span style="font-weight: 400;">the iExec Oracle Factory</span><span style="font-weight: 400;">, a developer interface allowing anyone to create their own oracles, from scratch, in minutes, without any blockchain knowledge and directly from their browser.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">In order for decentralized applications to solve real world problems, they need to make use of real word data. Decentralized oracles play a major role in blockchain-based architectures, </span><span style="font-weight: 400;">acting</span> <span style="font-weight: 400;">as bridges between blockchains and the real world.</span><span style="font-weight: 400;"> However, </span><span style="font-weight: 400;">developers who want to create their own oracles need existing blockchain knowledge, and coding them from scratch can take hours. </span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">iExec is releasing the iExec Oracle Factory, making oracles accessible to everyone. The iExec Oracle Factory is an interface allowing anyone to create their own decentralized oracles in just a few clicks. The iExec Oracle Factory makes possible a whole range of blockchain use cases, allowing developers to deploy oracles from any kinds of data: from sport results to NFT price, from temperatures to flight schedules.</span>
+  </p>
+  
+  <p>
+    <b>Create Custom, Trusted Oracles in Minutes</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Several companies today offer ready-to-use decentralized oracles. With its Oracle Factory, </span><span style="font-weight: 400;">iExec</span><span style="font-weight: 400;"> aims to fill the need for custom oracles, providing a tool allowing anyone to create not only their own oracles, but also trusted ones.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">The iExec Oracle Factory interface has been built to be as easy as possible to use:</span>
+  </p>
+  
+  <ul>
+    <li>
+      <span style="font-weight: 400;">With the Oracle Factory, it only takes 5 minutes and a few clicks to create a custom oracle. Usually, creating an oracle from scratch takes 1 or 2 hours to code.</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;">Using the Oracle Factory, there is no need to write any line of code or even to have any blockchain </span><span style="font-weight: 400;">knowledge.</span>
+    </li>
+    <li>
+      <span style="font-weight: 400;">The oracle can be created directly from the web browser, using the URL of the API from which the data needs to be extracted (along with the private API key if the API is not public).</span>
+    </li>
+  </ul>
+  
+  <p>
+    <span style="font-weight: 400;">In addition to creating an oracle in minutes, the iExec Oracle Factory allows for ‘trusted’ oracles, using </span><span style="font-weight: 400;">Trusted Execution Environments (TEE) technology</span><span style="font-weight: 400;">. The TEE technology uses hardware enclaves to protect the API key and the data collected, ensuring they remain confidential, secure, and tamper-proof. With the Oracle Factory, iExec aims to make TEE technology accessible to all while creating an oracle.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Once created, users have the option to share their custom oracles with the community, by including them in the iExec Oracle Factory Gallery. This Oracle Factory Gallery will list oracles created within the interface, making them accessible for other users and developers. </span><span style="font-weight: 400;">The iExec Oracle Factory also provides preset oracles, ready-to-use, as examples for the community.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Today, iExec releases the beta version of the Oracle Factory. There will be several upgrades of the product, to include more technical features, allowing developers to quickly implement smart contracts and deploy decentralized applications.</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Access to the iExec Oracle Factory </span><span style="font-weight: 400;">here</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <p>
+    <b>About iExec</b>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">iExec</span><span style="font-weight: 400;"> is a blockchain company that provides a decentralized marketplace for computing assets, allowing anyone to monetize or rent datasets, decentralized applications, and computing power. Blockchain is used to organize the</span><span style="font-weight: 400;"> exchanges between stakeholders with the maximum level of trust and security, without a centralized authority. </span><span style="font-weight: 400;">iExec owns its native utility token, the RLC, used as the method of payment on the marketplace.The RLC token is listed on over 40 echanges, including major ones: Coinbase, Binance, Bithumb, Huobi and more. The company also works with renowned partners such as Intel, Google Cloud, and IBM Cloud. </span>
+  </p>
+  
+  <p>
+    <i><span style="font-weight: 400;">For more about iExec and its innovative new Oracle Factory, visit their main website </span></i><i><span style="font-weight: 400;">here</span></i><i><span style="font-weight: 400;">. </span></i>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Follow iExec on </span><span style="font-weight: 400;">Twitter</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Join the iExec community on </span><span style="font-weight: 400;">Telegram</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Read the iExec blog on </span><span style="font-weight: 400;">Medium</span>
+  </p>
+  
+  <p>
+    <span style="font-weight: 400;">Stay up to date on </span><span style="font-weight: 400;">Slack</span>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <p>
+    <b>Media Contact Details</b>
+  </p>
+  
+  <p>
+    <b>Contact Name:</b> <span style="font-weight: 400;">Marianne Negrello (Communication Manager)</span>
+  </p>
+  
+  <p>
+    <b>Contact Email: </b><span style="font-weight: 400;">press@iex.ec</span>
+  </p>
+  
+  <p>
+    <b>iExec </b><i><span style="font-weight: 400;">is the source of this content. This Press Release is for informational purposes only. </span></i><i><span style="font-weight: 400;">The information does not constitute investment advice or an offer to invest. </span></i>
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <hr />
+  
+  <p>
+    <small><i>This is a press release. Readers should do their own due diligence before taking any actions related to the promoted company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.</i></small>
+  </p>
+  
+  <hr />
+  
+  <p>
+    Listen to the latest Bitcoin.com Podcast:
+  </p></p>
+</div>

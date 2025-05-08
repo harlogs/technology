@@ -1,0 +1,101 @@
+---
+title: Celebrating the Seminal Bitcoin White Paper Satoshi Nakamoto Published 13 Years Ago Today
+author: willmeet22
+type: post
+date: 2021-10-31T18:04:16+00:00
+url: /celebrating-the-seminal-bitcoin-white-paper-satoshi-nakamoto-published-13-years-ago-today/
+image: "/img/posts/2021/10/celebrating-the-seminal-bitcoin-white-paper-satoshi-nakamoto-published-13-years-ago-today-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 3
+wpil_links_outbound_internal_count_data:
+  - 'a:3:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-31T18:04:18+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/celebrating-the-seminal-bitcoin-white-paper-satoshi-nakamoto-published-13-years-ago-today/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/celebrating-the-seminal-bitcoin-white-paper-satoshi-nakamoto-published-13-years-ago-today.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Celebrating the Seminal Bitcoin White Paper Satoshi Nakamoto Published 13 Years Ago Today" loading="lazy" style="float:left;margin:0 15px 15px 0" /></p> 
+  
+  <p>
+    <strong>All around the world cryptocurrency supporters and proponents of blockchain technology are celebrating the 13th anniversary of the Bitcoin white paper. The summary of the inventor’s creation was published on metzdowd.com’s Cryptography Mailing List on Halloween 2008, as it gave birth to an asset with a market valuation of over $1 trillion and sparked the creation of over 10,000+ cryptocurrencies that followed Satoshi Nakamoto’s innovative design.</strong>
+  </p>
+  
+  <h2>
+    Introducing the Proof-of-Work Chain: A Solution to the Byzantine Generals Problem
+  </h2>
+  
+  <p>
+    13 years ago at approximately 2:10 p.m. (EDT), Satoshi Nakamoto published the Bitcoin white paper, a summary of the innovative network and native <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> that changed the world. The 12-part white paper starts off with an indented paragraph called an abstract which explains that Bitcoin is a “purely peer-to-peer version of electronic cash [that] would allow online payments to be sent directly from one party to another without going through a financial institution.”
+  </p>
+  
+  <p>
+    When the paper was first published, academia and computer scientists worldwide were not aware that Bitcoin’s inventor solved a problem that had plagued computer scientists for years — the “Byzantine Generals Problem” or the “Byzantine Fault.” Two weeks after Nakamoto published the white paper on Halloween 2008, he told the pseudonymous member of metzdowd.com’s Cryptography Mailing List, James A. Donald, the inventor solved the problem. Nakamoto said on November 13, 2008:
+  </p>
+  
+  <blockquote>
+    <p>
+      The proof-of-work chain is a solution to the Byzantine generals’ problem.
+    </p>
+  </blockquote>
+  
+  <p>
+    The benefits of Nakamoto’s paper were clear and the advantages of triple-entry bookkeeping became apparent to people who studied the inventor’s paper and witnessed the launch of the network on January 3, 2009. Satoshi also told Donald a few days earlier, that the “proof-of-work chain is the solution to the synchronisation problem, and to knowing what the globally shared view is without having to trust anyone.”
+  </p>
+  
+  <h2>
+    Triple-Entry Bookkeeping: Nakamoto’s Bitcoin Invention Has Forever Changed the World
+  </h2>
+  
+  <p>
+    Since then, Nakamoto’s paper gave birth to the Bitcoin network and the myriad of blockchains that followed. Moreover, the white paper is leveraged in academia quite a bit these days as it is referenced in many <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> network white papers and cited 17,201 times on Google Scholar. It is safe to say there hasn’t been another white paper as prolific and innovative as Nakamoto’s since its release on October 31, 2008. It quite literally invoked the next level of ledger accounting systems as triple-entry bookkeeping — in contrast to single and double-ledger systems — offers a concept that is nearly trustless, if we remove trusting the autonomous system.
+  </p>
+  
+  <p>
+    Bitcoin transactions are pseudonymous and users can add as much privacy as they want as the system offers both public transparency and privacy at its core. “The traditional banking model achieves a level of privacy by limiting access to information to the parties involved and the trusted third party,” the Bitcoin white paper details. “The necessity to announce all transactions publicly precludes this method, but privacy can still be maintained by breaking the flow of information in another place: by keeping public keys anonymous.”
+  </p>
+  
+  <p>
+    Just as the printing press changed society for the better and allowed people to learn without an apprenticeship and just as the combustion engine made traveling a whole lot faster, Satoshi Nakamoto’s Bitcoin invention is one that has forever changed the world.
+  </p>
+  
+  <p>
+    In the beginning skeptics, bankers, and governments mocked and laughed at the nascent technology and in time they even tried to attack <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a>’s exponential growth. These days, the biggest financial institutions in the world are trying to adapt to Nakamoto’s concepts and governments are trying to produce their own versions of blockchain technology.
+  </p>
+  
+  <p>
+    The white paper is now a very important paper that is hosted on the websites of large corporations, city web portals, and cited as one of “the seminal works” of computer science. On Lex Fridman’s podcast at the end of April 2020, Twitter CEO and Square co-founder, Jack Dorsey, told Fridman the white paper is like “poetry.”
+  </p>
+  
+  <p>
+    “I think the Bitcoin whitepaper is one of the most seminal works of computer science in the last 20 or 30 years,” Dorsey said.
+  </p>
+  
+  <p>
+    <em>Bitcoin.com News readers that are interested in reading the innovative Bitcoin white paper can read Satoshi Nakamoto’s famous paper in its entirety <strong>here</strong>. </em>
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the 13th anniversary of the Bitcoin white paper? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

@@ -1,0 +1,93 @@
+---
+title: Bitcoin.com Wallet Adds Support For Multisig (Shared) Wallets
+author: willmeet22
+type: post
+date: 2021-12-10T14:04:04+00:00
+url: /bitcoin-com-wallet-adds-support-for-multisig-shared-wallets/
+image: "/img/posts/2021/12/screenshot-2021-12-08-122000-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-10T14:04:05+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/bitcoin%E2%80%A4com-wallet-adds-support-for-multisig-shared-wallets/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/screenshot-2021-12-08-122000.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <b>The</b> <b>Bitcoin.com</b><b> Team is excited to announce support for shared (multisig) wallets for Bitcoin and Bitcoin Cash in the</b> <b>Bitcoin.com Wallet</b><b>. That means you can protect your most valuable wallets with a unique form of two-factor authentication, set up a corporate treasury, safely introduce your kids to Bitcoin, and more.</b>
+  </p>
+  
+  <h3>
+    <b>What Are Shared Wallets?</b>
+  </h3>
+  
+  <p>
+    Standard crypto wallets use one private key to access and send transactions while shared wallets require two or more private keys to access the funds connected with the wallet. Private keys in shared wallets are often given to different people, called participants. For example, if you have three private keys, you might keep one yourself and give the others to family members.
+  </p>
+  
+  <h3>
+    <b>Why Use Shared Wallets</b>
+  </h3>
+  
+  <p>
+    The first key reason to use a shared wallet is that it is a solution to the problem of having a single point of failure, which can result in losing access to your funds. For example, imagine there is a fire in the apartment building you live in. Your computer and the paper backup keys for your assets (BTC/BCH) are destroyed. Without the keys, you have no way to access your funds. But if your wallet is shared with others (who don’t live in your building!), or even with yourself assuming you’ve saved your secondary recovery phrase in a different location, you’ll still have access to your money.
+  </p>
+  
+  <h3>
+    <b>Share Wallet Use Cases</b>
+  </h3>
+  
+  <p>
+    By introducing multiple decision makers, shared wallets unlock a range of unique applications. For example, you can introduce savings for your child by providing her with some funds in a <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> wallet. If it’s a shared wallet, you’ll have the chance to review any transactions initiated before approving or declining. Another common use case is treasury management. Here, business partners or even a board of directors can be shared wallet participants, ensuring transparency in the use of funds while bypassing the legacy banking system. Here’s a list of more ways shared crypto wallets can be used.
+  </p>
+  
+  <h3>
+    <b>How To Set Up A Shared Wallet</b>
+  </h3>
+  
+  <ol>
+    <li aria-level="1">
+      If you haven’t already, download and install the Bitcoin.com Wallet app.
+    </li>
+    <li aria-level="1">
+      From the app’s home screen, tap +<b>ADD/IMPORT</b>.
+    </li>
+    <li aria-level="1">
+      Select <b>Add new shared wallet,</b> and follow the instructions.
+    </li>
+  </ol>
+  
+  <p>
+    For more details on how to set up and use a shared wallet, please refer to this guide for Bitcoin and this guide for Bitcoin Cash.
+  </p>
+  
+  <p>
+     
+  </p>
+  
+  <hr />
+</div>

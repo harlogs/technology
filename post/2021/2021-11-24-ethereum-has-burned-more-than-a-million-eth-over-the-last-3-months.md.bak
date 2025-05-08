@@ -1,0 +1,83 @@
+---
+title: Ethereum Has Burned More Than a Million ETH Over the Last 3 Months
+author: willmeet22
+type: post
+date: 2021-11-24T19:03:52+00:00
+url: /ethereum-has-burned-more-than-a-million-eth-over-the-last-3-months/
+image: "/img/posts/2021/11/ethereum-has-burned-more-than-a-million-eth-over-the-last-3-months-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-24T19:03:53+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ethereum-has-burned-more-than-a-million-eth-over-the-last-3-months/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/ethereum-has-burned-more-than-a-million-eth-over-the-last-3-months.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>111 days ago, the Ethereum network implemented the London hard fork upgrade which added a mechanism (EIP-1559) that changed Ethereum’s fee rate to a new scheme that makes the crypto asset ether deflationary. Since then 1 million ether has been burned or the equivalent of around $3.8 billion worth of ethereum using today’s exchange rates.</strong>
+  </p>
+  
+  <h2>
+    Over a Million Ether or $3.8 Billion Burned to Date
+  </h2>
+  
+  <p>
+    The second-largest crypto asset in terms of market capitalization, ethereum (ETH) has an overall valuation today just above $500 billion. Ethereum’s market capitalization represents 18.8% of the $2.7 trillion crypto economy. Three months ago, on August 5, 2021, the Ethereum blockchain upgraded and added various features to the consensus rules. The most transformative included EIP-1559 and EIP-3554, and EIP-1559 in particular created a new fee rate scheme that allows the network to burn a portion of ether.
+  </p>
+  
+  <p>
+    EIP-1559’s summary hosted on Github states:
+  </p>
+  
+  <blockquote>
+    <p>
+      There is a base fee per gas in protocol, which can move up or down each block according to a formula which is a function of gas used in parent block and gas target (block gas limit divided by elasticity multiplier) of parent block. The algorithm results in the base fee per gas increasing when blocks are above the gas target, and decreasing when blocks are below the gas target. The base fee per gas is burned.
+    </p>
+  </blockquote>
+  
+  <p>
+    Since the new feature was introduced, metrics from Dune Analytics indicate 1,001,212 ether or $3.8 billion worth of ethereum using today’s exchange rates has been burned.
+  </p>
+  
+  <p>
+    <img decoding="async" loading="lazy" class="aligncenter size-full wp-image-496581" src="https://technologymanias.com/wp-content/uploads/2021/11/ddd.jpg" alt="" width="1280" height="200" />
+  </p>
+  
+  <p>
+    At the time of writing, etherscan.io’s API which shows the circulating ETH supply indicates that there’s 118,472,428 ether in existence today. The biggest ethereum burner today is still the non-fungible token (NFT) marketplace Opensea with 110,081 ether or $398 million burned to date.
+  </p>
+  
+  <p>
+    The burning stemming from Opensea usage took place across 7,941,975 ethereum transfers. Regular ethereum transfers are tethered to 94,800 ETH burned since the upgrade in August. The decentralized exchange (dex) platform Uniswap V2 (version 2) is the third-largest ethereum burner since the upgrade. 92,239 ether or $373 million worth of ethereum using today’s exchange rates has been burned stemming from Uniswap V2 usage.
+  </p>
+  
+  <p>
+    The stablecoins tether (USDT) and usd coin (USDC) also contribute to a lot of ethereum burning. While tether (USDT) is the fourth largest burner behind Uniswap V2, USDC is the seventh-largest ethereum burner today. Tether across 11,499,787 transfers has attributed to 53,988 ether burned or $210 million. USDC has contributed to the burning of 20,042 ether today or $77 million. Other applications like Metamask, 1inch, Sushiswap, and Axie Infinity also contribute to a lot of ether burning.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the 1 million ether burned since August 5? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

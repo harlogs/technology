@@ -1,0 +1,101 @@
+---
+title: 'AT&T Sued by Customer After Security Breach Led to Theft of Cryptocurrency'
+author: willmeet22
+type: post
+date: 2021-09-19T19:01:26+00:00
+url: /att-sued-by-customer-after-security-breach-led-to-theft-of-cryptocurrency/
+image: "/img/posts/2021/09/att-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-19T19:01:27+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/att-sued-by-customer-security-breach-theft-cryptocurrency/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/att.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="AT&T Sued by Customer After Security Breach Led to Theft of Cryptocurrency" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>An AT&T customer filed a lawsuit against the company last week accusing it of failing to provide “reasonable and appropriate security to prevent unauthorized access to its customer wireless accounts.” This has led to the theft of cryptocurrency from the plaintiff’s crypto exchange account.</strong>
+  </p>
+  
+  <h2>
+    AT&T Sued by Crypto Investor
+  </h2>
+  
+  <p>
+    An AT&T customer, Jamarquis Etheridge, filed a lawsuit in the district court for the Southern District of Texas against AT&T Inc. and AT&T Mobility LLC Wednesday.
+  </p>
+  
+  <p>
+    Etheridge, a resident of the U.S. state of Texas, has been a customer of AT&T since 2009. He claims to be a victim of “SIM swapping,” also known as “SIM hijacking.” SIM swapping is a common scam that AT&T is no stranger to. The company was involved in a bigger case involving this scam last year with <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> investor Michael Terpin.
+  </p>
+  
+  <p>
+    The court document filed by Etheridge’s attorney, Richard E. Brown, states that on or about Sept. 10, 2020, AT&T “allowed wrongdoers access to plaintiff Etheridge’s wireless account and, without his authorization,” alleging:
+  </p>
+  
+  <blockquote>
+    <p>
+      AT&T was unable to contain this security breach until the next day, enabling wrongdoers to drain plaintiff Etheridge’s cryptocurrency exchange account.
+    </p>
+  </blockquote>
+  
+  <p>
+    He further alleges that “AT&T was well aware of the pervasive harm posed by SIM swapping,” as the company previously issued public advisories warning customers of the industry-wide threat of this type of scam.
+  </p>
+  
+  <p>
+    Etheridge also said that AT&T assured customers that it was exercising adequate measures to prevent unauthorized SIM swapping from happening to its account holders. Nonetheless, the court document reads:
+  </p>
+  
+  <blockquote>
+    <p>
+      AT&T engages in practices that … fail to provide reasonable and appropriate security to prevent unauthorized access to its customer wireless accounts, allowing unauthorized persons to be authenticated and then granted access to sensitive customer wireless account data, including access and control over 159.8 ethereum tokens.
+    </p>
+  </blockquote>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <p>
+    After the incident, the price of ether reached more than $4,200 per coin, the court document notes. At the time of writing, the price of ETH has fallen to $3,338.
+  </p>
+  
+  <p>
+    The plaintiff claims that as a result of AT&T’s actions or inactions, he has suffered and continues to suffer actual damages, including the loss of 159.8 ETH, lost time, embarrassment and humiliation, aggravation and frustration, fear, anxiety, financial uncertainty, unease, emotional distress, and various expenses.
+  </p>
+  
+  <p>
+    In addition to seeking “compensatory and equitable relief restoring him” to 159.8 ETH, he also seeks relief for statutory damages, treble damages, punitive damages, award for attorney fees and reimbursement of all costs, “pre-and post-judgment interest on any amounts awarded,” and any other relief the court deems just and proper.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about this case? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

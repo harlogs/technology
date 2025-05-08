@@ -1,0 +1,93 @@
+---
+title: South African Exchange Sets New Crypto Withdrawal Limits — Restrictions ‘a Deterrent for Illicit Actors’
+author: willmeet22
+type: post
+date: 2021-09-09T04:01:20+00:00
+url: /south-african-exchange-sets-new-crypto-withdrawal-limits-restrictions-a-deterrent-for-illicit-actors/
+image: "/img/posts/2021/09/shutterstock_1473113522-240x172.jpg"
+response_body:
+  - '{"id":"ea3f5f3d-67b4-4314-99f0-b4ae0a471656","recipients":957,"external_id":"2e7a905a-65e8-e85e-ac79-f8a421dd3de6","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 957
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-09T04:01:21+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/south-african-exchange-sets-new-crypto-withdrawal-limits-restrictions-a-deterrent-for-illicit-actors/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/shutterstock_1473113522.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>One of South Africa’s biggest cryptocurrency exchanges, Luno, has confirmed that it has started restricting withdrawals by clients. The exchange insists the limits are meant to “act as a deterrent for illicit actors moving large amounts of funds within the crypto ecosystem.”</strong>
+  </p>
+  
+  <h2>
+    Transfers From Luno to Binance Blocked
+  </h2>
+  
+  <p>
+    However, despite this acknowledgement, Luno has so far refused to explain how the exchange sets the so-called “dynamic risk-based limits.” According to a report, the limits — which are separate from the send limits that appear on Luno’s website — were discovered by one of the exchange’s clients. The discovery became apparent to the client when their attempt to transfer <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> assets from a Luno account to a Binance wallet failed.
+  </p>
+  
+  <p>
+    When approached for answers, Luno explained to the client(s) that the limits had been imposed in order to “protect our customers and in an effort to comply with best practices in anti-financial crime and anti-fraud.”
+  </p>
+  
+  <p>
+    Furthermore, the exchange told the client that “the limits are dynamic in nature and are calculated based on our overall customer risk scoring, the limits may differ from customer to customer.” However, Luno told to the affected client that the exchange “does not disclose how [the] send limits are calculated on an individual level.”
+  </p>
+  
+  <p style="text-align: center;">
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Luno Customers Unable to Influence Their Risk Score
+  </h2>
+  
+  <p>
+    In the meantime, the report quotes Marius Reitz, general manager for Luno Africa, explaining why and how the wider concept of a risk-based approach is being used to determine the limits for each client. He said:
+  </p>
+  
+  <blockquote>
+    <p>
+      As part of the wider concept of a risk-based approach mentioned, for instance in the Financial Intelligence Centre Act (FICA), customer risk profiles are designed and scored based on a multitude of different data points.
+    </p>
+  </blockquote>
+  
+  <p>
+    Reitz adds that while customers are not in a position to influence their risk score, they can still “optimise their risk position by keeping their account information up to date, enabling safety features on their account, and generally keeping their account secure.”
+  </p>
+  
+  <p>
+    When asked about speculation that the exchange has started implementing these dynamic risk-based limits at the request of the financial surveillance department (Finsurv), Reitz denied this. Instead, the general manager asserts that Luno is doing this because the exchange “takes the utmost care to keep our financial crime measures as confidential as possible to ensure they remain effective.”
+  </p>
+  
+  <p>
+    <em><strong>What are your thoughts about this story? You can share your views in the comments section below. </strong></em>
+  </p>
+</div>

@@ -1,0 +1,166 @@
+---
+title: Blockchain ‘Immutability’ Dispute Sparked by Ethereum Request for Reorg Contract
+author: willmeet22
+type: post
+date: 2021-07-12T13:02:14+00:00
+url: /blockchain-immutability-dispute-sparked-by-ethereum-request-for-reorg-contract/
+image: "/img/posts/2021/07/shutterstock_676623688-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"5f55f3eb-e877-4b3a-bd56-366e8b2d9ad5","recipients":413,"external_id":"44b50420-656b-ee47-dd57-069355fa486e","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 413
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/blockchain-immutability-dispute-sparked-ethereum-request-reorg-contract/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_676623688-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Blockchain 'Immutability' Dispute Sparked by Ethereum Request for Reorg Contract" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/07/shutterstock_676623688-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_676623688.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>Just recently, a software developer and “Solidity nerd” called Bunny Girl has sparked heated conversations within the cryptocurrency community over a smart contract that reveals a process called a “Request For Reorg contract (RFR).” On Twitter, Bunny Girl explained that the contract “creates a mechanism that allows users to pay miners to reorg the Ethereum blockchain.” Ever since then, the tweet went viral and there have been lots of debates over whether or not blockchains, in general, are immutable.</strong>
+  </p>
+  
+  <h2>
+    Solidity Developer Reveals Blockchain Reorganization Smart Contract for Ethereum
+  </h2>
+  
+  <p>
+    Conversations and debates concerning blockchain immutability have been taking place for years, and a fresh new discussion has ignited over a tweet and smart contract published on Github by the developer Bunny Girl. On July 10, Bunny Girl explained that the smart contract aims to enhance systematic chain reorganizations.
+  </p>
+  
+  <p>
+    A blockchain reorganization is a contentious subject and basically occurs when a chain of recorded blocks is invalidated. Reorganizations have taken place on various blockchains when a mining entity or group of miners controls more than 51% of the hashrate.
+  </p>
+  
+  <p>
+    Blockchain reorganizations force miners (not participating in the reorg) back to a point where they have to start again from a specific block height. It’s akin to rolling back a recorded history of transactions and then re-recording them again, but of course, the new transactions would never be the same as the ones that were erased.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Releasing NFTs to commemorate Ethereum chain reorgs. Every time you request a reorg with the contract, you can mint one of these UniV3-like NFTs.
+    </p>
+    
+    <p>
+      The higher the bribe attached to the reorg, the more rare your NFT becomes. pic.twitter.com/dVSqZ1QqZg
+    </p>
+    
+    <p>
+      — Bunny Girl (@0xbunnygirl) July 11, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Bunny Girl’s tweet explained how Ethereum developers can “codify chain reorgs” by leveraging the smart contract. “Announcing the Request For Reorg contract (RFR),” Bunny Girl said. “This contract was inspired by a tweet by @EdgarArout. Are there ways we can perform payments to miners for reorgs in an on-chain manner?”
+  </p>
+  
+  <p>
+    “Using the example of the $40m Binance hack,” Bunny Girl added, “what if Binance wanted to pay out a bounty to miners for re-orging the chain to exclude the hacker’s tx? They could pay out a lower amount than the hack e.g. $10m. It turns out this is all possible with what Solidity has to offer. First, Binance will ask that the transaction be mined at a specific block in the past. They will attach the reward amount for doing so in the form of ETH.”
+  </p>
+  
+  <p>
+    The software developer continued:
+  </p>
+  
+  <blockquote>
+    <p>
+      Next, the miner will perform the time bandit. They would go back in time to mine a block from the past. This time, they include their `reorg` tx, which sets them as the claimant for the reward attached to the reward. What happened to the previous request tx? Since the state is rolled back, there isn’t a request in the first place right? Easy, we reconstruct the state by including the `request` tx first. OLD STATE: Block N+1 = [request]. NEW STATE: Block N = [request, reorg].
+    </p>
+  </blockquote>
+  
+  <p>
+    Furthermore, Daniel Goldman followed up on Bunny Girl’s RFR smart contract with an idea that disincentivizes reorgs called “Deorg.”
+  </p>
+  
+  <p>
+    “Published Deorg: a contract to create bounties for disincentivizing reorgs, all on-chain,” Goldman tweeted. After Goldman published his idea on Twitter, one person asked if the Deorg concept would “make a great incentive to miners to ‘hope’ for situations to trigger a reorg/deorg smart contract battle?” Goldman responded:
+  </p>
+  
+  <blockquote>
+    <p>
+      If there’s gonna be a battle, best that both sides show up to the battlefield armed.
+    </p>
+  </blockquote>
+  
+  <h2>
+    Is It Misleading to Describe Blockchains as Immutable?
+  </h2>
+  
+  <p>
+    The RFR thread was followed by an extremely mixed reception. “So we just ignoring immutability now?” asked one person in response to Bunny Girl’s tweetstorm. Others made fun of Ethereum with memes and some mentioned past controversies like the DAO rollback incident, which caused the Ethereum Classic fork. Others claimed that once Ethereum 2.0 reaches finality, it won’t be possible with proof-of-stake (PoS).
+  </p>
+  
+  <p>
+    Responding to the immutability comment, Bunny Girl said: “This affects time to finality. My guess is that if people use this, immutability wouldn’t be affected if the block already is deep in the chain.”
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      In a &#8216;reorg as a service&#8217; scenario, who is behaving badly?
+    </p>
+    
+    <p>
+      -The writer of the software that enables it?<br />-The miner that accepts the fee to conduct the reorg?<br />-The party that pays the fee to &#8216;purchase&#8217; the reorg?<br />-All of the above?<br />-None of the above?<br />-Some mix of the above?
+    </p>
+    
+    <p>
+      — Angela Walch (@angela_walch) July 11, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    Bunny Girl also didn’t take too kindly to some of the bitcoiners attacking the RFR thread. The developer noted that the fact that Ethereum can reorg the chain via smart contracts is “epic” and bitcoiners were “jealous.” The conversation also fragmented away from Bunny Girl’s thread and brought up the debate about whether or not blockchains are even immutable at all. Angela Walch, research associate at the UCL Centre for Blockchain Technologies discussed the subject on Twitter as well, and talked about the term “immutable.”
+  </p>
+  
+  <p>
+    “For *5 YEARS* I have been arguing that it is misleading to describe blockchains as *immutable*,” Walch said. “The ‘reorg as a service’ discussion on Ethereum is only the latest manifestation of why. Blockchains are unchangeable only if the people who comprise them *choose* not to change them.” Walch believes the word “immutable” is a poor term to use when describing blockchain technology and she wrote about it in her paper called “The Path of the Blockchain Lexicon (and the Law).”
+  </p>
+  
+  <h2>
+    Bitcoin’s Rollback in March 2013 and the Perpetual Motion Claim of an Immutable Blockchain
+  </h2>
+  
+  <p>
+    Walch and many others have been discussing the subject for years and it was a hot debate when Binance CEO Changpeng Zhao (CZ) mentioned a reorg after his exchange lost $40 million worth of BTC. Tim Swanson told Walch that he and Ernie Teo talked about the problem in November 2015. Bitcoin Uncensored cohost Chris DeRose published a paper on immutability on July 7, 2016, called: “Why Blockchain Immutability is a Perpetual Motion Claim.” DeRose wrote at the time:
+  </p>
+  
+  <blockquote>
+    <p>
+      Immutability! It’s the buzzword that magically transforms a simple database into the next million dollar VC fundraise.
+    </p>
+  </blockquote>
+  
+  <p>
+    Further, In March 2013, Arvind Narayanan described a similar situation where Bitcoin (BTC) developers coordinated to get a large mining pool to revert the chain to prior software after an accidental fork took place. At the time, the inventor of Ethereum, Vitalik Buterin questioned the move and said “the incident opens up serious questions about the nature of the Bitcoin protocol and puts into the spotlight some uncomfortable facts about Bitcoin’s notion of ‘decentralization.’”
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Bitcoin is not immutable, but in 5,000 years of recorded history it’s the best we’ve got https://t.co/byHIMHbzLT
+    </p>
+    
+    <p>
+      — Hector (@hectorr159) July 11, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    There have been countless claims that Bitcoin is immutable and the word has been tossed around so much in the industry it’s like second nature and barely questioned. One individual argued that Walch was “ignoring the concept of confirmations, therefore your assessment is incorrect.” Walch replied: “I’m not ignoring them. That’s orthogonal to my point that it is misleading to describe blockchains as immutable.”
+  </p>
+  
+  <p>
+    There seem to be too many variables pointing to the fact that blockchain immutability really is a perpetual motion claim. Moreover, while blockchains like BTC and ETH are safe today, the rulesets and concepts of making it very hard to change blocks must be resilient to the whims of future generations as well.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the recent debate over blockchain immutability? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>

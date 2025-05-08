@@ -1,0 +1,79 @@
+---
+title: Venezuelan Court Rolls Back Seizure of More Than 1,000 Bitcoin Miners
+author: willmeet22
+type: post
+date: 2021-11-10T09:03:50+00:00
+url: /venezuelan-court-rolls-back-seizure-of-more-than-1000-bitcoin-miners/
+image: "/img/posts/2021/11/shutterstock_1804716793-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-10T09:03:50+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/venezuelan-court-rolls-back-seizure-of-more-than-1000-bitcoin-miners/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/shutterstock_1804716793.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="venezuelan" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>A Venezuelan court in the capital of the country has rolled back a seizure of more than 1,000 Bitcoin miners due to irregularities that occurred during the confiscation. According to court documents, the equipment that was seized was in the custody of a third-party company that was doing maintenance services. The court ordered Sunacrip, the national crypto watchdog, to retrieve these miners from their owners.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Venezuelan Court Decides On Crypto Seizure Case
+  </h2>
+  
+  <p>
+    A Venezuelan court located in the capital of the country has decided to roll back a seizure measure that the national <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> watchdog, Sunacrip, executed last month. The operation, which was carried out in a joint effort by the scientific police of the country and Sunacrip, presented several irregularities and according to court documents, violated the “right to defense and due process, as well as the right to property of the plaintiff company.”
+  </p>
+  
+  <p>
+    The equipment seized was undergoing maintenance by third parties and the operation inspected these companies, taking 12 Antminer S9-S9Is, 1,624 EBANG E9Is, and 1,475 power sources into custody. However, Sunacrip didn’t specify the location where these miners were to be held.
+  </p>
+  
+  <p>
+    Another irregularity noticed by the court is that this kind of procedure allows for the required documents to be presented within a window of 15 days. However, in this case, authorities seized the equipment on the same day.
+  </p>
+  
+  <h2 style="text-align: center;">
+    Courts Can Now Deal With These Cases
+  </h2>
+  
+  <p>
+    With the introduction of this kind of demand in Venezuelan legislation, there is now a precedent stating that courts can indeed interfere in these cases if there is the presumption of a violation of the rights of property, economic freedom, or due process. The decision of the court states that this seized equipment must be given back to its owner, a company called Sierramoros, who will have custody of it until the matter is settled.
+  </p>
+  
+  <p>
+    Another interesting element of the case is that because the Sunacrip officer who supervised the operation didn’t specify the site where these miners would be stored, the plaintiffs believe that these miners could be being used by third parties to mine bitcoin while the matter of the case is solved.
+  </p>
+  
+  <p>
+    The court ordered that while Sierramoros is entitled to have custody of these miners, it can’t put them to work until the ongoing revision of its permits is closed.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the actions of this Venezuelan court? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

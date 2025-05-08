@@ -1,0 +1,79 @@
+---
+title: Electric Coin Company Reveals Zcash Network to Transition to Proof-of-Stake in 3 Years
+author: willmeet22
+type: post
+date: 2021-11-22T08:04:12+00:00
+url: /electric-coin-company-reveals-zcash-network-to-transition-to-proof-of-stake-in-3-years/
+image: "/img/posts/2021/11/electric-coin-company-reveals-zcash-network-plans-to-transition-to-proof-of-stake-in-3-years-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-11-22T08:04:12+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/electric-coin-company-reveals-zcash-network-to-transition-to-proof-of-stake-in-3-years/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/11/electric-coin-company-reveals-zcash-network-plans-to-transition-to-proof-of-stake-in-3-years.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Electric Coin Company Reveals Zcash Network Plans to Transition to Proof-of-Stake in 3 Years" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On Friday, Electric Coin Company (ECC), the developers behind the privacy-centric crypto-asset zcash, revealed the network plans to transition to proof-of-stake (PoS) consensus. ECC also revealed the team plans to launch an official ECC wallet, as well as bolster the network’s cross-chain interoperability.</strong>
+  </p>
+  
+  <h2>
+    Zcash to Change From PoW to PoS
+  </h2>
+  
+  <p>
+    The Zcash network currently leverages a proof-of-work mining algorithm called Equihash, which allows miners to compete in order to find new blocks on the Zcash chain. In a blog post published on November 19, ECC announced the network will transition toward a proof-of-stake (PoS) consensus algorithm over the next three years. Zooko Wilcox-O’Hearn discussed the network moving from PoW to PoS in a blog post published on August 3, 2021.
+  </p>
+  
+  <p>
+    Furthermore, ECC’s CTO Nate Wilcox also published a blog post about the PoS subject a week after Zooko’s post. In the roadmap post published on Friday, ECC explains that transitioning to PoS will “increase the utility for ZEC through capabilities that include yield generation through staking.” Alongside this, PoS can also lead the ZEC chain toward onchain “governance mechanisms,” the ECC roadmap details.
+  </p>
+  
+  <h2>
+    ECC Looks Toward a ‘Reduction of Zcash’s Energy Footprint’ <span style="font-weight: 400;">—</span> Zcash-Based ASIC Miners Still Rule the Roost
+  </h2>
+  
+  <p>
+    ECC’s blog post further states that a PoS-based ZEC chain can contribute to the “reduction of the ZEC energy footprint.” During the course of the year, PoW consensus algorithms have received a lot of criticism concerning PoW’s effect on the environment. ECC’s roadmap post adds:
+  </p>
+  
+  <blockquote>
+    <p>
+      We believe the shift to proof of stake is achievable within three years if we are able to focus our time and efforts and hire additional talent.
+    </p>
+  </blockquote>
+  
+  <p>
+    The value per zcash (ZEC) has jumped a great deal since the news and is up 23.6% during the last 24 hours. During the initial launch, the Zcash network’s blocks were processed by miners with graphics processing units (GPUs) but during the last few years, application-specific integrated circuit (ASIC) miners have taken over.
+  </p>
+  
+  <p>
+    At the time of writing, a Bitmain Antminer Z15 that processes the Equihash algorithm at 420 ksol/s gets $33.44 per day in ZEC rewards. Innosilicon’s A9++ Zmaster does around 140ksol/s and gets $8.13 per day in profit using today’s ZEC exchange rate.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Zcash transitioning over to PoS? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

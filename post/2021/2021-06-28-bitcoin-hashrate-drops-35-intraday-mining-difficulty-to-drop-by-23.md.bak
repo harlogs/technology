@@ -1,0 +1,78 @@
+---
+title: Bitcoin Hashrate Drops 35% Intraday — Mining Difficulty to Drop by 23%
+author: willmeet22
+type: post
+date: 2021-06-28T19:31:22+00:00
+url: /bitcoin-hashrate-drops-35-intraday-mining-difficulty-to-drop-by-23/
+image: "/img/posts/2021/06/shutterstock_676872352-768x432-1-240x172.jpg"
+response_body:
+  - '{"id":"ceaa297c-1a9a-4b55-ad0b-d08f199fb956","recipients":276,"external_id":"941954cb-3774-e070-59c8-7141ea2bee86","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 276
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/bitcoin-hashrate-drops-35-intraday-mining-difficulty-to-drop-by-23/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="768" height="432" src="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_676872352-768x432-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Bitcoin Hashrate Drops 35% Intraday — Mining Difficulty to Drop by 23%" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://technologymanias.com/wp-content/uploads/2021/06/shutterstock_676872352-768x432-1.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-696x385.jpg 696w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-1068x601.jpg 1068w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-747x420.jpg 747w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/shutterstock_676872352.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" /></p> 
+  
+  <p>
+    <strong>Bitcoin’s hashrate experienced a large drop of almost 35% in a single day. The hashrate plummeted from 108 exahash per second (EH/s) yesterday to today’s 69 EH/s, seeing one of the sharpest declines in the network. This might be a consequence of the situation going on with miners in China. Numbers further estimate a mining difficulty drop of around 23.7% next week.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Bitcoin Hashrate Plummets
+  </h2>
+  
+  <p>
+    The Bitcoin hashrate, the amount of work that secures the Bitcoin network, has experienced a sharp decline in the last week. In just a day, the hashrate dropped from 108 EH/s to 69EH/s, a decline of almost 35%. It’s worth noting that intraday hashrate records are not always reliable and the 35% drop may be a lower figure a few days from now.
+  </p>
+  
+  <p>
+    It is one of the biggest hashrate drops that the Bitcoin network has seen in the last few years and it is affecting the operation of Bitcoin’s transaction confirmation times.
+  </p><figure id="attachment_470433" aria-describedby="caption-attachment-470433" style="width: 1280px" class="wp-caption aligncenter">
+  
+  <img decoding="async" srcset="https://static.news.bitcoin.com/wp-content/uploads/2021/06/hash2323fff-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hash2323fff-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2021/06/hash2323fff-1024x576.jpg 1024w, https://technologymanias.com/wp-content/uploads/2021/06/hash2323fff.jpg 1280w" sizes="auto, (max-width: 1280px) 100vw, 1280px" loading="lazy" class="wp-image-470433 size-full" title="Bitcoin Hashrate Drops 35% Intraday — Mining Difficulty to Drop by 23%" src="https://technologymanias.com/wp-content/uploads/2021/06/hash2323fff.jpg" alt="Bitcoin Hashrate Drops 35% Intraday — Mining Difficulty to Drop by 23%" width="1280" height="720" /><figcaption id="caption-attachment-470433" class="wp-caption-text">Bitcoin (BTC) hashrate one-year chart on June 28, 2021.</figcaption></figure> 
+  
+  <p>
+    The BTC network only produced 77 blocks yesterday, according to data collected by Trustnodes. The bitcoin network has a defined block time of 10 minutes, so it should produce 144 blocks daily. This means that average block times have stretched to almost 20 minutes or longer between intervals.
+  </p>
+  
+  <p>
+    Bitcoin is designed to regulate the difficulty to achieve smoother block times. This adjustment, which is set to happen on June 3rd, would bring the difficulty down 23.7%, according to estimations from btc.com. If it is above that percentile it would be one of the largest drops in difficulty in the history of the Bitcoin blockchain if conditions stay the same.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2 style="text-align: center;">
+    China Cracks Down on Mining
+  </h2>
+  
+  <p>
+    This uncommon Bitcoin hashrate drop may be the consequence of the recent crackdown the Chinese government is applying to cryptocurrency mining operations. Several key provinces in the bitcoin mining department (Inner Mongolia, Sichuan, Yunan, and Xinjiang) have issued prohibitions for mining, and important centers have closed as a result of that. While it is expected that most miners will relocate to other latitudes, the exodus will be slow and painful.
+  </p>
+  
+  <p>
+    Even if countries like El Salvador and cities like Miami are offering incentives for miners from China, relocating a bitcoin mine is no easy task. Thousands of ASICS must be shipped, electrical installations need to be adapted and reviewed and permits need to be obtained. That’s why some believe this situation will continue for some time until miners relocate.
+  </p>
+  
+  <p>
+    While most analysts believed a majority of hashrate was located in China, there were and still are no reliable statistics on the issue. But these current numbers offer a clear picture of the global mining map before the mining ban in China.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the latest Bitcoin hashrate drop and the next difficulty adjustment? Tell us what you think in the comments section below.</strong></em>
+  </p>
+</div>

@@ -1,0 +1,74 @@
+---
+title: Buda Exchange Starts Requesting Selfie Verification for Withdrawals to New Bitcoin Addresses
+author: willmeet22
+type: post
+date: 2021-08-02T07:46:14+00:00
+url: /buda-exchange-starts-requesting-selfie-verification-for-withdrawals-to-new-bitcoin-addresses/
+image: "/img/posts/2021/08/buda-exchange-starts-requesting-selfie-verification-for-withdrawals-to-new-bitcoin-addresses-240x172.jpg"
+response_body:
+  - '{"id":"75083668-56f2-417d-b0f6-187c963e868a","recipients":538,"external_id":"c7afbd7f-1f9b-4380-42a4-ebe49933a4ab","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 538
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/buda-exchange-starts-requesting-selfie-verification-for-withdrawals-to-new-bitcoin-addresses/
+categories:
+  - Cryptocurrency
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/08/buda-exchange-starts-requesting-selfie-verification-for-withdrawals-to-new-bitcoin-addresses.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Buda Exchange Starts Requesting Selfie Verification for Withdrawals to New Bitcoin Addresses" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Buda, a Chile-based cryptocurrency exchange, has started requesting selfie verification every time a user needs to withdraw funds to a new bitcoin address. This new measure now introduces a new layer of security for users to avoid getting their accounts hacked, but it will only be mandatory for those that don’t have 2FA activated. </strong>
+  </p>
+  
+  <h2>
+    Buda Exchange to Request Selfie to Make Withdrawals to New Addresses
+  </h2>
+  
+  <p>
+    Buda, a Chile-based exchange formerly known as Surbtc, will now implement new security measures to protect its users from hacking attempts. The platform will now require the user to send a selfie verification every time a withdrawal to a new bitcoin address is requested. However, this will only affect users that have not activated their two-factor authentication (2FA) measures.
+  </p>
+  
+  <p>
+    The measure was announced in a mail delivered to the customers of the exchange on June 22, when it asked users to enable their 2FA option in order to be excluded from having to comply with this new measure every time a withdrawal is directed to a new crypto address. According to the email, the decision to do this was motivated by a series of phishing email scam campaigns targeting the company. The email explained:
+  </p>
+  
+  <blockquote>
+    <p>
+      These last weeks we have detected several pages that are posing as Buda.com. It is similar to that fake SMS that comes to you to obtain credit from the bank. This is called phishing.
+    </p>
+  </blockquote>
+  
+  <p>
+    Until now, there have been no reports of losses linked to these phishing attacks.
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <h2>
+    Banks Are Now Allies
+  </h2>
+  
+  <p>
+    While the exchange has had run-ins with banks in the past in Colombia and Chile, where these institutions denied servicing it and even ran a banking embargo against it in June 2018, today the story is different. The exchange is now part of the Colombian sandbox that enables and pairs cryptocurrency exchanges and banks to test their joint operations.
+  </p>
+  
+  <p>
+    As part of this new framework, Buda has now partnered with Bogota’s Bank, offering its customers the possibility of making direct deposits and withdrawals to and from the exchange respectively. While these operations were already supported by Colombian banks, this new alliance recognizes these ones as official transactions to exchanges, liberating the users from any block or other measures that the banking operator could take. This has happened with Binance and several banks in the U.K.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Buda’s new selfie verification for deposits to new Bitcoin addresses? Tell us in the comment section below.</strong></em>
+  </p>
+</div>

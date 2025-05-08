@@ -1,0 +1,85 @@
+---
+title: UK Post Office Adds Option to Buy Bitcoin via Easyid App
+author: willmeet22
+type: post
+date: 2021-09-13T01:00:59+00:00
+url: /uk-post-office-adds-option-to-buy-bitcoin-via-easyid-app/
+image: "/img/posts/2021/09/uk-post-offic-240x172.jpg"
+response_body:
+  - '{"id":"5da415ff-333a-43c6-be31-0261f0ef5102","recipients":996,"external_id":"4f39c430-7422-a849-1e5d-4aff408319cf","warnings":["You must configure iOS notifications in your OneSignal settings if you wish to send messages to iOS users."]}'
+status:
+  - 200
+recipients:
+  - 996
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 2
+wpil_links_outbound_internal_count_data:
+  - 'a:2:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-13T01:01:00+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/uk-post-office-option-buy-bitcoin-easyid-app/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/uk-post-offic.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="UK Post Office Adds Option to Buy Bitcoin via Easyid App" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>U.K. Post Office’s Easyid app is adding the option to buy bitcoin starting this week. Through the free-to-use Post Office app, customers can access Swarm Markets, a regulated <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> exchange, to buy bitcoin and ethereum.</strong>
+  </p>
+  
+  <h2>
+    Buy Bitcoin and Ether Using Post Office App
+  </h2>
+  
+  <p>
+    The U.K. Post Office is introducing an option to buy cryptocurrencies via Easyid, its ID verification app. Post office customers who have verified their identity using the app can buy vouchers that can be redeemed for cryptocurrencies.
+  </p>
+  
+  <p>
+    The Easyid app will offer access to Swarm Markets starting this week, the Telegraph publication detailed, adding that the app has “tens of thousands of users.” Berlin-based Swarm Markets, a <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> trading platform regulated by German financial regulator, BaFin, announced Friday:
+  </p>
+  
+  <blockquote>
+    <p>
+      Swarm Markets partnered with Yoti to offer Easyid mobile app users a safe and easy way to buy BTC and ETH vouchers via credit card or bank transfer — as well as access the world’s 1st licensed defi [decentralized finance] platform.
+    </p>
+  </blockquote>
+  
+  <p>
+    According to the publication, “the Post Office will not receive commission on vouchers sold but is paid by Swarm Markets for use of its ID verification software.”
+  </p>
+  
+  <p>
+    <!-- growjs zone placement 31 -->
+    
+    <ins> <ins class="growjs-placement"></ins> </ins> <!-- end of growjs zone placement -->
+  </p>
+  
+  <p>
+    The U.K. Post Office launched Easyid in August through a partnership with digital identity company Yoti. According to Yoti, Easyid is accepted at over 25,000 locations across the U.K., including 11,638 Post Office branches.
+  </p>
+  
+  <p>
+    A Post Office spokesman was quoted as saying: “Access to products and services are increasingly moving online and we’ve responded to this shift by launching our free-to-use app, Post Office Easyid, allowing people to build their own secure digital identity on their smartphone and enabling them to easily control and prove who they are to whichever business they want to interact with.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the Post Office offering a way to buy bitcoin via its Easyid app? Let us know in the comments section below.</strong></em>
+  </p>
+</div>

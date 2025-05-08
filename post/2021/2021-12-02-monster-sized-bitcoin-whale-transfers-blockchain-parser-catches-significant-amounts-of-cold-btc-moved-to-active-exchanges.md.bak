@@ -1,0 +1,87 @@
+---
+title: 'Monster-Sized Bitcoin Whale Transfers: Blockchain Parser Catches Significant Amounts of ‘Cold BTC’ Moved to Active Exchanges'
+author: willmeet22
+type: post
+date: 2021-12-02T19:03:49+00:00
+url: /monster-sized-bitcoin-whale-transfers-blockchain-parser-catches-significant-amounts-of-cold-btc-moved-to-active-exchanges/
+image: "/img/posts/2021/12/monster-sized-bitcoin-whale-transfers-blockchain-parser-catches-significant-amounts-of-cold-btc-moved-to-active-exchanges-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-02T19:03:50+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/monster-sized-bitcoin-whale-transfers-blockchain-parser-catches-significant-amounts-of-cold-btc-moved-to-active-exchanges/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/monster-sized-bitcoin-whale-transfers-blockchain-parser-catches-significant-amounts-of-cold-btc-moved-to-active-exchanges.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Monster-Sized Bitcoin Whale Transfers: Blockchain Parser Catches Significant Amounts of ‘Cold BTC’ Moved to Active Exchanges" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Two days ago on November 30, the price of bitcoin (BTC) tapped a high that day reaching $59,250 per unit, but it has since dropped close to 5% in value to just above the $56K region. Onchain statistics indicate that whales and long-term holders (LTHs) have been spending over the last month and blockchain parsers have witnessed enormous movements in recent days.</strong>
+  </p>
+  
+  <h2>
+    Btcparser 3 Spots Droves of Bitcoin From Cold Wallets Move to Active Exchanges
+  </h2>
+  
+  <p>
+    On the first two days of December, there have been some massive bitcoin (BTC) whale movements stemming from long-term bitcoin holders. On Thursday morning, the creator of the web portal Btcparser.com explained that “significant amounts of bitcoin were taken out from cold wallets and moved to active exchanges.”
+  </p>
+  
+  <p>
+    The onchain action was caught by the blockchain parsing tool Btcparser 3, a tool that analyzes each and every new bitcoin block by getting detailed information about all transactions within it. “The bot uses groups of 100 blocks and identifies all wallets that sent or received a total exceeding 1,000 bitcoins during that time,” explains the parsing tool’s website.
+  </p>
+  
+  <p>
+    On December 1, Btcparser 3 caught some major onchain action, which saw the movement of thousands of bitcoins during the course of the day. For instance, on Wednesday the parser caught the movement of 15,074 BTC or $849 million, 6,970 BTC moved, and thousands more BTC spent as well.
+  </p>
+  
+  <p>
+    Then the following day on December 2, monster-sized bitcoin transactions were caught by Btcparser 3. This transaction on Thursday saw a whopping 36,645 BTC deposited and 10,547 BTC left the wallet. That’s more than $2 billion worth of bitcoin in USD value, and the address spent more than $28.2 billion in bitcoin (BTC) during its lifetime. At 1:59 a.m. (EST) on Thursday, Btcparser 3 caught 15,074 BTC or $849 million move.
+  </p>
+  
+  <h2>
+    Glassnode Report Shows Long-Term Holders Are Spending Bitcoin Holdings — ‘Key Active Whale Addresses Are Content’
+  </h2>
+  
+  <p>
+    In addition to Btcparser 3 catching two days worth of major whale movements, Glassnode’s most recent insights report, “Week Onchain 48,” establishes that long-term holders (LTHs) are “spending some of their holdings.” Glassnode’s report notes that this action has been prominent during the last 30 days.
+  </p>
+  
+  <p>
+    “Shifting our focus to [LTHs],” Glassnode’s report details. “We can see that there has been a reasonably continuous rate of spending over the last month. From the peak of 13.5M BTC in holdings, LTHs have spent (assumed distributed) 150K BTC, equivalent to around 5.8% of the volume accumulated since March 2021.”
+  </p>
+  
+  <p>
+    Crypto advocates have been discussing major whale movements on forums and bitcoin whale commentary is littered all over social media. The <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> analytics firm Santiment also tweeted about this past month’s whale action on November 23.
+  </p>
+  
+  <p>
+    “Bitcoin’s key active whale addresses that hold between 100 to 10K BTC are content after accumulating a total of ~40K more BTC on last week’s dip,” Santiment said. The company also shared its weekly report as well, which discusses whale action and “ the growing bearish sentiment (& why it’s a good thing).”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the recent bitcoin price action, whale movements and the current bearish sentiment? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

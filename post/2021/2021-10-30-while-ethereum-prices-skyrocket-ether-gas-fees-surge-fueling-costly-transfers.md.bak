@@ -1,0 +1,73 @@
+---
+title: While Ethereum Prices Skyrocket, Ether Gas Fees Surge Fueling Costly Transfers
+author: willmeet22
+type: post
+date: 2021-10-30T20:03:51+00:00
+url: /while-ethereum-prices-skyrocket-ether-gas-fees-surge-fueling-costly-transfers/
+image: "/img/posts/2021/10/while-ethereum-prices-skyrocket-ether-gas-fees-surge-fueling-costly-transfers-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-30T20:03:52+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/while-ethereum-prices-skyrocket-ether-gas-fees-surge-fueling-costly-transfers/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/while-ethereum-prices-skyrocket-ether-gas-fees-surge-fueling-costly-transfers.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On October 29, 2021, the second-largest crypto asset in terms of market valuation, ethereum, reached an all-time price high at $4,467 per unit. Meanwhile, after the Ethereum network’s Altair upgrade went live, ether gas fees have skyrocketed significantly.</strong>
+  </p>
+  
+  <h2>
+    As Ethereum Tests New Price Highs, the Average Ether Transfer Fees Onchain Skyrocket
+  </h2>
+  
+  <p>
+    The two leading crypto assets by market valuation have had issues with high transfer fees for many years now but this month, Ethereum’s network fees are significantly higher than bitcoin’s. On Saturday, October 30, bitcoin’s (BTC) average network fee according to bitinfocharts.com data shows BTC fees are around 0.00000015 BTC per byte or $3.15 per transaction.
+  </p>
+  
+  <p>
+    The same web portal tracking ethereum (ETH) gas fees notes that to move some ether, it’ll cost around 0.012 ETH or $50.53 per transaction. The data shows that on Saturday morning, ETH fees are 1,504% higher than BTC network fees. Data stemming from the website l2fees.info are a bit more modest in comparison to bitinfocharts.com’s metrics. At the time of writing, to move ethereum it’ll cost $18.45 per transaction.
+  </p>
+  
+  <p>
+    The cost to transfer Ethereum-based tokens and swap tokens via a smart contract is much higher. The transfer of token fee according to l2fees.info on Saturday is $43.13 per transaction and over $94 to swap tokens by interacting with a smart contract. The lowest ether transaction fee of $18.45 is still 485% higher than the average BTC transfer today.
+  </p>
+  
+  <h2>
+    Second-Layer Ether Transaction Costs and Swap Token Fee Estimates
+  </h2>
+  
+  <p>
+    Moving ethereum with a second-layer mechanism like Arbitrum or Polygon Hermez is much cheaper to use than onchain ETH transfers on the main network. At press time, Polygon Hermez-based ether transactions cost around $0.25 per transfer, while Loopring’s Zkrollup L2 solution is $0.74. Zksync will cost a user $1.03 per send and leveraging Arbitrum One is around $4.21. The EVM-compatible Optimistic Rollup chain Optimism’s fees today are $4.31 per transaction.
+  </p>
+  
+  <p>
+    Using Loopring to swap tokens on Saturday is also cheaper than the $94 average cost using Ethereum’s mainnet. Loopring’s swap tokens cost is $1.07, Optimism’s fee to swap tokens is $5.54, and Arbitrum fees to swap tokens can cost $7.29 according to today’s metrics hosted on l2fees.info. As ETH has reached an all-time high, onchain fees are higher than usual following the Altair upgrade, which preps Ethereum for the next proof-of-stake (PoS) transition.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Ethereum network fees rising in recent times? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

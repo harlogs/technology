@@ -1,0 +1,87 @@
+---
+title: Ethereum Might Dethrone Bitcoin as Best Crypto Store of Value, Study Argues
+author: willmeet22
+type: post
+date: 2021-12-04T10:03:51+00:00
+url: /ethereum-might-dethrone-bitcoin-as-best-crypto-store-of-value-study-argues/
+image: "/img/posts/2021/12/shutterstock_792759910-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 1
+wpil_links_outbound_internal_count_data:
+  - 'a:1:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-04T10:03:53+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/ethereum-might-dethrone-bitcoin-as-best-crypto-store-of-value-study-argues/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/shutterstock_792759910.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Ethereum" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>A recent paper authored by members of several universities, including Sydney and Macquarie, argues that recent changes in Ethereum monetary policy are making it a better store of value than bitcoin. The deflationary effect that the EIP-1559 proposal has caused in the issuance of the currency is said to be the main cause of this. </strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Ethereum in the Spotlight
+  </h2>
+  
+  <p>
+    A new paper released by members of Australian universities last month is putting the spotlight on Ethereum and its possible future as a store of value. The paper, titled “Better than Bitcoin? Can cryptocurrencies beat inflation?,” is authored by Ester Félez-Viñas of the University of Technology in Sydney and other academics, and compares the issuance of Bitcoin with the new issuance model of Ethereum, that is making the currency deflationary.
+  </p>
+  
+  <p>
+    The paper states:
+  </p>
+  
+  <blockquote>
+    <p>
+      We show that following the recent change in its transactions protocol, the digital currency Ethereum displays a significantly lower net issuance rate of tokens than Bitcoin, achieved by destroying the fees<br />associated with each transaction.
+    </p>
+  </blockquote>
+  
+  <p>
+    This has to do with the activation of EIP-1559, a proposal that burns Ethereum in a proportional way to the usage of the network. While this proposal had some opposition when it was presented — mainly from miners and mining pools — it is now contributing to this new appreciation of Ethereum as a possibly deflationary currency in the future.
+  </p>
+  
+  <h2 style="text-align: center;">
+    Burning Fees
+  </h2>
+  
+  <p>
+    The implementation of EIP-1559 has caused the network to burn a significant amount of Ethereum in fees. This change has led to more than one million ETH being put out of circulation after just three months of its implementation on mainnet. Regarding this, the study remarks:
+  </p>
+  
+  <blockquote>
+    <p>
+      In many cases the amount of Ethereum burned outpaces the network’s creation of new tokens, resulting in Ethereum potentially becoming the world’s first deflationary currency. We argue that this provides better inflationary hedging properties than Bitcoin, and Ether may therefore offer a superior long-term value storage than Bitcoin.
+    </p>
+  </blockquote>
+  
+  <p>
+    Other <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a> projects are adopting similar burning schemes hoping to recreate the same effect. Binance coin recently activated an update to its network that also implemented fee burning. However, Binance coin and Ethereum are fundamentally different: The latter has no cap on its issuance, while Binance coin does have a hard issuance cap.
+  </p>
+  
+  <p>
+    <strong><em>What do you think about the “Better than Bitcoin? Can cryptocurrencies beat inflation?” paper and its conclusions? Tell us in the comments section below. </em></strong>
+  </p>
+</div>

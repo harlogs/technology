@@ -1,0 +1,85 @@
+---
+title: Cream Finance Suffers $130 Million Hack
+author: willmeet22
+type: post
+date: 2021-10-29T09:04:32+00:00
+url: /cream-finance-suffers-130-million-hack/
+image: "/img/posts/2021/10/shutterstock_578912143-1-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-29T09:04:33+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/cream-finance-suffers-130-million-hack/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/shutterstock_578912143-1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="cream" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>Ethereum defi protocol Cream Finance suffered an exploit yesterday that allowed attackers to steal $130 million from its holdings. The news was first revealed by Peckshield, a blockchain analytics company that discovered a flash loan had exploited the platform. This is the third hack the protocol has suffered in its history, being exploited for $36 and $29 million before, respectively.</strong>
+  </p>
+  
+  <h2 style="text-align: center;">
+    Cream Finance Hacked Yet Again
+  </h2>
+  
+  <p>
+    Cream Finance, an Ethereum-based lending and borrowing protocol, suffered an exploit that allowed the hackers to steal $130 million worth of ether and ERC-20 tokens. According to Slowmist, a blockchain security organization, the attack netted 2,760.22 ether and 60 tokens including HBTC, USDT, BUSD, and others. The attack was perpetrated in the form of a series of flash loans in a very unorthodox way, which has led some to think the hacker was an experienced defi developer.
+  </p>
+  
+  <p>
+    Another blockchain security firm, Peckshield, broke the news, linking to the flash loan that caused the hack via Twitter. The firm supposed the attack was possible due to a bug in a price oracle. The Cream team quickly acknowledged the situation, informing users about the hack. They also stated:
+  </p>
+  
+  <blockquote>
+    <p>
+      With the help of friends from Yearn Finance and others in the community, we were able to identify the vulnerabilities and patch them. In the meantime, we’ve paused our v1 lending markets on Ethereum and we’re in the process of putting together a post-mortem review.
+    </p>
+  </blockquote>
+  
+  <h2 style="text-align: center;">
+    Suspicious Circumstances
+  </h2>
+  
+  <p>
+    The Cream Finance team has since been trying to communicate with the hackers, offering to give them 10% of all the tokens that were lost. This is a known strategy that has paid off for some protocols that have been exploited in the past. Still, no response has been received.
+  </p>
+  
+  <p>
+    The exploit transaction carries an enigmatic message that seems to point in the direction of this being a directed action against the protocol. The message, that also mentioned other protocols, stated:
+  </p>
+  
+  <blockquote>
+    <p style="text-align: center;">
+      gÃTµ Baave lucky, iron bank lucky, cream not. ydev : incest bad, dont do.
+    </p>
+  </blockquote>
+  
+  <p>
+    This is not the first time that Cream has been exploited. The protocol has a rather bad record, having been exploited three times during this year. The first time, in February, the protocol’s Iron Bank lost $36 million in another flash loan attack. After that event, Cream Finance was hacked again in August, when an exploit caused losses of $29 million.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about Cream Finance’s last exploit and the strange circumstances that surround it? Tell us in the comments section below.</strong></em>
+  </p>
+</div>

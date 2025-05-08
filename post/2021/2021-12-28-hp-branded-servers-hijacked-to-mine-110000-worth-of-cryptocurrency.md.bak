@@ -1,0 +1,79 @@
+---
+title: HP-Branded Servers Hijacked to Mine $110,000 Worth of Cryptocurrency
+author: willmeet22
+type: post
+date: 2021-12-28T13:04:07+00:00
+url: /hp-branded-servers-hijacked-to-mine-110000-worth-of-cryptocurrency/
+image: "/img/posts/2021/12/shutterstock_1830673907-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count:
+  - 3
+wpil_links_outbound_internal_count_data:
+  - 'a:3:{i:0;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";O:15:"Wpil_Model_Post":7:{s:2:"id";i:2;s:5:"title";N;s:4:"type";s:4:"term";s:6:"status";N;s:7:"content";N;s:5:"links";N;s:4:"slug";N;}s:6:"anchor";s:14:"cryptocurrency";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:1;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}i:2;O:15:"Wpil_Model_Link":7:{s:3:"url";s:42:"https://technologymanias.com/category/news";s:4:"host";s:20:"technologymanias.com";s:8:"internal";b:1;s:4:"post";r:6;s:6:"anchor";s:6:"crypto";s:15:"added_by_plugin";b:0;s:8:"location";s:7:"content";}}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-12-28T13:04:09+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/hp-branded-servers-hijacked-to-mine-110000-worth-of-cryptocurrency/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/12/shutterstock_1830673907.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="HP" loading="lazy" style="float:left;margin:0 15px 15px 0" /></p> 
+  
+  <p>
+    <strong>Hackers recently took control of a group of HP-branded servers and used them to remotely mine a cryptocurrency called raptoreum, according to reports. This resulted in the compromised cluster of HP machines becoming the biggest contributor to the total mining pool of the cryptocurrency, allowing attackers to rake in $110,000 worth. The coins are said to have been mined between December 9 and December 17.</strong>
+  </p>
+  
+  <h2 style="text-align: center">
+    HP Servers Suffer Cryptojacking Attack
+  </h2>
+  
+  <p>
+    A group of HP servers operating for an undisclosed company was attacked by hackers that managed to take control of the hardware and repurpose it to mine <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="cryptocurrency">cryptocurrency</a>. The <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> chosen by the hackers was called raptoreum, a coin in the top 1,000 by market cap that takes advantage of an algorithm called Ghostrider, blending PoW (proof-of-work) and PoS (proof-of-stake) consensus mechanisms.
+  </p>
+  
+  <p>
+    The server cluster started mining raptoreum on December 9, and at the time, it provided more hash power than all other parties combined on the Raptoreum blockchain. This allowed the attackers to rake in more than $110,000 worth of raptoreum in the period between December 9 and December 17.
+  </p>
+  
+  <p>
+    The server group disappeared from the Raptoreun network on December 17, an indication that they could have been patched to eliminate the threat after it was detected.
+  </p>
+  
+  <h2 style="text-align: center">
+    Log4j Leveraged
+  </h2>
+  
+  <p>
+    The attack used a recently discovered vulnerability called Log4shell, which allows attackers to gain control of a system remotely. Log4shell uses Log4j, which is a registry library used widely in Apache-based systems. This vulnerability was discovered in early December, and in this case, it was leveraged to pass the execution of a <a class="wpil_keyword_link" href="https://technologymanias.com/category/news" title="crypto">crypto</a> mining software.
+  </p>
+  
+  <p>
+    The vulnerability has been classified as critical by its discoverers due to how common its utilization is, even when it comes to massive operations like Microsoft and IBM. While the software has been patched in some of its implementations, investigators are still discovering new ways in which it can be leveraged. It was recently discovered that the software is also vulnerable to local attacks, meaning that the servers can be executing code remotely without being connected to the internet.
+  </p>
+  
+  <p>
+    During the first half of this year, cryptojacking attacks have decreased for the first time since 2018, according to a report titled “Cloud Thread Report,” issued by Unit 42, a security consulting firm. However, in a follow-up report, the firm also found that 63% of third-party code templates used in building cloud infrastructure contained insecure configurations that could lead to losing control of the hardware.
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the attack on HP-branded servers to mine raptoreum? Tell us in the comments section below. </strong></em>
+  </p>
+</div>

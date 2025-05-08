@@ -1,0 +1,97 @@
+---
+title: 'Deep Web Confusion: Ostensible Alphabay Admin ‘Desnake’ Claims the Darknet Market Has Returned'
+author: willmeet22
+type: post
+date: 2021-10-14T22:04:46+00:00
+url: /deep-web-confusion-ostensible-alphabay-admin-desnake-claims-the-darknet-market-has-returned/
+image: "/img/posts/2021/10/abreturns-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-10-14T22:04:46+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/deep-web-confusion-ostensible-alphabay-admin-desnake-claims-the-darknet-market-has-returned/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/10/abreturns.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Deep Web Confusion: Ostensible Alphabay Admin 'Desnake' Claims the Darknet Market Has Returned" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>In mid-July 2017, the largest darknet marketplace (DNM) Alphabay went dark and patrons didn’t know if the administrators were busted by law enforcement or if it was an exit scam. Not too long after the site went dark, law enforcement disclosed that an organized police task force, from various jurisdictions, infiltrated Alphabay alongside the DNM Hansa. Thailand police also arrested Alexandre Cazes, the alleged administrator for the Alphabay marketplace. Now over four years later, Alphabay (AB) has allegedly returned as the original AB admin “Desnake” has ostensibly ‘proven control’ over the AB administrators’ PGP key.</strong>
+  </p>
+  
+  <h2>
+    The So-Called Return of the Alphabay, New Platform Unstable, Veracity of Desnake’s PGP Key Questionable
+  </h2>
+  
+  <p>
+    During the last few weeks, darknet marketplace (DNM) users, researchers, and observers have been discussing the so-called return of the Alphabay (AB) marketplace. The DNM was the largest darknet market in 2017, and before the publication Deepdotweb was seized, it had shown that AB had a 96% approval rating. When the site went dark that summer four years ago, thousands of AB users flocked to both Hansa and Dream DNMs. Little did Hansa users know the market had been seized by international law enforcement.
+  </p>
+  
+  <p>
+    Netherlands Police and the Public Prosecutor’s Office dismantled Hansa in early June and basically operated the DNM, while users flocked to Hansa after AB went down. While operating Hansa, law enforcement collected lots of information on vendors and frequent patrons who leveraged the DNM and seized thousands of bitcoins. Then there was the so-called AB Kingpin Alexandre Cazes who was arrested by Thailand police. It was assumed, that Cazes was or played the role of the AB administrator dubbed “Desnake.” However, Cazes was found dead in his cell after his arrest in Thailand.
+  </p>
+  
+  <p>
+    Fast forward to today, Hansa is gone and the DNM Dream’s administrators decided to close down the shop. In August 2021, visitors who utilize the Dread forum noted the appearance of “Desnake” resurfacing. Desnake also ostensibly proved its identity by leveraging the account’s historical PGP key. Reportedly, a former AB moderator called “disc0” vouched for Desnake as well. The researchers at darkowl.com published an in-depth report of findings tied to the alleged Desnake’s return and how the user promoted the newly launched Alphabay DNM “with services hosted on both Tor and I2P.”
+  </p>
+  
+  <p>
+    Darkowl notes that the new AB has been “unstable” since it returned, and users experience “frequent 503 errors, user registration issues, and login timeouts.” I2P services tethered to the new AB rarely loads and Darkowl claims the AB user base is much smaller than what Desnake has been boasting.
+  </p>
+  
+  <p>
+    “Desnake claims there have been 15,000 user accounts created, 450 vendors registered, and over 400 listings published as of the time of writing,” Darkowl’s report finds.
+  </p>
+  
+  <h2>
+    Darkowl Report Says New Alphabay Moderators Speak With ‘Impeccable English,’ Deep Web and Tor Researcher Dark.Fail Comments the Alleged Return
+  </h2>
+  
+  <p>
+    Darkowl researchers also suspect that it is possible the AB service on Tor is hosted “alongside Dread services.” This is because the newly launched AB features similar DDoS protection and clock-captcha services as Dread. The in-depth findings Darkowl discovers further show the new AB marketplace is moderated by three individuals dubbed: “TheCypriot,” “tempest,” and “wxmaz.”
+  </p>
+  
+  <p>
+    “All of the moderators speak very formally with impeccable English and gush with unbridled passion about the need for a new concept of decentralized marketplaces, the complex tradeoffs and advantages of peer-to-peer networks, and a deep desire to establish a greater sense of community,” Darkowl’s report notes. “Desnake’s posts are particularly “wordy” with extensive lengthy posts on Dread and the market’s About and FAQ section,” the report adds.
+  </p>
+  
+  <p>
+    In addition to Darkowl’s report, the anonymous journalist and researcher known as “dark.fail” (@darkdotfail) tweeted about the return of the so-called Alphabay and gave a warning. “Alphabay, a #1 darknet market seized by law enforcement four years ago, recently returned,” dark.fail said on Thursday. “Desnake proved their control of [an] old PGP key, an original site admin. Many naive people are trusting it. We’ll see how this plays out. [Law enforcement] can seize PGP private keys just like anything else,” the researcher added.
+  </p>
+  
+  <p>
+    The ostensible return of AB follows the recent White House marketplace retirement announcement which stresses that another White House marketplace will not return in the future. Oftentimes, malicious entities like to create phony DNMs with the names of legendary markets in order to gain more trust from the community. White House was a monero (XMR)-only accepting DNM, and screenshots indicate that the new Alphabay features monero acceptance as well.
+  </p>
+  
+  <p>
+    Moreover, what if law enforcement (LE) officials are using the AB PGP keys to lure in unsuspecting victims in a similar fashion to the way Hansa was seized? There are many instances throughout history that show global LE has worked undercover to catch bigger fish. In the Hansa case, Dutch LE officers with partners from Germany, Lithuania, the U.S., and Europol infiltrated Hansa from the inside for more than a month collecting information on every participant.
+  </p>
+  
+  <p>
+    “A total of more than 1,000 bitcoins have been seized,” the Netherlands prosecutor’s office detailed. “On average, 1000 orders were made per day in response to some 40,000 ads. The marketplace counted 1,765 different sellers. Since the acquisition of Hansa Market’s management, more than 50,000 transactions have been counted, especially for soft and hard drugs.”
+  </p>
+  
+  <p>
+    <em><strong>What do you think about the so-called return of Alphabay and the veracity of the Desnake PGP key? Let us know what you think about this subject in the comments section below.</strong></em>
+  </p>
+</div>

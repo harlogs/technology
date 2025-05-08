@@ -1,0 +1,161 @@
+---
+title: 'Gavin Andresen Publishes Theory of Possible Crypto Future: Whales Shut Down the BTC Network in the Year 2100'
+author: willmeet22
+type: post
+date: 2021-09-24T19:00:52+00:00
+url: /gavin-andresen-publishes-theory-of-possible-crypto-future-whales-shut-down-the-btc-network-in-the-year-2100/
+image: "/img/posts/2021/09/gavin-240x172.jpg"
+response_body:
+  - '{"errors":["Notification sending for this app has been automatically disabled for exceeding the 15-minute recipient rate limit. Please see https://documentation.onesignal.com/docs/disabled-apps for more information and instructions to re-enable your app."]}'
+status:
+  - 429
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2021-09-24T19:00:52+00:00
+wpe_campaignid:
+  - 789
+wpe_feed:
+  - https://news.bitcoin.com/feed/
+wpe_sourcepermalink:
+  - https://news.bitcoin.com/gavin-andresen-publishes-theory-of-possible-crypto-future-whales-shut-down-the-btc-network-in-the-year-2100/
+categories:
+  - Cryptocurrency
+tags:
+  - crypto news
+  - crypto news today
+
+---
+<div>
+  <img decoding="async" width="696" height="392" src="https://technologymanias.com/wp-content/uploads/2021/09/gavin.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" style="float:left; margin:0 15px 15px 0;" /></p> 
+  
+  <p>
+    <strong>On September 21, former Bitcoin developer Gavin Andresen published an interesting blog post about “a possible [Bitcoin] future.” The blog post details a theoretical situation for the Bitcoin network in 2061, where most [bitcoin] transactions don’t happen on the [Bitcoin] network.</strong>
+  </p>
+  
+  <h2>
+    A Theoretical Look at $6 Million Dollars per Bitcoin and the Year 2061
+  </h2>
+  
+  <p>
+    Following Satoshi Nakamoto’s departure from Bitcoin in 2010, for a few years, Gavin Andresen was considered the software’s lead maintainer after Nakamoto left him the keys. In 2011, Bitcoin developer Mike Hearn also claims he received an email from Satoshi which said that the blockchain inventor “moved on to other things” but also added, “It’s in good hands with Gavin and everyone.” However, Andresen is not the lead maintainer anymore, and has not been an active Bitcoin Core developer in years.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Censored on Reddit r/bitcoin (I think, but maybe I’m just not looking in the right place)
+    </p>
+    
+    <p>
+      — Gavin Andresen (@gavinandresen) September 22, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    In the past, Bitcoin.com News covered Andresen’s opinion concerning Ethereum’s Tornado mixing protocol and wallet privacy in general. Andresen also discussed the Bitcoin Cash (BCH) network in January 2018 in a proposal he wrote called “Storing the UTXO as a bit-vector.” In more recent times, after the Tornado mixing blog post, Andresen shared his opinion in a blog post called: “It’s not about the tech (yet?)” Then, on September 21, 2021, Andresen once again has something to say about the Bitcoin (BTC) network.
+  </p>
+  
+  <p>
+    The former Bitcoin Core developer said that people should “take this as a little piece of science fiction,” however, he further added, “of all the possible futures I think this has as good a chance of any of happening.”
+  </p>
+  
+  <p>
+    “Imagine: it is the year 2061,” Andresen writes in his latest blog post. “The BTC price is six million US dollars– equal to about a million 2021 dollars because of inflation. Miners are being rewarded 0.006103515625 BTC per block, plus transaction fees of about 5 BTC for 4,000 or so transactions ($7,500 per transaction). But most BTC transactions don’t happen on the BTC network. Most BTC is locked up in multisignature outputs secured using multiparty computation and mirrored on another chain as ‘wrapped’ tokens,” Andresen adds. The blog post further stresses:
+  </p>
+  
+  <blockquote>
+    <p>
+      People moved their BTC either because they want faster transactions, lower fees, more privacy, or want to invest their BTC in decentralized financial stuff. Or maybe all of the above. The transactions that do occur on the main BTC network are high-value, mostly between super-whale-size holders (centralized exchanges, central banks, and the decentralized multiparty computation addresses that hold all the wrapped coins).
+    </p>
+  </blockquote>
+  
+  <h2>
+    Andresen: ‘The Possibility of Zero Bitcoin Circulating on the Bitcoin Network’
+  </h2>
+  
+  <p>
+    Andresen’s theory could very well happen and there currently is a lot of wrapped or synthetic bitcoin (BTC) being used on other blockchains. Dune Analytics shows the number of BTC leveraged via Ethereum is 269,642 BTC across seven different projects. The Wrapped Bitcoin (WBTC) project commands an aggregate total of 205,921 of those coins at the time of writing. Andresen continues his theoretical post by saying the super whales take hold of the network forever.
+  </p>
+  
+  <p>
+    “These whales maintain the BTC network forever,” Andresen writes. “They are the miners and the transaction creators; they don’t care how high transaction fees go, because they receive as many fees as they pay. In the year 2100, the whales notice that the mining reward is basically zero, and there are fewer and fewer transactions happening on the slow, expensive, zero-privacy BTC network. So they decide to simplify and save money by shutting it down,” the former Bitcoin developer adds. Andresen’s blog post goes on:
+  </p>
+  
+  <blockquote>
+    <p>
+      One by one, they shutdown the ‘bridges’ that move BTC between chains. Then they burn any BTC locked on the BTC chain by sending it to the 0x000… address, to make sure nobody can ever spend it on the BTC network. Eventually, there are zero new BTC being produced on the BTC network, and zero BTC circulating on the BTC network. There is nothing left to secure, and the chain stops.
+    </p>
+  </blockquote>
+  
+  <h2>
+    Are Sidechains Competitors or Will They Help Bitcoin Scale?
+  </h2>
+  
+  <p>
+    Andresen concludes that roughly “20-or-so million BTC” will circulate on other blockchain networks. “Valuable because there are a limited number of them and because BTC was the first scarce digital asset,” Andresen deduces at the end of his blog post. Interestingly, the topic is being discussed in recent times, but not necessarily stemming from Andresen’s blog post.
+  </p>
+  
+  <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+    <p lang="en" dir="ltr">
+      By not actually settling anything in a discrete way.
+    </p>
+    
+    <p>
+      I am not attacking Bitcoin, I am attacking Bitcoin misconceptions.
+    </p>
+    
+    <p>
+      Don&#8217;t be upset, learn.
+    </p>
+    
+    <p>
+      — John Carvalho (@BitcoinErrorLog) September 24, 2021
+    </p>
+  </blockquote>
+  
+  <p>
+    For instance, on September 24, the bitcoin pundit John Carvalho, otherwise known as “bitcoinerrorlog,” said: “Good morning, sidechains compete with Bitcoin, not scale it. (They also don’t actually exist.)” Carvalho followed up his tweet with the following opinions:
+  </p>
+  
+  <ul>
+    <li aria-level="1">
+      The original idea and design of a two-way peg was never achieved
+    </li>
+    <li aria-level="1">
+      They should be called anchorchains or something
+    </li>
+    <li aria-level="1">
+      They are like shitcoins that compete for transactions instead of as money.
+    </li>
+    <li aria-level="1">
+      They do not reduce sh**coin usage
+    </li>
+    <li aria-level="1">
+      They are not ‘on’ Bitcoin
+    </li>
+  </ul>
+  
+  <p>
+    Although, not everyone agreed with Carvalho’s opinion about sidechains. The bitcoin (BTC) proponent John Light shared his opinion about Carvalho’s statements:
+  </p>
+  
+  <p>
+    “Good morning, sidechains that use BTC as the native asset and pay bitcoin miners for security don’t compete with bitcoin,” Light tweeted in response. “Even if sidechains that use BTC as the native asset didn’t pay bitcoin miners for security, they would be no less competing with bitcoin than, say, Lightning which siphons fees away from miners to LN routing nodes,” Light added in his Twitter thread. Light also shared a paper called “Scaling bitcoin with sidechains” and concluded:
+  </p>
+  
+  <blockquote>
+    <p>
+      Sidechains also help scale bitcoin.
+    </p>
+  </blockquote>
+  
+  <p>
+    <em><strong>What do you think about Gavin Andresen’s recent theoretical blog post about the Bitcoin network in the future? What do you think about the conversation between the bitcoin proponents John Carvalho and John Light? Let us know what you think about this subject in the comments section below. </strong></em>
+  </p>
+</div>
