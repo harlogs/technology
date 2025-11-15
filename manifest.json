@@ -1,16 +1,23 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "YouTube Auto Multi Open",
   "version": "1.0",
   "description": "Opens 10 YouTube windows with loop, 0.25 speed, and 144p.",
   "permissions": [
     "tabs",
-    "scripting"
+    "*://*.youtube.com/*"
   ],
   "background": {
-    "service_worker": "background.js"
+    "scripts": ["background.js"]
   },
-  "host_permissions": [
-    "*://*.youtube.com/*"
+  "browser_action": {
+    "default_title": "Open 10 YouTube Windows"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["injector.js"],
+      "run_at": "document_idle"
+    }
   ]
 }
