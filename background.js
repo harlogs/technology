@@ -1,95 +1,77 @@
 const YT_URL = "https://www.youtube.com/watch?v=XvZc34GM-WM";
-let createdTabs = [];
+let windowIds = [];
+let tabIds = [];
 
-// OPEN 10 YOUTUBE TABS
-async function openTabsAndInject() {
+// Open 10 SEPARATE WINDOWS
+async function openWindowsAndInject() {
   for (let i = 0; i < 10; i++) {
-    let tab = await chrome.tabs.create({
+    let newWindow = await chrome.windows.create({
       url: YT_URL,
-      active: i === 0
+      focused: i === 0
     });
 
-    createdTabs.push(tab.id);
-    console.log(`Created Tab ${i + 1}: ${tab.url}`);
+    let winId = newWindow.id;
+    let tabId = newWindow.tabs[0].id;
 
+    windowIds.push(winId);
+    tabIds.push(tabId);
+
+    console.log(`Created Window ${i + 1} with Tab ${tabId}`);
+
+    // Inject YouTube control script
     setTimeout(() => {
       chrome.scripting.executeScript({
-        target: { tabId: tab.id },
+        target: { tabId: tabId },
         files: ["injector.js"]
-      });
+      }).catch(err => console.log("Inject error:", err));
     }, 5000);
   }
 }
 
-// --- TAB SWITCHING + LOGGING ---
-let currentIndex = 0;
+// LOG VIDEO STATUS FOR ALL WINDOWS (MANUAL CALL)
+function logAllStatus() {
+  tabIds.forEach((tabId, index) => {
+    chrome.scripting.executeScript(
+      {
+        target: { tabId: tabId },
+        func: () => {
+          const video = document.querySelector("video");
+          if (!video) return { status: "NO VIDEO", url: location.href };
 
-function switchTabs() {
-  if (!createdTabs.length) return;
+          const player = document.getElementById("movie_player");
 
-  const tabId = createdTabs[currentIndex];
-
-  chrome.tabs.update(tabId, { active: true });
-
-  chrome.scripting.executeScript(
-    {
-      target: { tabId: tabId },
-      func: () => {
-        const video = document.querySelector("video");
-
-        if (!video) {
           return {
-            status: "NO VIDEO FOUND",
+            playing: !video.paused,
+            speed: video.playbackRate,
+            loop: video.loop,
+            currentTime: video.currentTime.toFixed(1),
+            duration: video.duration.toFixed(1),
+            quality: player?.getPlaybackQuality?.() || "unknown",
             url: location.href
           };
         }
+      },
+      (result) => {
+        if (!result || !result[0]) return;
+        const d = result[0].result;
 
-        // Try to detect quality
-        let quality = "unknown";
-        const player = window.ytplayer?.config?.args;
-        if (player?.adaptive_fmts) {
-          const list = player.adaptive_fmts.split(",");
-          if (list.length > 0) {
-            const first = list[0];
-            const itagMatch = first.match(/itag=(\d+)/);
-            if (itagMatch) quality = itagMatch[1];
-          }
-        }
-
-        return {
-          playing: !video.paused,
-          speed: video.playbackRate,
-          loop: video.loop,
-          currentTime: video.currentTime.toFixed(1),
-          duration: video.duration.toFixed(1),
-          quality,
-          url: location.href
-        };
+        console.log(
+`=== WINDOW ${index + 1} ===
+URL: ${d.url}
+Playing: ${d.playing}
+Speed: ${d.speed}
+Loop: ${d.loop}
+Time: ${d.currentTime} / ${d.duration}
+Quality: ${d.quality}
+===========================`
+        );
       }
-    },
-    (result) => {
-      if (!result || !result[0]) return;
-
-      const data = result[0].result;
-
-      console.log(
-        `\n=== TAB ${currentIndex + 1} ===\n` +
-        `URL: ${data.url}\n` +
-        `Playing: ${data.playing}\n` +
-        `Speed: ${data.speed}\n` +
-        `Loop: ${data.loop}\n` +
-        `Time: ${data.currentTime} / ${data.duration}\n` +
-        `Quality (itag): ${data.quality}\n` +
-        `===========================\n`
-      );
-    }
-  );
-
-  currentIndex = (currentIndex + 1) % createdTabs.length;
+    );
+  });
 }
 
-// Start Process
-openTabsAndInject();
+// Start: Open windows + inject script
+openWindowsAndInject();
 
-// Run every 1 minute
-setInterval(switchTabs, 60000);
+// You can manually call this from console:
+// logAllStatus();
