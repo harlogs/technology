@@ -1,5 +1,1 @@
 User-agent: *
-Allow: /
-
-# Sitemap declaration
-Sitemap: https://www.technologymanias.com/sitemap.xml
