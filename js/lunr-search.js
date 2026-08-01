@@ -1,194 +1,232 @@
-window.addEventListener("DOMContentLoaded", function(indexUrl) {
-  let index = null;
-  let lookup = null;
-  let queuedTerm = null;
-  let queuedDoNotAddState = false;
-  let origContent = null;
+(function(indexUrl) {
+  window.addEventListener("DOMContentLoaded", function() {
+    let index = null;
+    let lookup = null;
+    let queuedTerm = null;
 
-  const form = document.getElementById("search");
-  const input = document.getElementById("search-input");
-
-  form.addEventListener("submit", function(event) {
-    event.preventDefault();
-
-    let term = input.value.trim();
-    if (!term) {
+    const form = document.getElementById("search");
+    const input = document.getElementById("search-input");
+    const panel = document.getElementById("search-results");
+    if (!form || !input || !panel) {
       return;
     }
-    startSearch(term, false);
-  }, false);
 
-  if (history.state && history.state.type == "search") {
-    startSearch(history.state.term, true);
-  }
+    let activeItem = -1;
+    let items = [];
 
-  window.addEventListener("popstate", function(event) {
-    if (event.state && event.state.type == "search") {
-      startSearch(event.state.term, true);
+    function hidePanel() {
+      panel.hidden = true;
+      activeItem = -1;
     }
-    else if (origContent) {
-      let target = document.querySelector(".container[role=main]");
-      while (target.firstChild) {
-        target.removeChild(target.firstChild);
-      }
 
-      for (let node of origContent) {
-        target.appendChild(node);
-      }
-      origContent = null;
+    function showPanel() {
+      panel.hidden = false;
     }
-  }, false);
 
-  function startSearch(term, doNotAddState) {
-    input.value = term;
-    form.setAttribute("data-running", "true");
-    if (index) {
-      search(term, doNotAddState);
-    }
-    else if (queuedTerm) {
-      queuedTerm = term;
-      queuedDoNotAddState = doNotAddState;
-    }
-    else {
-      queuedTerm = term;
-      queuedDoNotAddState = doNotAddState;
-      initIndex();
-    }
-  }
+    function render(term, results) {
+      panel.textContent = "";
+      items = [];
 
-  function searchDone() {
-    form.removeAttribute("data-running");
-
-    queuedTerm = null;
-    queuedDoNotAddState = false;
-  }
-
-  function initIndex() {
-    let request = new XMLHttpRequest();
-    request.open("GET", indexUrl);
-    request.responseType = "json";
-    request.addEventListener("load", function(event) {
-      let documents = request.response;
-      if (!documents)
-      {
-        console.error("Search index could not be downloaded.");
-        searchDone();
+      if (!results.length) {
+        const empty = document.createElement("div");
+        empty.className = "search-drop-empty";
+        empty.textContent = 'No results for "' + term + '"';
+        panel.appendChild(empty);
+        showPanel();
         return;
       }
 
-      lookup = {};
-      index = lunr(function() {
-        const language = document.documentElement.getAttribute("lang") || "en";
-        if (language.length > 2)
-          language = language.slice(0, 2);
-        if (language != "en" && lunr.hasOwnProperty(language)) {
-          this.use(lunr[language]);
+      results.slice(0, 10).forEach(function(result) {
+        const doc = lookup[result.ref];
+        if (!doc) {
+          return;
         }
+        const a = document.createElement("a");
+        a.className = "search-drop-item";
+        a.href = doc.uri;
 
-        this.ref("uri");
-        this.field("title");
-        this.field("subtitle");
-        this.field("content");
-        this.field("description");
-        this.field("categories");
-        this.field("tags");
+        const icon = document.createElement("span");
+        icon.className = "search-drop-icon";
+        const iconI = document.createElement("i");
+        iconI.className = "bi bi-" + (doc.icon || "gear");
+        icon.appendChild(iconI);
 
-        for (let document of documents) {
-          this.add(document);
-          lookup[document.uri] = document;
-        }
+        const body = document.createElement("span");
+        body.className = "search-drop-body";
+
+        const title = document.createElement("span");
+        title.className = "search-drop-title";
+        title.textContent = doc.title;
+
+        const snippet = document.createElement("span");
+        snippet.className = "search-drop-snippet";
+        snippet.textContent = doc.description || doc.subtitle || truncateToEndOfSentence(doc.content, 18);
+
+        body.appendChild(title);
+        body.appendChild(snippet);
+        a.appendChild(icon);
+        a.appendChild(body);
+        panel.appendChild(a);
+        items.push(a);
       });
+      showPanel();
+    }
 
-      search(queuedTerm, queuedDoNotAddState);
+    function doSearch(term) {
+      let results = [];
+      try {
+        results = index.search(term);
+      } catch (e) {
+        results = [];
+      }
+      render(term, results);
+    }
+
+    function startSearch(term) {
+      if (index) {
+        doSearch(term);
+      } else if (queuedTerm) {
+        queuedTerm = term;
+      } else {
+        queuedTerm = term;
+        initIndex();
+      }
+    }
+
+    function initIndex() {
+      const request = new XMLHttpRequest();
+      request.open("GET", indexUrl);
+      request.responseType = "json";
+      request.addEventListener("load", function() {
+        const documents = request.response;
+        if (!documents) {
+          return;
+        }
+        lookup = {};
+        index = lunr(function() {
+          this.ref("uri");
+          this.field("title", { boost: 10 });
+          this.field("description", { boost: 5 });
+          this.field("subtitle");
+          this.field("content");
+          this.field("categories");
+          this.field("tags");
+          for (const document of documents) {
+            this.add(document);
+            lookup[document.uri] = document;
+          }
+        });
+        if (queuedTerm) {
+          const term = queuedTerm;
+          queuedTerm = null;
+          doSearch(term);
+        }
+      }, false);
+      request.send(null);
+    }
+
+    function setActive(i) {
+      items.forEach(function(item, idx) {
+        item.classList.toggle("active", idx === i);
+      });
+      activeItem = i;
+    }
+
+    function goToResult(i) {
+      if (i >= 0 && i < items.length) {
+        window.location.href = items[i].getAttribute("href");
+      }
+    }
+
+    let timer = null;
+    input.addEventListener("input", function() {
+      clearTimeout(timer);
+      const term = input.value.trim();
+      if (!term || term.length < 2) {
+        hidePanel();
+        return;
+      }
+      timer = setTimeout(function() {
+        startSearch(term);
+      }, 200);
     }, false);
-    request.addEventListener("error", searchDone, false);
-    request.send(null);
-  }
 
-  function search(term, doNotAddState) {
-    try {
-      let results = index.search(term);
+    form.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const term = input.value.trim();
+      if (!term) {
+        return;
+      }
+      startSearch(term);
+      if (items.length === 0 && panel.children.length === 1) {
+        showPanel();
+      }
+    }, false);
 
-      let target = document.querySelector(".container[role=main]");
-      let replaced = [];
-      while (target.firstChild) {
-        replaced.push(target.firstChild);
-        target.removeChild(target.firstChild);
+    input.addEventListener("keydown", function(event) {
+      if (event.key === "Escape") {
+        input.value = "";
+        hidePanel();
+        return;
       }
-      if (!origContent) {
-        origContent = replaced;
+      if (event.key === "Enter") {
+        event.preventDefault();
+        if (activeItem >= 0) {
+          goToResult(activeItem);
+        } else {
+          goToResult(0);
+        }
+        return;
       }
+      if (event.key === "ArrowDown") {
+        event.preventDefault();
+        if (items.length) {
+          setActive(activeItem + 1 < items.length ? activeItem + 1 : 0);
+        }
+        return;
+      }
+      if (event.key === "ArrowUp") {
+        event.preventDefault();
+        if (items.length) {
+          setActive(activeItem - 1 >= 0 ? activeItem - 1 : items.length - 1);
+        }
+      }
+    }, false);
 
-      let titleTemplate = document.getElementById("search-heading");
-      let titleElement = titleTemplate.content.cloneNode(true);
-      // This is an overly simple pluralization scheme, it will only work
-      // for some languages.
+    document.addEventListener("click", function(event) {
+      if (!form.contains(event.target) && !panel.contains(event.target)) {
+        hidePanel();
+      }
+    }, false);
 
-      let title = titleElement.querySelector(".search-title");
-      if (results.length == 0) {
-        title.textContent = titleTemplate.getAttribute("data-results-none").replace("{}", term);
-      }
-      else if (results.length == 1) {
-        title.textContent = titleTemplate.getAttribute("data-results-one").replace("{}", term);
-      }
-      else {
-        title.textContent = titleTemplate.getAttribute("data-results-many").replace("{}", term).replace("13579", results.length);
-      }
-      target.appendChild(titleElement);
-      document.title = title.textContent;
-
-      let template = document.getElementById("search-result");
-      for (let result of results) {
-          let doc = lookup[result.ref];
-
-          let element = template.content.cloneNode(true);
-          element.querySelector(".summary-title-link").href = element.querySelector(".read-more-link").href = doc.uri;
-          element.querySelector(".summary-title-link").textContent = doc.title;
-          element.querySelector(".post-entry").textContent = truncateToEndOfSentence(doc.content, 70);
-          target.appendChild(element);
-      }
-      title.scrollIntoView(true);
-
-      if (!doNotAddState) {
-          history.pushState({type: "search", term: term}, title.textContent, "#search=" + encodeURIComponent(term));
-      }
-
-      let menuToggler = document.querySelector(".navbar-toggler");
-      if (menuToggler && !menuToggler.classList.contains("collapsed")) {
-        menuToggler.click();
-      }
+    const urlQ = new URLSearchParams(window.location.search).get("q");
+    if (urlQ && urlQ.trim()) {
+      input.value = urlQ;
+      startSearch(urlQ.trim());
+      showPanel();
     }
-    finally {
-      searchDone();
-    }
-  }
 
-  // This matches Hugo's own summary logic:
-  // https://github.com/gohugoio/hugo/blob/b5f39d23b86f9cb83c51da9fe4abb4c19c01c3b7/helpers/content.go#L543
-  function truncateToEndOfSentence(text, minWords)
-  {
-      let match;
+    function truncateToEndOfSentence(text, minWords) {
       let result = "";
       let wordCount = 0;
-      let regexp = /(\S+)(\s*)/g;
-      while (match = regexp.exec(text)) {
-          wordCount++;
-          if (wordCount <= minWords) {
-              result += match[0];
+      const regexp = /(\S+)(\s*)/g;
+      let match;
+      while ((match = regexp.exec(text))) {
+        wordCount++;
+        if (wordCount <= minWords) {
+          result += match[0];
+        } else {
+          const char1 = match[1][match[1].length - 1];
+          const char2 = match[2][0];
+          if (/[.?!"]/.test(char1) || char2 === "\n") {
+            result += match[1];
+            break;
+          } else {
+            result += match[0];
           }
-          else
-          {
-              let char1 = match[1][match[1].length - 1];
-              let char2 = match[2][0];
-              if (/[.?!"]/.test(char1) || char2 == "\n") {
-                  result += match[1];
-                  break;
-              }
-              else {
-                  result += match[0];
-              }
-          }
+        }
       }
       return result;
-  }
-}.bind(null, document.currentScript.getAttribute("data-index")), {once: true});
+    }
+  }, false);
+})(document.currentScript.getAttribute("data-index"));
