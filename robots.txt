@@ -1,1 +1,5 @@
 User-agent: *
+Disallow: /wp-admin/
+Allow: /
+
+Sitemap: https://www.technologymanias.com/sitemaps.xml
